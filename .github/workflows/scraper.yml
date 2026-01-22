@@ -1,0 +1,75 @@
+name: ChainAbuse Scraper
+
+on:
+  # Manual trigger
+  workflow_dispatch:
+  
+  # Schedule: Run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'  # At minute 0 past every 6th hour (00:00, 06:00, 12:00, 18:00 UTC)
+
+jobs:
+  scrape-and-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hours max
+    
+    steps:
+      # 1. Checkout code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # 2. Setup Python
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      # 3. Install Python dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # 4. Install Playwright browsers
+      - name: Install Playwright
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
+      
+      # 5. Run scraper with Drive credentials
+      - name: Run scraper
+        env:
+          GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
+          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+        run: python scraper.py
+      
+      # 6. Upload final results to Google Drive
+      - name: Upload final results to Google Drive
+        if: success()
+        uses: Jumbo810/Upload_Github_Artifacts_TO_GDrive@v2.3.1
+        with:
+          target: "output/"
+          credentials: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
+          parent_folder_id: ${{ secrets.DRIVE_FOLDER_ID }}
+          name: "scraper-results-${{ github.run_number }}"
+      
+      # 7. Upload to GitHub Artifacts (backup)
+      - name: Upload GitHub Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-backup-${{ github.run_number }}
+          path: |
+            output/
+          retention-days: 30
+      
+      # 8. Commit results to repo (optional)
+      - name: Commit results
+        if: success()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/ || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Scraper results - $(date +'%Y-%m-%d %H:%M')"
+          git push || true
