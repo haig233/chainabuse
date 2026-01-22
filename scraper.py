@@ -1,7 +1,7 @@
 # ============================================
 # CHAINABUSE SCRAPER
 # Works in both Google Colab and GitHub Actions
-# GitHub Actions: Files saved to GitHub Artifacts
+# GitHub Actions: Files committed to repo every 250 URLs
 # Google Colab: Files saved to Google Drive
 # ============================================
 
@@ -37,6 +37,47 @@ import time
 import pandas as pd
 from datetime import datetime
 import random
+import subprocess
+
+# ============================================
+# GIT COMMIT FUNCTION
+# ============================================
+
+def commit_to_git():
+    """Commit current progress to Git (GitHub Actions only)"""
+    if IS_COLAB:
+        return  # Skip in Colab
+    
+    try:
+        # Configure git
+        subprocess.run(['git', 'config', 'user.name', 'GitHub Action'], check=True, capture_output=True)
+        subprocess.run(['git', 'config', 'user.email', 'action@github.com'], check=True, capture_output=True)
+        
+        # Add files
+        subprocess.run(['git', 'add', 'output/'], check=True, capture_output=True)
+        
+        # Check if there are changes to commit
+        status = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
+        if not status.stdout.strip():
+            print("  📝 No changes to commit")
+            return
+        
+        # Commit
+        commit_msg = f'📦 Checkpoint - {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}'
+        result = subprocess.run(['git', 'commit', '-m', commit_msg], capture_output=True, text=True)
+        
+        if result.returncode == 0:
+            # Push
+            push_result = subprocess.run(['git', 'push'], capture_output=True, text=True)
+            if push_result.returncode == 0:
+                print("  📤 Pushed to GitHub successfully")
+            else:
+                print(f"  ⚠️  Push failed: {push_result.stderr}")
+        else:
+            print(f"  ⚠️  Commit failed: {result.stderr}")
+            
+    except Exception as e:
+        print(f"  ⚠️  Git operation failed: {e}")
 
 # ============================================
 # CORE SCRAPING FUNCTIONS
@@ -523,20 +564,25 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
                 )
                 stats['total_batches_saved'] = batch_num
                 
-                # Save checkpoint
+                # Save checkpoint every 250 URLs
                 if (current_index + batch_size) % checkpoint_interval == 0 or (i + batch_size) >= len(urls_to_process):
                     save_checkpoint(all_reports, current_index + batch_size, failed_urls, len(all_urls), stats, permanently_failed)
                     print(f"\n💾 Checkpoint saved | Batches: {stats['total_batches_saved']}")
+                    
+                    # 👇 NEW: Commit to Git every checkpoint (250 URLs)
+                    commit_to_git()
             
             except Exception as e:
                 print(f"\n❌ Error: {e}")
                 save_checkpoint(all_reports, current_index, failed_urls, len(all_urls), stats, permanently_failed)
+                commit_to_git()  # Commit even on error
             
             await asyncio.sleep(2)
     
     except KeyboardInterrupt:
         print(f"\n⚠️  Interrupted!")
         save_checkpoint(all_reports, start_index + i, failed_urls, len(all_urls), stats, permanently_failed)
+        commit_to_git()  # Commit on interrupt
         raise
     
     return all_reports, permanently_failed, stats, batch_dir
@@ -559,7 +605,7 @@ async def main():
     urls_list = [url for url in urls_list if '/address/' in url]
     
     print(f"📋 Total URLs: {len(urls_list)}")
-    urls_list = urls_list[20000:]  # Process first 10,000
+    urls_list = urls_list[:10000]  # Process first 10,000
     
     start_time = time.time()
     
@@ -607,9 +653,14 @@ async def main():
         print(f"\n📁 Local files: {batch_dir}")
         
         if not IS_COLAB:
-            print(f"📦 GitHub Artifacts: All files will be uploaded automatically")
+            print(f"📤 Files committed to GitHub repo every 250 URLs")
+            print(f"📦 Final files also in GitHub Artifacts")
         
         print(f"🎉 Done!")
+        
+        # Final commit
+        if not IS_COLAB:
+            commit_to_git()
     
     except Exception as e:
         print(f"\n❌ Error: {e}")
