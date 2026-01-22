@@ -36,6 +36,18 @@ import time
 import pandas as pd
 from datetime import datetime
 import random
+import base64
+
+# Google Drive imports
+try:
+    from googleapiclient.discovery import build
+    from google.oauth2 import service_account
+    from googleapiclient.http import MediaFileUpload
+    DRIVE_AVAILABLE = True
+    print("✅ Google Drive libraries loaded")
+except ImportError:
+    DRIVE_AVAILABLE = False
+    print("⚠️  Google Drive libraries not installed")
 
 # ============================================
 # GOOGLE DRIVE UPLOAD FUNCTION
@@ -43,36 +55,47 @@ import random
 
 def upload_to_drive_incremental(file_path, folder_id=None):
     """Upload single file to Google Drive incrementally"""
+    if not DRIVE_AVAILABLE:
+        print("  ⚠️  Google Drive libraries not available")
+        return False
+    
     try:
-        import base64
-        from googleapiclient.discovery import build
-        from google.oauth2 import service_account
-        
         # Get credentials from environment variable
         creds_base64 = os.getenv('GOOGLE_DRIVE_CREDENTIALS')
         folder_id = folder_id or os.getenv('DRIVE_FOLDER_ID')
         
-        if not creds_base64 or not folder_id:
-            print("  ⚠️  Google Drive credentials not found, skipping upload")
+        if not creds_base64:
+            print("  ⚠️  GOOGLE_DRIVE_CREDENTIALS not found in environment")
+            return False
+        
+        if not folder_id:
+            print("  ⚠️  DRIVE_FOLDER_ID not found in environment")
             return False
         
         # Decode credentials
-        creds_json = base64.b64decode(creds_base64).decode('utf-8')
-        creds_dict = json.loads(creds_json)
+        try:
+            creds_json = base64.b64decode(creds_base64).decode('utf-8')
+            creds_dict = json.loads(creds_json)
+        except Exception as e:
+            print(f"  ❌ Failed to decode credentials: {e}")
+            return False
         
+        # Create credentials
         credentials = service_account.Credentials.from_service_account_info(
             creds_dict,
             scopes=['https://www.googleapis.com/auth/drive.file']
         )
         
+        # Build service
         service = build('drive', 'v3', credentials=credentials)
         
+        # Prepare file metadata
         file_metadata = {
             'name': os.path.basename(file_path),
             'parents': [folder_id]
         }
         
-        from googleapiclient.http import MediaFileUpload
+        # Upload file
         media = MediaFileUpload(file_path, resumable=True)
         
         file = service.files().create(
@@ -81,11 +104,13 @@ def upload_to_drive_incremental(file_path, folder_id=None):
             fields='id'
         ).execute()
         
-        print(f"  ☁️  Uploaded to Drive: {os.path.basename(file_path)}")
+        print(f"  ☁️  Uploaded to Drive: {os.path.basename(file_path)} (ID: {file.get('id')})")
         return True
         
     except Exception as e:
-        print(f"  ❌ Drive upload failed: {str(e)[:100]}")
+        print(f"  ❌ Drive upload failed: {str(e)[:200]}")
+        import traceback
+        traceback.print_exc()
         return False
 
 # ============================================
@@ -349,7 +374,7 @@ def save_batch_file(batch_num, url_start, url_end, urls_data, batch_dir):
     
     print(f"💾 Saved batch-{batch_num}.json (URLs {url_start}-{url_end}: ✅{len(successful_urls)} 📭{len(empty_urls)} ❌{len(failed_urls)})")
     
-    # 👇 NEW: Upload to Drive immediately after each batch
+    # Upload to Drive immediately after each batch
     upload_to_drive_incremental(batch_file)
     
     return batch_file
@@ -374,7 +399,7 @@ def save_checkpoint(all_reports, processed, failed_urls, total_urls, stats, perm
     with open(checkpoint_file, 'w') as f:
         json.dump(checkpoint_data, f, indent=2)
     
-    # 👇 Upload checkpoint to Drive
+    # Upload checkpoint to Drive
     upload_to_drive_incremental(checkpoint_file)
     
     return checkpoint_file
@@ -606,13 +631,32 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
 async def main():
     """Main function"""
     
+    # Test Google Drive upload first
+    print("\n" + "="*70)
+    print("🧪 TESTING GOOGLE DRIVE CONNECTION")
+    print("="*70)
+    
+    test_file = f'{output_dir}test_upload.txt'
+    with open(test_file, 'w') as f:
+        f.write(f"Test upload at {datetime.now()}\n")
+        f.write(f"Environment: {'Colab' if IS_COLAB else 'GitHub Actions'}\n")
+    
+    if upload_to_drive_incremental(test_file):
+        print("✅ Google Drive upload test PASSED - Check your Drive folder!\n")
+    else:
+        print("❌ Google Drive upload test FAILED - Check errors above\n")
+    
+    print("="*70)
+    print("🚀 STARTING SCRAPER")
+    print("="*70 + "\n")
+    
     # Read CSV
     df = pd.read_csv('sitemap-0.csv')
     urls_list = df['loc'].tolist()
     urls_list = [url for url in urls_list if '/address/' in url]
     
     print(f"📋 Total URLs: {len(urls_list)}")
-    urls_list = urls_list[20000:50000]  # Limit to 10,000 for testing
+    urls_list = urls_list[:10000]  # Limit to 10,000
     
     start_time = time.time()
     
