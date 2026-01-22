@@ -1,7 +1,8 @@
 # ============================================
 # CHAINABUSE SCRAPER
 # Works in both Google Colab and GitHub Actions
-# Features: Incremental Google Drive uploads every 50 URLs
+# GitHub Actions: Files saved to GitHub Artifacts
+# Google Colab: Files saved to Google Drive
 # ============================================
 
 # ============================================
@@ -36,74 +37,6 @@ import time
 import pandas as pd
 from datetime import datetime
 import random
-import base64
-
-# Google Drive imports
-try:
-    from googleapiclient.discovery import build
-    from google.oauth2 import service_account
-    from googleapiclient.http import MediaFileUpload
-    DRIVE_AVAILABLE = True
-    print("✅ Google Drive libraries loaded")
-except ImportError:
-    DRIVE_AVAILABLE = False
-    print("⚠️  Google Drive libraries not installed")
-
-# ============================================
-# GOOGLE DRIVE UPLOAD FUNCTION
-# ============================================
-
-def upload_to_drive_incremental(file_path, folder_id=None):
-    """Upload single file to Google Drive incrementally"""
-    if not DRIVE_AVAILABLE:
-        print("  ⚠️  Google Drive libraries not available")
-        return False
-    
-    try:
-        creds_base64 = os.getenv('GOOGLE_DRIVE_CREDENTIALS')
-        folder_id = folder_id or os.getenv('DRIVE_FOLDER_ID')
-        
-        if not creds_base64 or not folder_id:
-            print("  ⚠️  Credentials or Folder ID missing")
-            return False
-        
-        creds_json = base64.b64decode(creds_base64).decode('utf-8')
-        creds_dict = json.loads(creds_json)
-        
-        credentials = service_account.Credentials.from_service_account_info(
-            creds_dict,
-            scopes=['https://www.googleapis.com/auth/drive.file']
-        )
-        
-        service = build('drive', 'v3', credentials=credentials)
-        
-        file_metadata = {
-            'name': os.path.basename(file_path),
-            'parents': [folder_id]
-        }
-        
-        media = MediaFileUpload(file_path, resumable=True)
-        
-        file = service.files().create(
-            body=file_metadata,
-            media_body=media,
-            fields='id,name',
-            supportsAllDrives=True  # ← Critical for shared folders
-        ).execute()
-        
-        print(f"  ☁️  Uploaded: {file.get('name')} (ID: {file.get('id')})")
-        return True
-        
-    except Exception as e:
-        error_msg = str(e)
-        if 'storageQuotaExceeded' in error_msg:
-            print("  ❌ Folder not properly shared with service account!")
-            print("     1. Share folder with service account email")
-            print("     2. Give 'Editor' permission")
-            print("     3. Make sure folder ID is correct")
-        else:
-            print(f"  ❌ Upload failed: {error_msg[:200]}")
-        return False
 
 # ============================================
 # CORE SCRAPING FUNCTIONS
@@ -366,9 +299,6 @@ def save_batch_file(batch_num, url_start, url_end, urls_data, batch_dir):
     
     print(f"💾 Saved batch-{batch_num}.json (URLs {url_start}-{url_end}: ✅{len(successful_urls)} 📭{len(empty_urls)} ❌{len(failed_urls)})")
     
-    # Upload to Drive immediately after each batch
-    upload_to_drive_incremental(batch_file)
-    
     return batch_file
 
 
@@ -390,9 +320,6 @@ def save_checkpoint(all_reports, processed, failed_urls, total_urls, stats, perm
     
     with open(checkpoint_file, 'w') as f:
         json.dump(checkpoint_data, f, indent=2)
-    
-    # Upload checkpoint to Drive
-    upload_to_drive_incremental(checkpoint_file)
     
     return checkpoint_file
 
@@ -563,7 +490,6 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
                         still_failed = []
                         
                         for result in retry_results:
-                            # Update batch_results_data with retry results
                             for idx, orig in enumerate(batch_results_data):
                                 if orig['url'] == result['url']:
                                     batch_results_data[idx] = result
@@ -587,7 +513,7 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
                             'failed_at': datetime.now().isoformat()
                         })
                 
-                # Save batch file (uploads to Drive automatically)
+                # Save batch file
                 save_batch_file(
                     batch_num, 
                     current_index, 
@@ -597,7 +523,7 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
                 )
                 stats['total_batches_saved'] = batch_num
                 
-                # Save checkpoint (uploads to Drive automatically)
+                # Save checkpoint
                 if (current_index + batch_size) % checkpoint_interval == 0 or (i + batch_size) >= len(urls_to_process):
                     save_checkpoint(all_reports, current_index + batch_size, failed_urls, len(all_urls), stats, permanently_failed)
                     print(f"\n💾 Checkpoint saved | Batches: {stats['total_batches_saved']}")
@@ -623,116 +549,8 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
 async def main():
     """Main function"""
     
-    # ============================================
-    # GOOGLE DRIVE DIAGNOSTIC TEST
-    # ============================================
     print("\n" + "="*70)
-    print("🧪 GOOGLE DRIVE DIAGNOSTIC TEST")
-    print("="*70)
-    
-    try:
-        creds_base64 = os.getenv('GOOGLE_DRIVE_CREDENTIALS')
-        folder_id = os.getenv('DRIVE_FOLDER_ID')
-        
-        print(f"\n1️⃣ Environment Variables:")
-        print(f"   GOOGLE_DRIVE_CREDENTIALS: {'✅ Found' if creds_base64 else '❌ Missing'} ({len(creds_base64) if creds_base64 else 0} chars)")
-        print(f"   DRIVE_FOLDER_ID: {'✅ Found' if folder_id else '❌ Missing'} ({folder_id if folder_id else 'N/A'})")
-        
-        if not creds_base64 or not folder_id:
-            print("\n❌ Missing secrets! Cannot continue.")
-            return
-        
-        # Decode and check service account
-        creds_json = base64.b64decode(creds_base64).decode('utf-8')
-        creds_dict = json.loads(creds_json)
-        service_email = creds_dict.get('client_email')
-        
-        print(f"\n2️⃣ Service Account:")
-        print(f"   Email: {service_email}")
-        print(f"   Project: {creds_dict.get('project_id')}")
-        
-        # Create credentials
-        credentials = service_account.Credentials.from_service_account_info(
-            creds_dict,
-            scopes=['https://www.googleapis.com/auth/drive']
-        )
-        
-        service = build('drive', 'v3', credentials=credentials)
-        print(f"   ✅ Service initialized")
-        
-        # Try to access the folder
-        print(f"\n3️⃣ Folder Access Test:")
-        print(f"   Folder ID: {folder_id}")
-        
-        try:
-            folder = service.files().get(
-                fileId=folder_id,
-                fields='id,name,owners,permissions,capabilities',
-                supportsAllDrives=True
-            ).execute()
-            
-            print(f"   ✅ Folder found: '{folder.get('name')}'")
-            print(f"   Owner: {folder.get('owners', [{}])[0].get('emailAddress', 'Unknown')}")
-            
-            # Check permissions
-            print(f"\n4️⃣ Folder Permissions:")
-            permissions = folder.get('permissions', [])
-            service_account_has_access = False
-            
-            for perm in permissions:
-                perm_email = perm.get('emailAddress', perm.get('id', 'Unknown'))
-                perm_role = perm.get('role', 'Unknown')
-                print(f"   - {perm_email}: {perm_role}")
-                
-                if perm_email == service_email and perm_role in ['writer', 'owner']:
-                    service_account_has_access = True
-            
-            if not service_account_has_access:
-                print(f"\n❌ PROBLEM FOUND:")
-                print(f"   Service account '{service_email}' does NOT have Editor access!")
-                print(f"\n📋 FIX:")
-                print(f"   1. Go to: https://drive.google.com/drive/folders/{folder_id}")
-                print(f"   2. Click 'Share' button")
-                print(f"   3. Add: {service_email}")
-                print(f"   4. Set permission to: 'Editor'")
-                print(f"   5. Click 'Send'")
-                return
-            else:
-                print(f"\n   ✅ Service account has proper access!")
-            
-        except Exception as e:
-            print(f"   ❌ Cannot access folder: {e}")
-            print(f"\n📋 Possible issues:")
-            print(f"   1. Wrong folder ID")
-            print(f"   2. Folder not shared with: {service_email}")
-            print(f"   3. Check folder ID at: https://drive.google.com/drive/folders/{folder_id}")
-            return
-        
-        # Try to upload test file
-        print(f"\n5️⃣ Upload Test:")
-        test_file = f'{output_dir}test_upload.txt'
-        with open(test_file, 'w') as f:
-            f.write(f"Test upload at {datetime.now()}\n")
-            f.write(f"Service Account: {service_email}\n")
-            f.write(f"Folder ID: {folder_id}\n")
-        
-        if upload_to_drive_incremental(test_file):
-            print(f"   ✅ Upload successful! Check folder: https://drive.google.com/drive/folders/{folder_id}")
-        else:
-            print(f"   ❌ Upload failed - see errors above")
-            return
-        
-    except Exception as e:
-        print(f"\n❌ Diagnostic failed: {e}")
-        import traceback
-        traceback.print_exc()
-        return
-    
-    # ============================================
-    # IF ALL TESTS PASS, START SCRAPER
-    # ============================================
-    print("\n" + "="*70)
-    print("✅ ALL TESTS PASSED - STARTING SCRAPER")
+    print("🚀 CHAINABUSE SCRAPER")
     print("="*70 + "\n")
     
     # Read CSV
@@ -741,7 +559,7 @@ async def main():
     urls_list = [url for url in urls_list if '/address/' in url]
     
     print(f"📋 Total URLs: {len(urls_list)}")
-    urls_list = urls_list[:10000]  # Start with 10k for testing
+    urls_list = urls_list[:10000]  # Process first 10,000
     
     start_time = time.time()
     
@@ -761,17 +579,14 @@ async def main():
         final_json = f'{output_dir}final_reports_{timestamp}.json'
         with open(final_json, 'w') as f:
             json.dump(all_reports, f, indent=2)
-        upload_to_drive_incremental(final_json)
         
         csv_data = flatten_reports(all_reports)
         final_csv = f'{output_dir}final_reports_{timestamp}.csv'
         pd.DataFrame(csv_data).to_csv(final_csv, index=False)
-        upload_to_drive_incremental(final_csv)
         
         if permanently_failed:
             failed_csv = f'{output_dir}permanently_failed_{timestamp}.csv'
             pd.DataFrame(permanently_failed).to_csv(failed_csv, index=False)
-            upload_to_drive_incremental(failed_csv)
         
         stats['end_time'] = datetime.now().isoformat()
         stats['total_elapsed_seconds'] = elapsed
@@ -780,7 +595,6 @@ async def main():
         stats_file = f'{output_dir}final_stats_{timestamp}.json'
         with open(stats_file, 'w') as f:
             json.dump(stats, f, indent=2)
-        upload_to_drive_incremental(stats_file)
         
         print(f"\n{'='*70}")
         print(f"✅ COMPLETE")
@@ -790,7 +604,11 @@ async def main():
         print(f"📦 URL batches saved: {stats['total_batches_saved']}")
         print(f"✅ Successful: {stats['successful_urls']} | ❌ Failed: {len(permanently_failed)}")
         print(f"⏱️  {elapsed/60:.2f} min | {stats['urls_per_hour']:.1f} URLs/hr")
-        print(f"\n📁 {batch_dir}")
+        print(f"\n📁 Local files: {batch_dir}")
+        
+        if not IS_COLAB:
+            print(f"📦 GitHub Artifacts: All files will be uploaded automatically")
+        
         print(f"🎉 Done!")
     
     except Exception as e:
@@ -801,4 +619,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
