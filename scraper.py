@@ -623,23 +623,116 @@ async def scrape_all_colab(all_urls, batch_size=50, max_concurrent=5, checkpoint
 async def main():
     """Main function"""
     
-    # Test Google Drive upload first
+    # ============================================
+    # GOOGLE DRIVE DIAGNOSTIC TEST
+    # ============================================
     print("\n" + "="*70)
-    print("🧪 TESTING GOOGLE DRIVE CONNECTION")
+    print("🧪 GOOGLE DRIVE DIAGNOSTIC TEST")
     print("="*70)
     
-    test_file = f'{output_dir}test_upload.txt'
-    with open(test_file, 'w') as f:
-        f.write(f"Test upload at {datetime.now()}\n")
-        f.write(f"Environment: {'Colab' if IS_COLAB else 'GitHub Actions'}\n")
+    try:
+        creds_base64 = os.getenv('GOOGLE_DRIVE_CREDENTIALS')
+        folder_id = os.getenv('DRIVE_FOLDER_ID')
+        
+        print(f"\n1️⃣ Environment Variables:")
+        print(f"   GOOGLE_DRIVE_CREDENTIALS: {'✅ Found' if creds_base64 else '❌ Missing'} ({len(creds_base64) if creds_base64 else 0} chars)")
+        print(f"   DRIVE_FOLDER_ID: {'✅ Found' if folder_id else '❌ Missing'} ({folder_id if folder_id else 'N/A'})")
+        
+        if not creds_base64 or not folder_id:
+            print("\n❌ Missing secrets! Cannot continue.")
+            return
+        
+        # Decode and check service account
+        creds_json = base64.b64decode(creds_base64).decode('utf-8')
+        creds_dict = json.loads(creds_json)
+        service_email = creds_dict.get('client_email')
+        
+        print(f"\n2️⃣ Service Account:")
+        print(f"   Email: {service_email}")
+        print(f"   Project: {creds_dict.get('project_id')}")
+        
+        # Create credentials
+        credentials = service_account.Credentials.from_service_account_info(
+            creds_dict,
+            scopes=['https://www.googleapis.com/auth/drive']
+        )
+        
+        service = build('drive', 'v3', credentials=credentials)
+        print(f"   ✅ Service initialized")
+        
+        # Try to access the folder
+        print(f"\n3️⃣ Folder Access Test:")
+        print(f"   Folder ID: {folder_id}")
+        
+        try:
+            folder = service.files().get(
+                fileId=folder_id,
+                fields='id,name,owners,permissions,capabilities',
+                supportsAllDrives=True
+            ).execute()
+            
+            print(f"   ✅ Folder found: '{folder.get('name')}'")
+            print(f"   Owner: {folder.get('owners', [{}])[0].get('emailAddress', 'Unknown')}")
+            
+            # Check permissions
+            print(f"\n4️⃣ Folder Permissions:")
+            permissions = folder.get('permissions', [])
+            service_account_has_access = False
+            
+            for perm in permissions:
+                perm_email = perm.get('emailAddress', perm.get('id', 'Unknown'))
+                perm_role = perm.get('role', 'Unknown')
+                print(f"   - {perm_email}: {perm_role}")
+                
+                if perm_email == service_email and perm_role in ['writer', 'owner']:
+                    service_account_has_access = True
+            
+            if not service_account_has_access:
+                print(f"\n❌ PROBLEM FOUND:")
+                print(f"   Service account '{service_email}' does NOT have Editor access!")
+                print(f"\n📋 FIX:")
+                print(f"   1. Go to: https://drive.google.com/drive/folders/{folder_id}")
+                print(f"   2. Click 'Share' button")
+                print(f"   3. Add: {service_email}")
+                print(f"   4. Set permission to: 'Editor'")
+                print(f"   5. Click 'Send'")
+                return
+            else:
+                print(f"\n   ✅ Service account has proper access!")
+            
+        except Exception as e:
+            print(f"   ❌ Cannot access folder: {e}")
+            print(f"\n📋 Possible issues:")
+            print(f"   1. Wrong folder ID")
+            print(f"   2. Folder not shared with: {service_email}")
+            print(f"   3. Check folder ID at: https://drive.google.com/drive/folders/{folder_id}")
+            return
+        
+        # Try to upload test file
+        print(f"\n5️⃣ Upload Test:")
+        test_file = f'{output_dir}test_upload.txt'
+        with open(test_file, 'w') as f:
+            f.write(f"Test upload at {datetime.now()}\n")
+            f.write(f"Service Account: {service_email}\n")
+            f.write(f"Folder ID: {folder_id}\n")
+        
+        if upload_to_drive_incremental(test_file):
+            print(f"   ✅ Upload successful! Check folder: https://drive.google.com/drive/folders/{folder_id}")
+        else:
+            print(f"   ❌ Upload failed - see errors above")
+            return
+        
+    except Exception as e:
+        print(f"\n❌ Diagnostic failed: {e}")
+        import traceback
+        traceback.print_exc()
+        return
     
-    if upload_to_drive_incremental(test_file):
-        print("✅ Google Drive upload test PASSED - Check your Drive folder!\n")
-    else:
-        print("❌ Google Drive upload test FAILED - Check errors above\n")
-    
-    print("="*70)
-    print("🚀 STARTING SCRAPER")
+    # ============================================
+    # IF ALL TESTS PASS, START SCRAPER
+    # ============================================
+    print("\n" + "="*70)
+    print("✅ ALL TESTS PASSED - STARTING SCRAPER")
     print("="*70 + "\n")
     
     # Read CSV
@@ -648,7 +741,7 @@ async def main():
     urls_list = [url for url in urls_list if '/address/' in url]
     
     print(f"📋 Total URLs: {len(urls_list)}")
-    urls_list = urls_list[20000:]  # Limit to 10,000
+    urls_list = urls_list[:10000]  # Start with 10k for testing
     
     start_time = time.time()
     
@@ -708,3 +801,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
