@@ -52,16 +52,19 @@ jobs:
             libxkbcommon0 \
             libxrandr2
       
-      - name: Run scraper
-        env:
-          GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
-          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
-        run: python scraper.py
-      
-      - name: Upload GitHub Artifacts (backup)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: scraper-backup-${{ github.run_number }}
-          path: output/
-          retention-days: 30
+            - name: Run scraper
+              env:
+                GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
+                DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+              run: python scraper.py
+            
+            # 👇 NEW: Commit results during scraping
+            - name: Commit results
+              if: always()  # Run even if scraper fails
+              run: |
+                git config --local user.email "action@github.com"
+                git config --local user.name "GitHub Action"
+                git add output/
+                git diff --quiet && git diff --staged --quiet || git commit -m "📦 Scraper progress - $(date +'%Y-%m-%d %H:%M')"
+                git push || true
+
