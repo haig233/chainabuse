@@ -60,57 +60,49 @@ def upload_to_drive_incremental(file_path, folder_id=None):
         return False
     
     try:
-        # Get credentials from environment variable
         creds_base64 = os.getenv('GOOGLE_DRIVE_CREDENTIALS')
         folder_id = folder_id or os.getenv('DRIVE_FOLDER_ID')
         
-        if not creds_base64:
-            print("  ⚠️  GOOGLE_DRIVE_CREDENTIALS not found in environment")
+        if not creds_base64 or not folder_id:
+            print("  ⚠️  Credentials or Folder ID missing")
             return False
         
-        if not folder_id:
-            print("  ⚠️  DRIVE_FOLDER_ID not found in environment")
-            return False
+        creds_json = base64.b64decode(creds_base64).decode('utf-8')
+        creds_dict = json.loads(creds_json)
         
-        # Decode credentials
-        try:
-            creds_json = base64.b64decode(creds_base64).decode('utf-8')
-            creds_dict = json.loads(creds_json)
-        except Exception as e:
-            print(f"  ❌ Failed to decode credentials: {e}")
-            return False
-        
-        # Create credentials
         credentials = service_account.Credentials.from_service_account_info(
             creds_dict,
             scopes=['https://www.googleapis.com/auth/drive.file']
         )
         
-        # Build service
         service = build('drive', 'v3', credentials=credentials)
         
-        # Prepare file metadata
         file_metadata = {
             'name': os.path.basename(file_path),
             'parents': [folder_id]
         }
         
-        # Upload file
         media = MediaFileUpload(file_path, resumable=True)
         
         file = service.files().create(
             body=file_metadata,
             media_body=media,
-            fields='id'
+            fields='id,name',
+            supportsAllDrives=True  # ← Critical for shared folders
         ).execute()
         
-        print(f"  ☁️  Uploaded to Drive: {os.path.basename(file_path)} (ID: {file.get('id')})")
+        print(f"  ☁️  Uploaded: {file.get('name')} (ID: {file.get('id')})")
         return True
         
     except Exception as e:
-        print(f"  ❌ Drive upload failed: {str(e)[:200]}")
-        import traceback
-        traceback.print_exc()
+        error_msg = str(e)
+        if 'storageQuotaExceeded' in error_msg:
+            print("  ❌ Folder not properly shared with service account!")
+            print("     1. Share folder with service account email")
+            print("     2. Give 'Editor' permission")
+            print("     3. Make sure folder ID is correct")
+        else:
+            print(f"  ❌ Upload failed: {error_msg[:200]}")
         return False
 
 # ============================================
