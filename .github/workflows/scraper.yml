@@ -25,7 +25,6 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      # 👇 UPDATED: Fixed for Ubuntu 24.04
       - name: Install Playwright
         run: |
           playwright install chromium
@@ -59,29 +58,10 @@ jobs:
           DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
         run: python scraper.py
       
-      - name: Upload final results to Google Drive
-        if: success()
-        uses: Jumbo810/Upload_Github_Artifacts_TO_GDrive@v2.3.1
-        with:
-          target: "output/"
-          credentials: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
-          parent_folder_id: ${{ secrets.DRIVE_FOLDER_ID }}
-          name: "scraper-results-${{ github.run_number }}"
-      
-      - name: Upload GitHub Artifacts
+      - name: Upload GitHub Artifacts (backup)
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: scraper-backup-${{ github.run_number }}
-          path: |
-            output/
+          path: output/
           retention-days: 30
-      
-      - name: Commit results
-        if: success()
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/ || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Scraper results - $(date +'%Y-%m-%d %H:%M')"
-          git push || true
