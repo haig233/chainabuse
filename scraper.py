@@ -648,7 +648,7 @@ async def main():
     urls_list = [url for url in urls_list if '/address/' in url]
     
     print(f"📋 Total URLs: {len(urls_list)}")
-    urls_list = urls_list[:10000]  # Limit to 10,000
+    urls_list = urls_list[20000:]  # Limit to 10,000
     
     start_time = time.time()
     
