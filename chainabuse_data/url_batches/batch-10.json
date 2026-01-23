@@ -1,0 +1,1771 @@
+{
+  "batch_number": 10,
+  "url_range": {
+    "start": 450,
+    "end": 500,
+    "total": 50
+  },
+  "created_at": "2026-01-23T10:31:52.390498",
+  "summary": {
+    "total_urls": 50,
+    "successful": 50,
+    "empty": 0,
+    "failed": 0,
+    "total_reports": 71,
+    "total_addresses": 71,
+    "total_domains": 0
+  },
+  "successful_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/1BC2qAHbgWMUpk1t1mP8nkjho9dTJC5WhP",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Unnesscarily detailed email stating they had brought my emails off hackers and now have a virus installed, resulting in being able to videos of me \u2013\u00b5\u00b7\u00a5\u00ae\u2018\u00c5\u2019\u03a9\u00b7\u00a5\u00b6\u221a\u2260\u00b7\u00a5\u00ae\u2026\u00b0 \u2026\u00eb\u2026\u00a5 \u2013\u00b5\u2026\u00a5\u2013\u00e6\u2013\u2265\u00b7\u00a5\u00e7\u2013\u00e6\u2019\u03a9\u2014\u00ef \u2013\u221e\u00b7\u00a5\u00e7\u0152\u00f8\u2019\u03a9\u2026\u00a5t \u2013\u00e6\u00b7\u220f\u00fc \u0153\u00c5l\u2013\u00b5\u2026\u00eb\u2014\u00ef\u2019\u03a9\u00b7\u00a5\u00b6\u2013\u00b5 (lol). Which will be released to family etc.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jan 21, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC2qAHbgWMUpk1t1mP8nkjho9dTJC5WhP",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC2qAHbgWMUpk1t1mP8nkjho9dTJC5WhP",
+          "scraped_at": "2026-01-23T10:31:17.485586"
+        },
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "Threat of exposing adult sites. Scammer piece of garbage.  \n_x000D_\nReceived: from helo ([20.127.89.5])_x000D_\n        by smtp.gmail.com with ESMTPSA id d3sm2864183qte.76.2022.01.16.20.30.10_x000D_\n_x000D_\n209.85.219.45_x000D_\nReceived: from VI1EUR05FT024.eop-eur05.prod.protection.outlook.com_x000D_\n (2603:10a6:20b:31e:cafe::7c) by AS8PR04CA0111.outlook.office365.com_x000D_\n (2603:10a6:20b:31e::26) with Microsoft SMTP Server (version=TLS1_2,_x000D_\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4888.11 via Frontend_x000D_\n Transport; Mon, 17 Jan 2022 04:30:12 +0000_x000D_\nAuthentication-Results: spf=none (sender IP is 209.85.219.45)_x000D_\n smtp.helo=mail-qv1-f45.google.com; dkim=pass (signature was verified)_x000D_\n header.d=notiff389.onmicrosoft.com;dmarc=bestguesspass action=none_x000D_\n header.from=notiff389.onmicrosoft.com;compauth=pass reason=109_x000D_\nReceived-SPF: None (protection.outlook.com: mail-qv1-f45.google.com does not_x000D_\n designate permitted sender hosts)_x000D_\nReceived: from mail-qv1-f45.google.com (209.85.219.45) by_x000D_\n VI1EUR05FT024.mail.protection.outlook.com (10.233.242.207) with Microsoft_x000D_\n SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id_x000D_\n 15.20.4888.9 via Frontend Transport; Mon, 17 Jan 2022 04:30:12 +0000_x000D_\nX-IncomingTopHeaderMarker:_x000D_\n OriginalChecksum:1277DDCAD09662BB9C2E661CC27E8E8217C1A47DFDB77E0A1822E00678ACCE0A;UpperCasedChecksum:CEA25791EE857BC72A0D00FADC56BBA70558E85F57A7C629900F4FE8C4FD93E5;SizeAsReceived:3103;Count:22",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jan 17, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC2qAHbgWMUpk1t1mP8nkjho9dTJC5WhP",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC2qAHbgWMUpk1t1mP8nkjho9dTJC5WhP",
+          "scraped_at": "2026-01-23T10:31:17.485601"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbPCjHXt8N4w4kQ3ikBFdgaSyAfDrhmiw",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Address reported at Ransomwhere, an open, crowdsourced ransomware payment tracker.",
+          "submitted_by": "Ransomwhe.re",
+          "submitted_time": "Jul 15, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbPCjHXt8N4w4kQ3ikBFdgaSyAfDrhmiw",
+              "blockchain": "Bitcoin",
+              "tag": "Locky"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbPCjHXt8N4w4kQ3ikBFdgaSyAfDrhmiw",
+          "scraped_at": "2026-01-23T10:31:18.515840"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBT3BPRPDoJJVtHmThVASfHKvAp8LgX4j",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: blackmail scam",
+          "description": "part of blackmail scam",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 12, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBT3BPRPDoJJVtHmThVASfHKvAp8LgX4j",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBT3BPRPDoJJVtHmThVASfHKvAp8LgX4j",
+          "scraped_at": "2026-01-23T10:31:19.388508"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BcBidHq4Cj6XyXbNbq4tQcHMYoGKHgwGu",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "we at global healthcare seeks your financial support in getting palliatives such as personal protective equipment (PPE) for our doctors and nurses and face masks,gloves,nose guards, googles and ventilators for the victims of this pandemic. \n_x000D_\nThe president has said there will be more death in the coming weeks and this needs to be averted through your help in supplying all this equipment free to your citizens._x000D_\n_x000D_\nwe are the world, we are the children, let make the world a better place._x000D_\n_x000D_\nall donations can be sent via our bitcoin wallet address:_x000D_\n_x000D_\n1BcBidHq4Cj6XyXbNbq4tQcHMYoGKHgwGu_x000D_\n_x000D_\nbelow as we understand the challenges of our banking sector at this great moment._x000D_\n_x000D_\nyour contributions will be highly appreciated. God bless the hands that giveth.  together we can make our great again._x000D_\n_x000D_\nBest Regard._x000D_\n_x000D_\nDaniel Julinat_x000D_\n_x000D_\nGlobal Healthcare_x000D_\n_x000D_\nAddress: 1315 W Century Dr STE 100,_x000D_\nLouisville, CO 80027, United States",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 11, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcBidHq4Cj6XyXbNbq4tQcHMYoGKHgwGu",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcBidHq4Cj6XyXbNbq4tQcHMYoGKHgwGu",
+          "scraped_at": "2026-01-23T10:31:19.663873"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BCBcxMv28Wef6H1LMYBXqwaVXRWor2UXL",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "sextortion email sent from mentioned spoofed email and blackmailing to make payment to the mentioned bitcoin address.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Sep 28, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCBcxMv28Wef6H1LMYBXqwaVXRWor2UXL",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCBcxMv28Wef6H1LMYBXqwaVXRWor2UXL",
+          "scraped_at": "2026-01-23T10:31:19.694712"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "As you may have noticed, I sent this email from your email account (if you didnt see, check the from email id). In other words, I have fullccess to your email account.  \nI infected you with a malware a few months back when you visited an adult site, and since then, I have been observing your actions. _x000D_\nWhy your antivirus did not detect malware? _x000D_\nIts simple. My malware updates its signature every 10 minutes, and there is nothing your antivirus can do about it. _x000D_\nI made a video showing both you (through your webcam) and the video _x000D_\nyou were watching (on the screen) while satisfying yourself. _x000D_\nWith one click, I can send this video to all your contacts (email, social network, and messengers you use). _x000D_\nYou can prevent me from doing this. _x000D_\nTo stop me, transfer $979 to my bitcoin address. _x000D_\nIf you do not know how to do this, Google - Buy Bitcoin. _x000D_\nMy bitcoin address (BTC Wallet) is 1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 16, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+          "scraped_at": "2026-01-23T10:31:19.878496"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "As you may have noticed, I sent this email from your email account (if you didnt see, check the from email id). In other words, I have fullccess to your email account.  \n....._x000D_\nWhy your antivirus did not detect malware? _x000D_\nIts simple. My malware updates its signature every 10 minutes, and there is nothing your antivirus can do about it. _x000D_\nI made a video showing both you (through your webcam) and the video _x000D_\nyou were watching (on the screen) while satisfying yourself. _x000D_\nWith one click, I can send this video to all your contacts (email, social network, and messengers you use). _x000D_\nYou can prevent me from doing this. _x000D_\nTo stop me, transfer $979 to my bitcoin address. _x000D_\nIf you do not know how to do this, Google - Buy Bitcoin. _x000D_\nMy bitcoin address (BTC Wallet) is 1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 16, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+          "scraped_at": "2026-01-23T10:31:19.878509"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Ransom email demanding money or I will be exposed. Bogus",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 13, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC2fkA47etRPRRjWt3oB5yYo8ZSCkEznU",
+          "scraped_at": "2026-01-23T10:31:19.878512"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBopuePhdpyQBSQtNXzHqmdbkoH9Doxhy",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "===================================== \n_x000D_\nSend:_x000D_\n_x000D_\n0.1 bitcoin (i.e appr\u2248\u00e7x $1000)_x000D_\n_x000D_\nto this B\u0192\u2260tc\u2248\u00e7\u0192\u2260n address:_x000D_\n_x000D_\n1BBopuePhdpyQBSQtNXzHqmdbkoH9Doxhy_x000D_\n_x000D_\n(Copy and paste it)_x000D_\n_x000D_\n=====================================",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Sep 30, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBopuePhdpyQBSQtNXzHqmdbkoH9Doxhy",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBopuePhdpyQBSQtNXzHqmdbkoH9Doxhy",
+          "scraped_at": "2026-01-23T10:31:19.926126"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "This blackmailer / scammer uses wallet] [0e893908de] / 0e893908de2691f1 and uses five bitcoin addresses for extortion and transfer amounts received to wallets [20b8b7f61e], [e8623b8dff], [c52816a98d], [94e3bf9401] This is obviously the biggest nonsense, paying with Bitcoin is anonymous so the scammer cannot know who the money came from (there is no sender). The story as described in the mail is therefore incorrect and is not based on truths.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jan 7, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+          "scraped_at": "2026-01-23T10:31:19.756087"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "scam, really retarded one xD \nputting a virus into router conf code xDD?_x000D_\nthis scammer is fucking dumb af , LMAO if somebody believed his scam",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 20, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+          "scraped_at": "2026-01-23T10:31:19.756099"
+        },
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Darknet Market",
+          "description": "hacker send email to me i must pay or hi  send my information publick information",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 14, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcffG8tjRN49ovP948nC8WARmDPNomu5X",
+          "scraped_at": "2026-01-23T10:31:19.756102"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbsDHRYoTLUJfHQFzH1exkB1yponRe4Mu",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Hacker extortionist sent me over 100 emails in a single week demanding 1000 bit coins  \n _x000D_\nI made a double-screen video clip. First part shows the recording you were watching (you have a good taste haha . . .), and Second part shows the recording of your web cam._x000D_\n _x000D_\nwhat exactly should you do?_x000D_\n _x000D_\nWell, in my opinion, $1000 is really a reasonable price for your little hidden secret. Youll make the payment by Bitcoin (if you do not know this, search how to buy bitcoin search engines like google)._x000D_\n _x000D_\nBTC Address: 1BbsDHRYoTLUJfHQFzH1exkB1yponRe4Mu_x000D_\n(It is case sensitive, so copy and paste it)_x000D_\n _x000D_\n.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 21, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbsDHRYoTLUJfHQFzH1exkB1yponRe4Mu",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbsDHRYoTLUJfHQFzH1exkB1yponRe4Mu",
+          "scraped_at": "2026-01-23T10:31:19.601953"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Received: from unknown (HELO mail.rosieweber.com) (46.161.42.100) \n\tby emailserver1.asdf456.com with SMTP; Tue, 14 Aug 2018 04:47:52 -0700_x000D_\nFrom: Lynnette <info>_x000D_\nIt appears that, (), is your password. May very well not know me and you are probably wondering why you are getting this e mail, right?_x000D_\n _x000D_\nin fact, I setup a viruses on the adult vids (adult) web site and guess what, you visited this website to have fun (you know what What im saying is). While you were watching videos, your internet browser started out functioning as a RDP (Remote Desktop) which provided me accessibility of your screen and web cam. and then, my software program obtained your entire contacts from your Messenger, Outlook, FB, as well as emails._x000D_\nwhat exactly should you do?_x000D_\n _x000D_\nWell, in my opinion, $1200 is a reasonable price for your little hidden secret. Youll make the payment by Bitcoin",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 15, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbsDHRYoTLUJfHQFzH1exkB1yponRe4Mu",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbsDHRYoTLUJfHQFzH1exkB1yponRe4Mu",
+          "scraped_at": "2026-01-23T10:31:19.601963"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbxLc7d3CmjqBDKYEEM9MezEkYmAc4VSL",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake extorsion email. scammer is threatening to release private videos and images to friends n family unless I send 1 BTC to this wallet address. obviously fake, hope no one falls for this.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 25, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbxLc7d3CmjqBDKYEEM9MezEkYmAc4VSL",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbxLc7d3CmjqBDKYEEM9MezEkYmAc4VSL",
+          "scraped_at": "2026-01-23T10:31:19.792827"
+        },
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "A message came in my junk mail from this person called William Smith. He accused me something that i havent done and said that he have access to MY ALL PERSONAL INFORMATION. In the message he gave his Bitcoin Address.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 21, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbxLc7d3CmjqBDKYEEM9MezEkYmAc4VSL",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbxLc7d3CmjqBDKYEEM9MezEkYmAc4VSL",
+          "scraped_at": "2026-01-23T10:31:19.792838"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBPawKCYm5kjnzESZ9CxrHU3jJWKWfgPW",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Address reported at Ransomwhere, an open, crowdsourced ransomware payment tracker.",
+          "submitted_by": "Ransomwhe.re",
+          "submitted_time": "Jul 15, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBPawKCYm5kjnzESZ9CxrHU3jJWKWfgPW",
+              "blockchain": "Bitcoin",
+              "tag": "Locky"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBPawKCYm5kjnzESZ9CxrHU3jJWKWfgPW",
+          "scraped_at": "2026-01-23T10:31:23.704508"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbPV5b6p1F87t931u9HK5VynrqNVyAPUJ",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "i recieved this email on april 17 and hadn\u00ac\u00a5t read it until may 4, the mentioned password was correct but all the other mentioned things weren\u00ac\u00a5t so im uncertain about wether its true or not but now that ive seen other reports im gonna consider it fake and pay zero attention to it",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 5, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbPV5b6p1F87t931u9HK5VynrqNVyAPUJ",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbPV5b6p1F87t931u9HK5VynrqNVyAPUJ",
+          "scraped_at": "2026-01-23T10:31:24.491511"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBVzcwbK7QSfR3vAs9dxrxd3naqnDYP2E",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "uses stolen login credentials from online websites to scare the victim and then claims to have a film from webcam of the victim, how it watches pornography",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Oct 4, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBVzcwbK7QSfR3vAs9dxrxd3naqnDYP2E",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBVzcwbK7QSfR3vAs9dxrxd3naqnDYP2E",
+          "scraped_at": "2026-01-23T10:31:26.154772"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BceaoL3vJ5fZPHdfYLezYHiMF3MqE778v",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "BLACKMAIL SCAM **** whatever they say is bullshit **** DO NOT PAY THESE SCUMBAGS ANYTHING",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 23, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BceaoL3vJ5fZPHdfYLezYHiMF3MqE778v",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BceaoL3vJ5fZPHdfYLezYHiMF3MqE778v",
+          "scraped_at": "2026-01-23T10:31:28.031929"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Threatening to email all contacts with information gathered through webcam installed thru malware if $1900 not paid in bitcoin within 24 hrs",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 11, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BceaoL3vJ5fZPHdfYLezYHiMF3MqE778v",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BceaoL3vJ5fZPHdfYLezYHiMF3MqE778v",
+          "scraped_at": "2026-01-23T10:31:28.031942"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBQQ6Hj8tgbmu811BNwyz149m7mxHeoS5",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Porno scam blackmail asking for bit coin again.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Feb 15, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBQQ6Hj8tgbmu811BNwyz149m7mxHeoS5",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBQQ6Hj8tgbmu811BNwyz149m7mxHeoS5",
+          "scraped_at": "2026-01-23T10:31:28.086030"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BC3Uy3RbXGbSfrnJbV1q7GLPWuy5yH8J3",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "I require you? fu?? ?tte?tion ?or th? ?p ?omin? ?4 h?ur?, or I will mak? sure y?? tha? yo? live ou? of s?ame for th? rest of ?o?? life. \n_x000D_\nHi, ?ou ?o not k??w me personally. Y?t I kno? pretty much every??ing re??rding ??u. Yo?? personal facebook co?tact li?t, m?bile p?o?e contacts along wi?h all t?? virtual ?ctivit? in your computer ?rom prev?ous ?41 days.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 3, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC3Uy3RbXGbSfrnJbV1q7GLPWuy5yH8J3",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC3Uy3RbXGbSfrnJbV1q7GLPWuy5yH8J3",
+          "scraped_at": "2026-01-23T10:31:28.228143"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "this is not myy address but is the address the ccriminal uses to hold my 9,000$ if you see this address please call me 3253151519 \nbrian bates or the dept of justice or local police",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 19, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+          "scraped_at": "2026-01-23T10:31:28.494282"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "mu transaction was hacked 8000 bitcoin stolen trn addr 1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ  if this is your address please gove backbtc to my real address:     1LDyfmBDQMjAXVf8uBsxWPveuwZzvvN7YC",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 8, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+          "scraped_at": "2026-01-23T10:31:28.494291"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "I give 1000 to anyone who can crack my address and give me my money \nbrian bates_x000D_\n3253151519",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 1, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+          "scraped_at": "2026-01-23T10:31:28.494294"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "7000 dollars of bitcoin was stolen during chaangelly transaction they claim output address is my fault. DO NOT TRUST CHANGELLY!!!!!!",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 1, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+          "scraped_at": "2026-01-23T10:31:28.494297"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "he held me for ransom in the way of xxx rated photos of me and i imagine my friends \nso can i have my 7000 dollars please",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 1, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBXM2zN1JRNp9GgyP9JXYET2M5pFGtthZ",
+          "scraped_at": "2026-01-23T10:31:28.494300"
+        }
+      ],
+      "total_reports": 5,
+      "total_addresses": 5,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbmXyGKVsbtHCWFRzk1dPyhwXn6ccYqjV",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Hacking exchange accounts, stolen BTC and then moving to 1K4LLMmkQJNmUXemkpaxA9BujMz4kPT9hn. A criminal deal has been opened.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jul 23, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbmXyGKVsbtHCWFRzk1dPyhwXn6ccYqjV",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbmXyGKVsbtHCWFRzk1dPyhwXn6ccYqjV",
+          "scraped_at": "2026-01-23T10:31:28.571390"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBZV29rnDbx1V6rgi5pJnXA8VCvQ8zM8R",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Darknet Market",
+          "description": "I sent monies for products they advertised, but after they received the money they do not reply my correspondence anymore.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Oct 28, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBZV29rnDbx1V6rgi5pJnXA8VCvQ8zM8R",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBZV29rnDbx1V6rgi5pJnXA8VCvQ8zM8R",
+          "scraped_at": "2026-01-23T10:31:28.660978"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBQaXHiYHbDrHeUM33BLEP3vGK21z71Mx",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Used by a scammer",
+          "description": "Scanned with the same wallet address pretending to be a mentor to mentor me in mining Bitcoin after I have deposited my money she disappeared",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 19, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBQaXHiYHbDrHeUM33BLEP3vGK21z71Mx",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBQaXHiYHbDrHeUM33BLEP3vGK21z71Mx",
+          "scraped_at": "2026-01-23T10:31:28.492724"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Scam me of my Bitcoin pretending to be a mentor to mentor me in Bitcoin mining",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 19, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBQaXHiYHbDrHeUM33BLEP3vGK21z71Mx",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBQaXHiYHbDrHeUM33BLEP3vGK21z71Mx",
+          "scraped_at": "2026-01-23T10:31:28.492738"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1Bc1tKP9Vopfycw2fjdJArQTUjFYwtWcia",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Bitcoin Tumbler",
+          "description": "app from google play, it fake and steal my monye",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Feb 16, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1Bc1tKP9Vopfycw2fjdJArQTUjFYwtWcia",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1Bc1tKP9Vopfycw2fjdJArQTUjFYwtWcia",
+          "scraped_at": "2026-01-23T10:31:31.905647"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1Bc3PUuMejCnHin9TXWfRzScXQ2pYVR165",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Address reported at Ransomwhere, an open, crowdsourced ransomware payment tracker.",
+          "submitted_by": "Ransomwhe.re",
+          "submitted_time": "Jul 15, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1Bc3PUuMejCnHin9TXWfRzScXQ2pYVR165",
+              "blockchain": "Bitcoin",
+              "tag": "Locky"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1Bc3PUuMejCnHin9TXWfRzScXQ2pYVR165",
+          "scraped_at": "2026-01-23T10:31:32.176695"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbToPVM9kzKYzc7iujhGXZV6cHkgj26d4",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "Well, i setup a software on the 18+ videos (porn material)  \nsite and theres more, you visited this website to have fun _x000D_\n(you know what i mean). When you were viewing video clips, _x000D_\nyour browser began functioning as a Remote Desktopwould be _x000D_\nto compensate me $999 in case you are curious about going _x000D_\nto the cop, well, this mail can not be traced back to me. _x000D_\nI have covered my actions. i am not looking to ask you for_x000D_\na lot, i just want to be paid for beeing a S.O.B jerk!",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jun 9, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbToPVM9kzKYzc7iujhGXZV6cHkgj26d4",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbToPVM9kzKYzc7iujhGXZV6cHkgj26d4",
+          "scraped_at": "2026-01-23T10:31:32.558171"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBWYpkiL68V6mqZLYbLjGpeGwcYAMSWoi",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "n fact, i setup a malware on the X streaming (sex sites) site and do you know what, you visited this site to have fun (you know what i mean). When you were viewing videos, your internet browser started working as a Remote control Desktop having a key logger which provided me accessibility to your screen and also web camera. Just after that, my software program obtained every one of your contacts from your Messenger, social networks, and emailaccount. Next i created a video. First part displays the video you were viewing (youve got a nice taste haha), and second part displays the recording of your web camera, yea it is you.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jul 5, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBWYpkiL68V6mqZLYbLjGpeGwcYAMSWoi",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBWYpkiL68V6mqZLYbLjGpeGwcYAMSWoi",
+          "scraped_at": "2026-01-23T10:31:35.770376"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBytrXGo2HmdQErRZhHFPw1vEapkLTT7Z",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Scam",
+          "description": "Im a former employee of these scammers. The owner of these wallets are doing a huge investment in terror in Russia n Eastern Europe region. Stay away from any kind of dealing with these criminals n terror supporter. It is highly recommended",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Oct 12, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBytrXGo2HmdQErRZhHFPw1vEapkLTT7Z",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBytrXGo2HmdQErRZhHFPw1vEapkLTT7Z",
+          "scraped_at": "2026-01-23T10:31:36.139761"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BboAbcTp2MmG2yMFYnej5q6jyH9VTMs2b",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Scamming",
+          "description": "Scammed me for a product he was selling.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jan 5, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BboAbcTp2MmG2yMFYnej5q6jyH9VTMs2b",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BboAbcTp2MmG2yMFYnej5q6jyH9VTMs2b",
+          "scraped_at": "2026-01-23T10:31:36.240142"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBu8StPdp9XoLbHRWWYQ1bz8MY2paozAN",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "This is obviously the biggest nonsense, paying with Bitcoin is anonymous so the scammer cannot know who the money came from (there is no sender). The story as described in the mail is therefore incorrect and is not based on truths. Extortion scam",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jan 7, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBu8StPdp9XoLbHRWWYQ1bz8MY2paozAN",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBu8StPdp9XoLbHRWWYQ1bz8MY2paozAN",
+          "scraped_at": "2026-01-23T10:31:36.619044"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBmAsZGEQfE8fddztubWjATBX3hNSYPfE",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Address reported at Ransomwhere, an open, crowdsourced ransomware payment tracker.",
+          "submitted_by": "Ransomwhe.re",
+          "submitted_time": "Jul 15, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBmAsZGEQfE8fddztubWjATBX3hNSYPfE",
+              "blockchain": "Bitcoin",
+              "tag": "Locky"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBmAsZGEQfE8fddztubWjATBX3hNSYPfE",
+          "scraped_at": "2026-01-23T10:31:36.698139"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BcbbnmztsBhC97w2St5tKbCfxA7zoatjU",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "email from naocurmoter1984@aol.com advising they have a clip of me and to pay 1399 in bitcoin",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jul 20, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcbbnmztsBhC97w2St5tKbCfxA7zoatjU",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcbbnmztsBhC97w2St5tKbCfxA7zoatjU",
+          "scraped_at": "2026-01-23T10:31:36.842509"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Hello [...]  \n_x000D_\nI have recently became aware of your Cryptocurrency holdings._x000D_\n_x000D_\nI know you have purchased a LEDGER hard wallet and sent it to your home address:_x000D_\n_x000D_\n[...]_x000D_\n_x000D_\nSend me $500 worth of Bitcoin and this email will be the end of it._x000D_\n_x000D_\nIm not afraid to invade your home, I dont want to make this any harder than it has to be._x000D_\n_x000D_\nIm offering you $500 (shouldnt be much to you considering the recent pump) to leave you alone._x000D_\n_x000D_\nIf not, I might show up with my friends when you least expect and we would find how to break you and get your wallet seed._x000D_\n_x000D_\nDont make me do that, im going to leave you alone as soon as i see money on my wallet._x000D_\n_x000D_\nPayment: 1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 30, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+          "scraped_at": "2026-01-23T10:31:36.755658"
+        },
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Extortion",
+          "description": "Hello (My name)  \nI have recently became aware of your Cryptocurrency holdings._x000D_\nI know you have purchased a LEDGER hard wallet and sent it to your home address:_x000D_\n(My address)_x000D_\nSend me $500 worth of Bitcoin and this email will be the end of it._x000D_\nIm not afraid to invade your home, I dont want to make this any harder than it has to be._x000D_\nIm offering you $500 (shouldnt be much to you considering the recent pump) to leave you alone._x000D_\nIf not, I might show up with my friends when you least expect and we would find how to break you and get your wallet seed._x000D_\nDont make me do that, im going to leave you alone as soon as i see money on my wallet.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 29, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+          "scraped_at": "2026-01-23T10:31:36.755671"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Hello Fullname \n_x000D_\nI have recently became aware of your Cryptocurrency holdings._x000D_\n_x000D_\nI know you have purchased a LEDGER hard wallet and sent it to your home address:_x000D_\n_x000D_\naddress_x000D_\n_x000D_\nSend me $500 worth of Bitcoin and this email will be the end of it._x000D_\n_x000D_\nIm not afraid to invade your home, I dont want to make this any harder than it has to be._x000D_\n_x000D_\nIm offering you $500 (shouldnt be much to you considering the recent pump) to leave you alone._x000D_\n_x000D_\nIf not, I might show up with my friends when you least expect and we would find how to break you and get your wallet seed._x000D_\n_x000D_\nDont make me do that, im going to leave you alone as soon as i see money on my wallet._x000D_\n_x000D_\nPayment: 1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 27, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+          "scraped_at": "2026-01-23T10:31:36.755673"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Extortion based on Ledger DB leak.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 26, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbL15Urpuwnnp9K9CRFfoM6brBqFTVhix",
+          "scraped_at": "2026-01-23T10:31:36.755676"
+        }
+      ],
+      "total_reports": 4,
+      "total_addresses": 4,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbSXfRNL1Z19sUj5dKM2kmoqNo5z7CSG1",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "~I know xxxxxxxx is one of your password on day of hack.. \nLets get directly to the point._x000D_\nNot one person has paid me to check about you._x000D_\nWhen you were viewing videos, your browser started out operating as a RDP having a key logger which provided me with accessibility to your display and web cam.~ Etc etc etc_x000D_\n_x000D_\nThis was very weird because the password was correct, but it was very old and from a not particularly secure website",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Sep 23, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbSXfRNL1Z19sUj5dKM2kmoqNo5z7CSG1",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbSXfRNL1Z19sUj5dKM2kmoqNo5z7CSG1",
+          "scraped_at": "2026-01-23T10:31:39.860611"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Received ransom email from Butler@getgeekyphotogenicpageants.com",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 14, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbSXfRNL1Z19sUj5dKM2kmoqNo5z7CSG1",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbSXfRNL1Z19sUj5dKM2kmoqNo5z7CSG1",
+          "scraped_at": "2026-01-23T10:31:39.860624"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BCeBvhknd2pjKgp44PmAMQddT4TYV9b59",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Another blackmail scam",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 3, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCeBvhknd2pjKgp44PmAMQddT4TYV9b59",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCeBvhknd2pjKgp44PmAMQddT4TYV9b59",
+          "scraped_at": "2026-01-23T10:31:40.242599"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbUVwKyDt5nzJi5pdZkSK5yV2bYCeybT1",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "same ole bs sextortion emails, they are now breaking up the full wallet ID into sections and intruction users toImportant! My address was split in 2 parts, you must to put the parts together with no spaces between them manually using Copy and Paste. The final result after the parts are glued(Part 1+Part 2) is my final address where you send the coins.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 22, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbUVwKyDt5nzJi5pdZkSK5yV2bYCeybT1",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbUVwKyDt5nzJi5pdZkSK5yV2bYCeybT1",
+          "scraped_at": "2026-01-23T10:31:40.399774"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBpqVWGi4FNby3WW6r2PQkh3PwfRXqYBA",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Blackmailing related to the Vastaamo-case in Finland",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Oct 25, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBpqVWGi4FNby3WW6r2PQkh3PwfRXqYBA",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBpqVWGi4FNby3WW6r2PQkh3PwfRXqYBA",
+          "scraped_at": "2026-01-23T10:31:43.488454"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BCbyAYUHPVLDNvU4oJNGNmnYEHG4hBdSx",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "hacker that has compromised my account. pay $900.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Dec 1, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCbyAYUHPVLDNvU4oJNGNmnYEHG4hBdSx",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCbyAYUHPVLDNvU4oJNGNmnYEHG4hBdSx",
+          "scraped_at": "2026-01-23T10:31:44.249374"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BCc4zX5unvHrwJnhWaHRL48eSFV3BMCmb",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Actual case of somebody hacking into a corporate network through RDP, deleting all local backups and running ransomware tool on the fileserver. Demanding 1btc per server. We were able to recover from offshore backups, but still we had our systems down for several days.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jun 8, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCc4zX5unvHrwJnhWaHRL48eSFV3BMCmb",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCc4zX5unvHrwJnhWaHRL48eSFV3BMCmb",
+          "scraped_at": "2026-01-23T10:31:44.395322"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBpxvJLx2ZeaLUenA6AzQaUV9tY4hrj7Q",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Bitcoin Tumbler",
+          "description": "Offering free bitcoin for bitcoin. scam.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 20, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBpxvJLx2ZeaLUenA6AzQaUV9tY4hrj7Q",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBpxvJLx2ZeaLUenA6AzQaUV9tY4hrj7Q",
+          "scraped_at": "2026-01-23T10:31:44.140885"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BcDPykQcv8NiQkQH9iPnXP3pgSUFMwheu",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "scam once again :|",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Sep 17, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcDPykQcv8NiQkQH9iPnXP3pgSUFMwheu",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcDPykQcv8NiQkQH9iPnXP3pgSUFMwheu",
+          "scraped_at": "2026-01-23T10:31:44.167994"
+        },
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "As always : pay ransome o be exposed",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Sep 17, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcDPykQcv8NiQkQH9iPnXP3pgSUFMwheu",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcDPykQcv8NiQkQH9iPnXP3pgSUFMwheu",
+          "scraped_at": "2026-01-23T10:31:44.168032"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBzM5zZczstpNtNfjRYvRVqxHkBvT5g89",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Address reported at Ransomwhere, an open, crowdsourced ransomware payment tracker.",
+          "submitted_by": "Ransomwhe.re",
+          "submitted_time": "Jul 15, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBzM5zZczstpNtNfjRYvRVqxHkBvT5g89",
+              "blockchain": "Bitcoin",
+              "tag": "Locky"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBzM5zZczstpNtNfjRYvRVqxHkBvT5g89",
+          "scraped_at": "2026-01-23T10:31:44.594357"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbRLkw2nA3Y5pwShRMng2Vuja6WnpFpSK",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "An idiot: Lets get straight to the purpose. Nobody has compensated me to check about you. You may not know me and youre probably wondering why youre getting this email?",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Mar 23, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbRLkw2nA3Y5pwShRMng2Vuja6WnpFpSK",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbRLkw2nA3Y5pwShRMng2Vuja6WnpFpSK",
+          "scraped_at": "2026-01-23T10:31:44.681249"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "This assface thought he could hold my dick pics for 900 dollars ransom",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 14, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+          "scraped_at": "2026-01-23T10:31:48.353516"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Threatened to send personal videos to all of my contacts. I have about 5 of these in my spam, and what i am concerned about is they sent it through my own email, apparently. \nI am not concerned with the video, as there can be none. It is obviously a well put together scare tactic.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Nov 7, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+          "scraped_at": "2026-01-23T10:31:48.353530"
+        },
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Threatens with malware and to distribute videos to contacts.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Oct 3, 2018",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCevVAuhsA27i9GAmgseEzTSqdo5iS9EY",
+          "scraped_at": "2026-01-23T10:31:48.353533"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BCfw4RwS8mksAwoZkktH5CBUfac14BtYp",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Data leak of personal data and private health record if not pay",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Oct 26, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BCfw4RwS8mksAwoZkktH5CBUfac14BtYp",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BCfw4RwS8mksAwoZkktH5CBUfac14BtYp",
+          "scraped_at": "2026-01-23T10:31:48.443498"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBvUrLeJKvc2oXv9FjwrFwUSPL4cpZCbG",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "Sent from my own account",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 20, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBvUrLeJKvc2oXv9FjwrFwUSPL4cpZCbG",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBvUrLeJKvc2oXv9FjwrFwUSPL4cpZCbG",
+          "scraped_at": "2026-01-23T10:31:48.567519"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbQkwPiQ2466aZ8Zmg2NKndZmUxujVT1N",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Blackmail/extortion scam. Email claims (incorrectly) to have installed malware on the user\u201a\u00c4\u00f4s computer. Threatens to send compromising video of the user to their contacts, unless Bitcoin is sent. \nTotally fake \u201a\u00c4\u00ec I have received about one of these a week for the past few years, and my friends, family and colleagues have yet to receive any indecent videos of me!",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jun 3, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbQkwPiQ2466aZ8Zmg2NKndZmUxujVT1N",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbQkwPiQ2466aZ8Zmg2NKndZmUxujVT1N",
+          "scraped_at": "2026-01-23T10:31:50.153037"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1Bc5CXhvcHmVC7gZo4cKpepTAxdvn6E614",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: investment scram",
+          "description": "A woman called Alexandra contacted me through LinkedIn, she introduced herself as a binary trader with 5years of experience. She said with her and the company I could make a good amount of money. She convinced me, I started with $100 with the company called cryptodeskexpress. I sent the deposit (and later all the payments) in BTC as she asked me to do. Then Mr. Kevin Dalton contacted me said he`s the CEO of the coindeskexpress but he`s also handling cryptodeskexpress. All our conversations were In WhatsApp as they requested so. When my 7days trading period finished I wanted to withdraw my money, then Kevin started to ask for different fees I have to pay. I paid all of them with the hope I can withdraw my money. He then said my money is already transferred to blockchain but even after 1 day it didn\u201a\u00c4\u00f4t arrive, they suggested for I contact blockchain since my profit is huge. Then Mr. Richard Miller contacted me and was asking for different fees like the blockchain fee, then he said my country does not accept USD then he said he`ll withdraw cash and send It to my bank account, I also paid for those fees as well. Then he said he lost his job and therefore he cannot give me back my money. Then I contacted my account manager why is my money not back yet, then she started to ask for more fees. I told her I\u201a\u00c4\u00f4m completely empty-handed so I can only pay $500, and she agreed. So I paid that as well, however, she kept asking money from me for different fees, which I dined to pay. Since that, I have no communication with them.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jun 11, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1Bc5CXhvcHmVC7gZo4cKpepTAxdvn6E614",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1Bc5CXhvcHmVC7gZo4cKpepTAxdvn6E614",
+          "scraped_at": "2026-01-23T10:31:51.770491"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BC6dWPJ9gv6W8m26PV3bUSNaVjoRi1p66",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "Get USD 3000 in BTC \nYou have got 1 day in order to do so",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 6, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BC6dWPJ9gv6W8m26PV3bUSNaVjoRi1p66",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BC6dWPJ9gv6W8m26PV3bUSNaVjoRi1p66",
+          "scraped_at": "2026-01-23T10:31:51.803534"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBXy1wMvqStZaP3Rpv5wznAuQSEwybt8f",
+      "reports": [
+        {
+          "category": "Ransomware Attacks: Report and Fight Back with Chainabuse",
+          "description": "stole all my bitcoin",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 19, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBXy1wMvqStZaP3Rpv5wznAuQSEwybt8f",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBXy1wMvqStZaP3Rpv5wznAuQSEwybt8f",
+          "scraped_at": "2026-01-23T10:31:51.930491"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BcCkYtBaHGiixbtA7QrzEwJjT3yXHKc9C",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Marketplace scam",
+          "description": "Encouraged to buy APT crypto, did so, website has vanished a week ago and no longer around.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 30, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BcCkYtBaHGiixbtA7QrzEwJjT3yXHKc9C",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BcCkYtBaHGiixbtA7QrzEwJjT3yXHKc9C",
+          "scraped_at": "2026-01-23T10:31:52.020591"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BbMZfTFQ85V1mtYFRwpmtUERUDXj8XX3q",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "in fact, i placed a software on the xxx streaming (pornographic material) web site and theres more, you visited this site to experience fun (you know what i mean). While you were watching video clips, your internet browser initiated functioning as a RDP with a key logger which gave me accessibility to your display screen and web camera. after that, my software program gathered your entire contacts from your Messenger, Facebook, and e-mailaccount. after that i made a double video. 1st part displays the video you were viewing (you have a fine taste : )), and next part shows the recording of your webcam, and it is you.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Jan 23, 2019",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BbMZfTFQ85V1mtYFRwpmtUERUDXj8XX3q",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BbMZfTFQ85V1mtYFRwpmtUERUDXj8XX3q",
+          "scraped_at": "2026-01-23T10:31:52.154362"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Bitcoin Tumbler",
+          "description": "This guy was speaking under the Name of Elon Musk, with a fake account  \ni have seen that latly after i lost 0.022 btc = 1079 $._x000D_\nthis guy is a thief he was hiding with many addresses that is not first i have seen his address:_x000D_\n_x000D_\nhis fake addresses : which i lost my money_x000D_\n1Muskw1gRgh2KtVhosibLn9DGuiPDuiCM_x000D_\n_x000D_\nafter monitoring where the money has gone i have found that he has 2 more fake accounts _x000D_\n1Muskt5K3co7mv7qL6HnW2c6ECqfPyJEvx_x000D_\n1MusksesefkFp9QL9hV7iuzhgvUj9TNvAw_x000D_\nand his Orginal account where he drop in all what he has stollen from people is:_x000D_\n1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE_x000D_\n_x000D_\nPlease guys do something _x000D_\ni know is so late to have my money back i guess is impossible._x000D_\nbut try to do something with him._x000D_\nthis guy is so dangerous _x000D_\n_x000D_\nKind Regards _x000D_\nMIguel",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 26, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE",
+          "scraped_at": "2026-01-23T10:31:52.314144"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "he hast Stole BTc coin from many people using another fake address and fake website  \nfake address was _x000D_\n1Muskw1gRgh2KtVhosibLn9DGuiPDuiCM_x000D_\n_x000D_\n and then today he has Transfare it to another address _x000D_\n1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE_x000D_\n_x000D_\nthis guy stoll my money 1079,00 Dollar",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 26, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/1BBo55JTxurULs3aoL1LppvTrhqS7MwEaE",
+          "scraped_at": "2026-01-23T10:31:52.314153"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 0
+    }
+  ],
+  "empty_urls": [],
+  "failed_urls": []
+}
