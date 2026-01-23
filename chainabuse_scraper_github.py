@@ -531,7 +531,7 @@ async def main():
     print(f"📋 Total URLs: {len(urls_list)}")
     
     # Optional: slice for testing
-    urls_list = urls_list[20000:30000]
+    urls_list = urls_list[30000:]
     
     start_time = time.time()
     
