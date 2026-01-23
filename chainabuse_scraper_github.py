@@ -540,7 +540,7 @@ async def main():
             all_urls=urls_list,
             batch_size=50,
             max_concurrent=10,
-            checkpoint_interval=500,
+            checkpoint_interval=1000,
             max_retries=2
         )
         
