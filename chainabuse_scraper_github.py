@@ -16,7 +16,7 @@ import os
 import subprocess
 
 # Configuration
-output_dir = 'chainabuse_data-03/'
+output_dir = 'chainabuse_data-10/'
 os.makedirs(output_dir, exist_ok=True)
 print(f"✅ Output directory: {output_dir}")
 
@@ -524,7 +524,7 @@ async def scrape_all_github(all_urls, batch_size=50, max_concurrent=5, checkpoin
 
 async def main():
     # Read URLs from CSV
-    df = pd.read_csv('sitemap-0.csv')
+    df = pd.read_csv('sitemap-1.csv')
     urls_list = df['loc'].tolist()
     urls_list = [url for url in urls_list if '/address/' in url]
     
