@@ -1,0 +1,1870 @@
+{
+  "batch_number": 87,
+  "url_range": {
+    "start": 4300,
+    "end": 4350,
+    "total": 50
+  },
+  "created_at": "2026-01-24T20:30:30.879090",
+  "summary": {
+    "total_urls": 50,
+    "successful": 50,
+    "empty": 0,
+    "failed": 0,
+    "total_reports": 61,
+    "total_addresses": 106,
+    "total_domains": 34
+  },
+  "successful_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Multiple Solana community members interacted with a malicious contract that drained all NFTs and Sol within wallet. The referenced addresses are reportedly associated with deposit addresses used by attacker(s). Investigation on going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 31, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+          "scraped_at": "2026-01-24T20:29:57.012397"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/D9fAA13WkiU8jR3GkjFKLW966AkEKLZgKdB1hxQkd5CP",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Solana drainer. Sends tokens to victims with its symbol name as the domain to lure them.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 16, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "D9fAA13WkiU8jR3GkjFKLW966AkEKLZgKdB1hxQkd5CP",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DY29znXDx59Mz3dp2sT6e73SF7oftfnCGF5LC4Zgf5wJ",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "terium.info"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/D9fAA13WkiU8jR3GkjFKLW966AkEKLZgKdB1hxQkd5CP",
+          "scraped_at": "2026-01-24T20:29:57.193636"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/EPoNXCrCdwkxZL7Pe2gH4mPS6TFHMgYb3UuNcU67vCJH",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Eternal Beings $3.9m Rug Pull - Originally was promoted as rapper Lil Uzi Vert's NFT project. The project advertised various roadmap items but after selling out Lil Uzi deleted his tweets and team abandoned the project. None of the roadmap items originally described were completed. Funds were quickly transferred away to exchange accounts.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 5, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "3zP2zyuEqg2Kc7ZcyuTSffJpBnWDw9R6aoVhDiAYEFd4",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "EPoNXCrCdwkxZL7Pe2gH4mPS6TFHMgYb3UuNcU67vCJH",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5LdUdQeQ5md36aCrrEpM5sKG6AT25bJDPTze1xRDfgMS",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/EPoNXCrCdwkxZL7Pe2gH4mPS6TFHMgYb3UuNcU67vCJH",
+          "scraped_at": "2026-01-24T20:29:57.631269"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/C1ResCfLjchCut1seuTvEZa1QMsDpdTZW26A9NRQjBwc",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Multiple Solana community members interacted with a malicious contract that drained all NFTs and Sol within wallet. The referenced addresses are reportedly associated with deposit addresses used by attacker(s). Investigation on going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 31, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/C1ResCfLjchCut1seuTvEZa1QMsDpdTZW26A9NRQjBwc",
+          "scraped_at": "2026-01-24T20:29:57.597753"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CC5hyoYumpLzsNEUUsConETU4xBj7oTGpZ3eYSZXHACd",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Eternal Beings $3.9m Rug Pull - Originally was promoted as rapper Lil Uzi Vert's NFT project. The project advertised various roadmap items but after selling out Lil Uzi deleted his tweets and team abandoned the project. None of the roadmap items originally described were completed. Funds were quickly transferred away to exchange accounts.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 5, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "3zP2zyuEqg2Kc7ZcyuTSffJpBnWDw9R6aoVhDiAYEFd4",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "EPoNXCrCdwkxZL7Pe2gH4mPS6TFHMgYb3UuNcU67vCJH",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5LdUdQeQ5md36aCrrEpM5sKG6AT25bJDPTze1xRDfgMS",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/CC5hyoYumpLzsNEUUsConETU4xBj7oTGpZ3eYSZXHACd",
+          "scraped_at": "2026-01-24T20:29:57.863809"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/drop8Ms97kdPbEFebP7BrskRM8tQQJLVvHZnozcAQQS",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Sol Moon Boxes NFT dropped an actual NFT but pulled the rug after people minted.  The former website claimed that the solana blue chip NFTs could be purchsed for 3 solana.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "drop8Ms97kdPbEFebP7BrskRM8tQQJLVvHZnozcAQQS",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "solanamoonboxes.io"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/drop8Ms97kdPbEFebP7BrskRM8tQQJLVvHZnozcAQQS",
+          "scraped_at": "2026-01-24T20:29:57.933257"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CVjpUwfi9HvUAT9HrWGEmGcXkm8ZHwFKHqbWq1Yn95ZN",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake Atadia site. Spread via airdropped NFTs with the link attached to it. Just realized that there is a private key on their drainer config, 5Gst9C1jovxEwWnevMnP4tqYjiQKSKo2Sys6Bas6ZFkCZu31mthwiY81cW8eHqHu8YmZ32W7Kpje1tCiitHATXjy -> GTysRdcv63k8c5tu2m7Vp3vUkQmd9HjoHfEacPvjdPnj",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 1, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "CVjpUwfi9HvUAT9HrWGEmGcXkm8ZHwFKHqbWq1Yn95ZN",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "GTysRdcv63k8c5tu2m7Vp3vUkQmd9HjoHfEacPvjdPnj",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "atadia.top"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/CVjpUwfi9HvUAT9HrWGEmGcXkm8ZHwFKHqbWq1Yn95ZN",
+          "scraped_at": "2026-01-24T20:29:57.980505"
+        },
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Fake Cets on Creck NFT site. Spread via airdropped NFTs with the link attached to it.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 29, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "CVjpUwfi9HvUAT9HrWGEmGcXkm8ZHwFKHqbWq1Yn95ZN",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "cetsoncreck.online"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/CVjpUwfi9HvUAT9HrWGEmGcXkm8ZHwFKHqbWq1Yn95ZN",
+          "scraped_at": "2026-01-24T20:29:57.980512"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 3,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BgAPtMTBV3mo18uQ3k61ikrJBWVkfXZjxT5UqCxbEe5U",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Spread via a Twitter account impersonating the original @DegenSweepers. Typosquatting. First I've seen that obfuscated the Solana drainer js.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 4, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "BgAPtMTBV3mo18uQ3k61ikrJBWVkfXZjxT5UqCxbEe5U",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "degensweeper.io"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/BgAPtMTBV3mo18uQ3k61ikrJBWVkfXZjxT5UqCxbEe5U",
+          "scraped_at": "2026-01-24T20:29:57.981120"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Exi964mWHtpazeVMo4nuEjeYzxRzo1ANt5yyREXvBRFc",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Sad to report my main wallet, Exi964mWHtpazeVMo4nuEjeYzxRzo1ANt5yyREXvBRFc aka wakame.sol was amongst the ones drained on August 2nd. From speaking to some people within the Solana ecosystem/devs/Foundation, I am probably the wallet that got rekt the most (208k USDC and 1k SOL, gone before anyone even took note of the exploit).\nI already had a feeling it might have been via Slope when I saw it mentioned, as I did test it in November before deleting it when I got in the Phantom Beta.\nI've already gotten in touch with some people in the ecosystem and Solana Foundation: Austin (Federa) as well as Ben (Sparang) who informed me they pinged Slope and provided them my contact details (have not heard back as of now, which is why I am filling in this form).\nNFTs and .sol domains have now been moved to a fresh wallet, but absolutely all of my funds are gone.\nPlease get in touch with me directly for any info you need to verify me or technical details you'd need me to provide to help the investigation.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 6, 2022",
+          "vote_count": 13,
+          "addresses": [
+            {
+              "address": "Exi964mWHtpazeVMo4nuEjeYzxRzo1ANt5yyREXvBRFc",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/Exi964mWHtpazeVMo4nuEjeYzxRzo1ANt5yyREXvBRFc",
+          "scraped_at": "2026-01-24T20:29:58.077591"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CvrZWh7MrtesNXqaBr2NVFK9ADMNLPsSw335n21v58Lc",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake Nyan Heroes minting site. The discord server was compromised.\n\nScam kit shows it was bought from cryptokens[.]sellix[.]io",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 13, 2022",
+          "vote_count": 6,
+          "addresses": [
+            {
+              "address": "8beT2XMuQTDBJGCSdmVMrGf2J2KE8dkwyUcZgaaderzr",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CvrZWh7MrtesNXqaBr2NVFK9ADMNLPsSw335n21v58Lc",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "nyanheros.org"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/CvrZWh7MrtesNXqaBr2NVFK9ADMNLPsSw335n21v58Lc",
+          "scraped_at": "2026-01-24T20:29:57.979725"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/ExetWU1aDdaYnc1LbiNawcFNjH1ot5TzN59FmTv7j265",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Monkeykingdom discord was hacked a fake minting website popped up which resulted in over $1 million in losses.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "7SAE21bjc3BXMAbfa2efgDhBPFYQpNKZbCg6RxULbcZ6",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "ExetWU1aDdaYnc1LbiNawcFNjH1ot5TzN59FmTv7j265",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "monkeykingdoms.io"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/ExetWU1aDdaYnc1LbiNawcFNjH1ot5TzN59FmTv7j265",
+          "scraped_at": "2026-01-24T20:30:03.274365"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/EqjpdYRtHhkNWRCur4zsoEcsjysJzoAecrtQ59qryEah",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Impersonated LaunchMyNFT",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 20, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "EqjpdYRtHhkNWRCur4zsoEcsjysJzoAecrtQ59qryEah",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "lanuchmynft.com",
+            "lanuchmynft.com/collections/7ssG2p3ebSohBYHizLTH32XFu8PyTceLchBUF1mVuWDM/"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "source_url": "https://www.chainabuse.com/address/EqjpdYRtHhkNWRCur4zsoEcsjysJzoAecrtQ59qryEah",
+          "scraped_at": "2026-01-24T20:30:04.738152"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Impersonated LaunchMyNFT. Related to MechaRhinos_ on Twitter.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 11, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "EqjpdYRtHhkNWRCur4zsoEcsjysJzoAecrtQ59qryEah",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "lanuchnynft.io",
+            "lanuchnynft.io/collections/8ENHtpNi48BfahWiMtRorULmSYRH669YxN98uRQjEKUf/PCQ46i2f2b3xdKosXunM/"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "source_url": "https://www.chainabuse.com/address/EqjpdYRtHhkNWRCur4zsoEcsjysJzoAecrtQ59qryEah",
+          "scraped_at": "2026-01-24T20:30:04.738166"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 4
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BnQ942SdwPcCDp9qtSwkmy63fXxoAKFM6tpgxhaajPJ6",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Airdrop NFT led me to solscan.space url for a free mint token (which I has been expecting from another project). Clicked the button, then the drainer took a little over 6 SOL",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 2, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BnQ942SdwPcCDp9qtSwkmy63fXxoAKFM6tpgxhaajPJ6",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "7NgKBuQ98KVC41LreQhoU7AHvfM4oDoa5EFrE9tyh6ra",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "HTTPS://Solscan.space"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/BnQ942SdwPcCDp9qtSwkmy63fXxoAKFM6tpgxhaajPJ6",
+          "scraped_at": "2026-01-24T20:30:05.352141"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+      "reports": [
+        {
+          "category": "Crypto Hacks: Report and Stay Safe with Chainabuse",
+          "description": "Slope Wallet Hack August 2022",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Oct 10, 2023",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "4JfXWXd2aenLncrdpJcryX8kZVJUSHyGPnc6HSyhA2Es",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+          "scraped_at": "2026-01-24T20:30:05.548487"
+        },
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "The Slope Finance hack is one which ultimately leads one to believe that the company itself rug pulled its users by logging their private keys to their server via their sentry installation and then using said keys to steal fund. As the bulk of funds stolen were in USDC it is possible for Circle to block the movement of funds from the wallet which i provided in this report. If Circle are able to block the funds from moving we can at least instil some hope in the community that their funds will not exit the chain and be obfuscated. If Circle and Binance/other centralised exchanges work together we can get these stolen funds back to their rightful owners through checking for verified accounts which have funded the victim accounts. Since the hack occurred the crypto community has left the victims without so much as an apology and the strategy laid out here is one which can provide some hope to people whom have been scammed in the middle of a global cost of living crisis. Please help us guys.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jan 16, 2023",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+          "scraped_at": "2026-01-24T20:30:05.548502"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Over 8,000 members of the Solana ecosystem were hit in a wide spread attack that resulted in wallets being drained. A seperate drain attack likely connected targeting ethereum ecosytem was also reported. Investigation is on-going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 3, 2022",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+          "scraped_at": "2026-01-24T20:30:05.548506"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 9,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/EwLuX2y9jmDoZafSoHoTgV9zP3958FxTZBZzYMM5xGWn",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "= Crossposting old reports =\n\nKidzTokyo's Discord server was compromised on May 23, 2022.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 18, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "HJxJuUH9Gs1MaDev7aMLKghRojGxrdaNusV6iyo5F5kh",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DViTjXvW1hANLbcSkeKBcEgAbmjLAQYCudKKjhGCHf7K",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "kidztokyo.net"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/EwLuX2y9jmDoZafSoHoTgV9zP3958FxTZBZzYMM5xGWn",
+          "scraped_at": "2026-01-24T20:30:05.831132"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BsqT9oQ5HaRuGPaNstpSy9wNjQjAenEM7igzKx1xjzW3",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake Miners of Mars NFT mint site. Same drainer kit from cryptokens[.]sellix[.]io (previously tokens404[.]com)",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 13, 2022",
+          "vote_count": 7,
+          "addresses": [
+            {
+              "address": "BsqT9oQ5HaRuGPaNstpSy9wNjQjAenEM7igzKx1xjzW3",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "minersofmars.minting.li"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/BsqT9oQ5HaRuGPaNstpSy9wNjQjAenEM7igzKx1xjzW3",
+          "scraped_at": "2026-01-24T20:30:06.055963"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/D8z9A8mRJNe9CVMAevFz2gsEdmC12bXC1AK758umb7GC",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Sol Snek copycat that ran a website with a fake mint clock to trick people into thinking they were running out of snek nfts.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "D8z9A8mRJNe9CVMAevFz2gsEdmC12bXC1AK758umb7GC",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "sneks.at"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/D8z9A8mRJNe9CVMAevFz2gsEdmC12bXC1AK758umb7GC",
+          "scraped_at": "2026-01-24T20:30:06.081972"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/DY29znXDx59Mz3dp2sT6e73SF7oftfnCGF5LC4Zgf5wJ",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Solana drainer. Sends tokens to victims with its symbol name as the domain to lure them.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 16, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "D9fAA13WkiU8jR3GkjFKLW966AkEKLZgKdB1hxQkd5CP",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DY29znXDx59Mz3dp2sT6e73SF7oftfnCGF5LC4Zgf5wJ",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "terium.info"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/DY29znXDx59Mz3dp2sT6e73SF7oftfnCGF5LC4Zgf5wJ",
+          "scraped_at": "2026-01-24T20:30:06.193934"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Esmx2QjmDZMjJ15yBJ2nhqisjEt7Gqro4jSkofdoVsvY",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Flashloan attack on Solana Crema Finance. Attacker pre-funded solana wallet with a deposit from Huobi.  Funds bridged via wormhole to ethereum wallet that was pre-funded with two deposits from Tornado cash.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 3, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "0x40862d19758a81aff044aaf3a0a1e3e7d04afde3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2c1864889cf486c962e46cc7894e6b0e2f55ab43",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xae855cc58d6d864f7332fc1abce9040e425f931c",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/Esmx2QjmDZMjJ15yBJ2nhqisjEt7Gqro4jSkofdoVsvY",
+          "scraped_at": "2026-01-24T20:30:06.267925"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CZCHccG7sbJ523ZGNApvJn6HtRZTn63ba182f3TtMAHV",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake Neo Hunters NFT mint. Same drainer kit from cryptokens[.]sellix[.]io (previously tokens404[.]com)",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 13, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "CZCHccG7sbJ523ZGNApvJn6HtRZTn63ba182f3TtMAHV",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "hunters.mintverse.me"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/CZCHccG7sbJ523ZGNApvJn6HtRZTn63ba182f3TtMAHV",
+          "scraped_at": "2026-01-24T20:30:06.571103"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/DXRAhgxEwP5Gpz51ZYsL8XoEh16vsUfKzi5Kd8SBF8rP",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Solana giveaway scam claiming to give over 1,000,000 solana out https://www.pcrisk.com/removal-guides/21763-solana-sol-giveaway-scam",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "DXRAhgxEwP5Gpz51ZYsL8XoEh16vsUfKzi5Kd8SBF8rP",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/DXRAhgxEwP5Gpz51ZYsL8XoEh16vsUfKzi5Kd8SBF8rP",
+          "scraped_at": "2026-01-24T20:30:10.425111"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/F4dF9bnf5WxcfTJnDxt4D4t2CipseQgESXS24YCnNmZB",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "What happened:\n\nI myself am a developer and often work with clients to get blockchain jobs done. This client reached out to me about creating an NFT collection for them. They already had the base characters and wanted the attributes plus the mint and everything made. Seemed like a normal job, but in hind-site there budget was suspiciously large although we never settled on final price and he seemed to want some integration work done as well so I didn\u2019t think much of it.\n\nAfter talking back and forth (discord chat attached) we seemed like we were good. We hopped on a call and spoke about final details and he mentioned I could download both a beta version of the game and the artists files online and sent me the link. The game appeared legit and I saw they had a twitter and a discord that looked legit as well. I obviously didn\u2019t look into them as much as I should.\n\nI downloaded the files and unzipped them. Clicking through them I tried running one that was the game to see what it was about, and this was obviously the biggest mistake. An hour or so later I checked my wallets and all sol was gone and most NFTs I panicked and tried to save whatever I could. From about 12 different wallets, all drained. About 1200 total SOL plus multiple NFTs. I then noticed my metamask wallet had the same thing happen to it. About 10 ETH in total was taken from that plus they floored multiple NFTs of mine and cashed that out before I had time to send out anything that was left.\n\nI know I made many mistakes in this process and also know I probably wont get that money back but any chance I have im willing to take cause that was almost everything I had. Thankfully I had some bitcoin and a couple NFTs on my ledger, but had all my SOL and eth on hot wallets because ive been day trading with it. I estimate that I lost around $70,000 worth of stuff (about 550 SOL of that was my projects treasury).\n\nI know one other project founder also lost everything from this same scam. Over 1000 sol.\n\nMy compromised SOL wallets (from largest funds to smallest):\n\n2eUQKVR5jqk9qHsx75fCAwwVosuM9Eprpryt3wNT8uxj\n5HgM9TCvNbLddDqUVkHv7W1jBcAYt8VptgX5D6P8SNE3\nBp4vdRUUfygTj3RgQrFvDSQDka4aBzRyvP7do7Jus3Ee\n63xA3EqYaR7UosdcZcBQgPyLBttrzaHwxvmoSiTSDQbC\nzo4PwdyqCuu86BGeVk5N71jAq516CD5vRYy63n6uSzg\nAa586CoHSmRXKt4NSAN75YaNecms5UVMbhWx5HvL9pg3\n6Y3DKHgWX5tU6S4smXt9mstrEzn4krEyibqbn16LgFe7\n\nThere was a few other wallets compromised but nothing of much value was in it or taken.\n\nMy eth wallets compromised:\n0x68f7036f41Bf4FC370E273Eb3dc7f95A979afc9A\n0x7098C5846c570Fc30315e31d9F6545A71034ABFa\n\nI was able to save some NFTs but not much of value.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 20, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "DJ7doi4vLtL8N3kpQjh1YK91gcK1a4JYmeUPtJL4bE4K",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Abih5VzqFR8qMCJZNi1C7pJjkVZThgaKk9r6gjv1kYmC",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://idlemaster3d.com/"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/F4dF9bnf5WxcfTJnDxt4D4t2CipseQgESXS24YCnNmZB",
+          "scraped_at": "2026-01-24T20:30:10.930492"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BFR6WoBZg12LiidMXgDA8n9zkcqJ9sBK86dLQ7hF22sp",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Twitter user @0x_fxnction had his Solana Wallet compromised on April 18th 2022 for $250k worth of various NFTs. Hacker bridged funds over from Solana to Ethereum via Wormhole then swapped fro DAI & ETH before depositing into Tornado Cash. ZachXBT used heuristics to identify the withdrawal address. Hacker proceeded to attempt to cash out $50k on p2p exchange but funds were frozen by ZachXBT beforehand. Rest of funds currently sit in 0x31264Ca6EE7b3Ab6d99e9bd35e1C7d5Dc53656c3",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 9, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "0xc7bbd917aa82e919822270a8abdcacc051fcafeb",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "HdvF4cVmdxKT7vhuNpyhFGaNZbGopcxsz4CjaSZdTHww",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "BFR6WoBZg12LiidMXgDA8n9zkcqJ9sBK86dLQ7hF22sp",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/BFR6WoBZg12LiidMXgDA8n9zkcqJ9sBK86dLQ7hF22sp",
+          "scraped_at": "2026-01-24T20:30:11.644155"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Deu4wPQB5jWtXLhJ2bENWfmrS5zpDeMzrY9UHTrX2YJ8",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "= Crossposting old reports =\n\nKidzTokyo's Discord server was compromised on May 23, 2022.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 18, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "HJxJuUH9Gs1MaDev7aMLKghRojGxrdaNusV6iyo5F5kh",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DViTjXvW1hANLbcSkeKBcEgAbmjLAQYCudKKjhGCHf7K",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "kidztokyo.net"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/Deu4wPQB5jWtXLhJ2bENWfmrS5zpDeMzrY9UHTrX2YJ8",
+          "scraped_at": "2026-01-24T20:30:13.487756"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BtVGaSY3wsxy4DfGKVYay5S9QmzuRv6P8AMiuEocTwBV",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "I lost 15000USDC. I had my wallet locked for some days while a was busy with work. Then when I checked my wallet all my USDC was drained.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 6, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "BtVGaSY3wsxy4DfGKVYay5S9QmzuRv6P8AMiuEocTwBV",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/BtVGaSY3wsxy4DfGKVYay5S9QmzuRv6P8AMiuEocTwBV",
+          "scraped_at": "2026-01-24T20:30:13.613019"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/DN6FoYTNFTsjQ6ybBVqiL6MCNcSKrww4pgt6BiDtS29G",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "After interacting with the contract, the attacker will gain access to wallet tokens and directly transfer the assets in my current wallet",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 22, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "ENgsysQE1QQHGRdgSRmVv4QtyjGcUrdD5Sp6c141K8ho",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DN6FoYTNFTsjQ6ybBVqiL6MCNcSKrww4pgt6BiDtS29G",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://paydex.so/"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/DN6FoYTNFTsjQ6ybBVqiL6MCNcSKrww4pgt6BiDtS29G",
+          "scraped_at": "2026-01-24T20:30:14.432843"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/FCtJjQSGRmBkh6D9Bgzpuc45cUdhaB45uwiDU4RLRoF6",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Interstellar Bots  executed a rug pull in October. They claimed to mint 1 bot per 1 solana.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "FCtJjQSGRmBkh6D9Bgzpuc45cUdhaB45uwiDU4RLRoF6",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "interstellarbots.space"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/FCtJjQSGRmBkh6D9Bgzpuc45cUdhaB45uwiDU4RLRoF6",
+          "scraped_at": "2026-01-24T20:30:14.334768"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+      "reports": [
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "Claimed to have a sex tape of me and will share it if I dont send bitcoin.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "May 26, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+          "scraped_at": "2026-01-24T20:30:14.772585"
+        },
+        {
+          "category": "Sextortion Scams: Learn and Report on Chainabuse",
+          "description": "Blackmail. Trying to extort bitcoin. Emailer said they had a sex video of me and would share it with my contacts unless I paid them 2000 bitcoin.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 24, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+          "scraped_at": "2026-01-24T20:30:14.772598"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Transfer $1000 in bitcoin to the underneath address (remove***from it): \n_x000D_\nbc1***qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u_x000D_\n_x000D_\nYou might be thinking why the heck would you do that? Very well, put together yourself simply because I am going to shake your entire world now. I had a serious viruses infect your computer and record video of YOU (using your webcam) whilst you browsed adult web sites._x000D_\n_x000D_\nHere is one of your security password jerome_x000D_\n_x000D_\nStill dont believe me? Respond 7 and I will be randomly share your video clip with 7 people you know (Yes, We have access to your contact list too)._x000D_\n_x000D_\nToday, exactly what do I want to get this to whole thing go away? Very well, I have already talked about the actual offer in beginning of the email. Should you not fulfill it within Twenty four hrs, I most certainly will make your life horrible by delivering that video clip to Everybody you know. Your time frame starts right now.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 16, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+          "scraped_at": "2026-01-24T20:30:14.772601"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Pay $1000 in btc to the following address (remove***from it): \n_x000D_\nbc1***qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u_x000D_\n_x000D_\nYou might be thinking why the heck would you do that? Very well, prepare yourself simply because I am going to move your world at this moment. I had a hazardous adware and spyware infect your computer as well as record movie of YOU (using your cam) while you looked at adult web sites._x000D_\n_x000D_\nThis is one of your own security password cgrmtn99_x000D_\n_x000D_\nStill dont believe me? Reply 7 and Ill be randomly share your video with 7 people you know (Yes, Weve access to your address book also)._x000D_\n_x000D_\nNow, exactly what do I want to get this to whole thing go away? Very well, I have already mentioned the actual deal in starting of the mail. If you do not fulfill it within Twenty four hours, I most certainly will make your life nightmare by mailing that video to Every person you know. Your time begins right now.",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 16, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+          "scraped_at": "2026-01-24T20:30:14.772604"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Pay $1000 in bitcoin to the following address",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Apr 16, 2020",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/bc1qzzz9s423zy59ytq74v24lrt7fe4hnk0m6qw00u",
+          "scraped_at": "2026-01-24T20:30:14.772606"
+        }
+      ],
+      "total_reports": 5,
+      "total_addresses": 5,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Multiple Solana community members interacted with a malicious contract that drained all NFTs and Sol within wallet. The referenced addresses are reportedly associated with deposit addresses used by attacker(s). Investigation on going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 31, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+          "scraped_at": "2026-01-24T20:30:14.986604"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Fe5A77H6ZYp8x9TijiNUbZy5qSW7oc1b3tqLkdoA8kDB",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Spammers on Sentries_SOL's Discord server. Solana drainer.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 10, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "Fe5A77H6ZYp8x9TijiNUbZy5qSW7oc1b3tqLkdoA8kDB",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "sentries.live"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/Fe5A77H6ZYp8x9TijiNUbZy5qSW7oc1b3tqLkdoA8kDB",
+          "scraped_at": "2026-01-24T20:30:15.066198"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/EUjvi8Bv3wcE4f5rxA4rXZtbCQw9wEUjYpzhjhEmLSzG",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "BallerApeClub executed a rugpull for a fake NFT mint and stole over 7,000 in Solana.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "4BGKKuj26cbxJNszGXMMzw1gettydfg8SVfaAnRWZ9ud",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "ballermint2.ballerapeclub.com",
+            "ballermint.ballerapeclub.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "source_url": "https://www.chainabuse.com/address/EUjvi8Bv3wcE4f5rxA4rXZtbCQw9wEUjYpzhjhEmLSzG",
+          "scraped_at": "2026-01-24T20:30:18.470142"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/ENgsysQE1QQHGRdgSRmVv4QtyjGcUrdD5Sp6c141K8ho",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "After interacting with the contract, the attacker will gain access to wallet tokens and directly transfer the assets in my current wallet",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 22, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "ENgsysQE1QQHGRdgSRmVv4QtyjGcUrdD5Sp6c141K8ho",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DN6FoYTNFTsjQ6ybBVqiL6MCNcSKrww4pgt6BiDtS29G",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://paydex.so/"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/ENgsysQE1QQHGRdgSRmVv4QtyjGcUrdD5Sp6c141K8ho",
+          "scraped_at": "2026-01-24T20:30:18.819838"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/FgqbtTG2VnqieXf1uUuhnNL9Br9yofkFL4mtegUjobbB",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "1,000,000 solana airdrop giveaway claiming endorsement by the co-founder Anatoly.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "FgqbtTG2VnqieXf1uUuhnNL9Br9yofkFL4mtegUjobbB",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/FgqbtTG2VnqieXf1uUuhnNL9Br9yofkFL4mtegUjobbB",
+          "scraped_at": "2026-01-24T20:30:18.805014"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/G7hqnVmqCoWmYXjupRfgHu3iZwxnEbQnEXre7r1srZWt",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phantom wallet phishing scam that steals solana from users.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 15, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "G7hqnVmqCoWmYXjupRfgHu3iZwxnEbQnEXre7r1srZWt",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "4j2Bi8CNhZKpmv3fgeeSABdpB66U7xWDD9nnnaZCuFZ",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/G7hqnVmqCoWmYXjupRfgHu3iZwxnEbQnEXre7r1srZWt",
+          "scraped_at": "2026-01-24T20:30:19.709852"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/EzcUptsX3yeQM2yse9SuR19nZJJo22jZbhbaj694Udjg",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Mini Guys launched a website claiming to mint 10,000 at a cost of .5 solana but they rugged everyone.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "EzcUptsX3yeQM2yse9SuR19nZJJo22jZbhbaj694Udjg",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/EzcUptsX3yeQM2yse9SuR19nZJJo22jZbhbaj694Udjg",
+          "scraped_at": "2026-01-24T20:30:22.167995"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BvaQ8qJJzTsgRPtWy5YZAU2CATTYgUNAF7Gw63y9a2wW",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "I lost 39.5 solana due to slopes idiotic ways of handling the crypto \"security\". I had my wallet locked for some days while a was busy with work. Then when I checked my wallet all my sol was drained.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 6, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "BvaQ8qJJzTsgRPtWy5YZAU2CATTYgUNAF7Gw63y9a2wW",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/BvaQ8qJJzTsgRPtWy5YZAU2CATTYgUNAF7Gw63y9a2wW",
+          "scraped_at": "2026-01-24T20:30:22.755963"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Di3UUJZK3vSRe9xCshsrN65rKkwMr6jKAEiZHQCxhUqe",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Claimed to provide 1,000,000 solana as part of an airdrop scam. You will get rugged if you arnt careful with airdrops.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "Di3UUJZK3vSRe9xCshsrN65rKkwMr6jKAEiZHQCxhUqe",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "solvision.io"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/Di3UUJZK3vSRe9xCshsrN65rKkwMr6jKAEiZHQCxhUqe",
+          "scraped_at": "2026-01-24T20:30:22.615316"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CT4BJTcwKDa5P19Cq4uqDK8hcBwWooB2rnDyTAXvXT5K",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Scam NFT Mint",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 28, 2022",
+          "vote_count": 6,
+          "addresses": [
+            {
+              "address": "8vmfpC295wnxH7mnPw3GpfvD9mCCdJBj81mPfe9PL9Wi",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "XzR7CUMqhDBzbAm4aUNvwhVCxjWGn1KEvqTp3Y8fFCD",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://solanaeuless.com/"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/CT4BJTcwKDa5P19Cq4uqDK8hcBwWooB2rnDyTAXvXT5K",
+          "scraped_at": "2026-01-24T20:30:23.297092"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/DJ7doi4vLtL8N3kpQjh1YK91gcK1a4JYmeUPtJL4bE4K",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "What happened:\n\nI myself am a developer and often work with clients to get blockchain jobs done. This client reached out to me about creating an NFT collection for them. They already had the base characters and wanted the attributes plus the mint and everything made. Seemed like a normal job, but in hind-site there budget was suspiciously large although we never settled on final price and he seemed to want some integration work done as well so I didn\u2019t think much of it.\n\nAfter talking back and forth (discord chat attached) we seemed like we were good. We hopped on a call and spoke about final details and he mentioned I could download both a beta version of the game and the artists files online and sent me the link. The game appeared legit and I saw they had a twitter and a discord that looked legit as well. I obviously didn\u2019t look into them as much as I should.\n\nI downloaded the files and unzipped them. Clicking through them I tried running one that was the game to see what it was about, and this was obviously the biggest mistake. An hour or so later I checked my wallets and all sol was gone and most NFTs I panicked and tried to save whatever I could. From about 12 different wallets, all drained. About 1200 total SOL plus multiple NFTs. I then noticed my metamask wallet had the same thing happen to it. About 10 ETH in total was taken from that plus they floored multiple NFTs of mine and cashed that out before I had time to send out anything that was left.\n\nI know I made many mistakes in this process and also know I probably wont get that money back but any chance I have im willing to take cause that was almost everything I had. Thankfully I had some bitcoin and a couple NFTs on my ledger, but had all my SOL and eth on hot wallets because ive been day trading with it. I estimate that I lost around $70,000 worth of stuff (about 550 SOL of that was my projects treasury).\n\nI know one other project founder also lost everything from this same scam. Over 1000 sol.\n\nMy compromised SOL wallets (from largest funds to smallest):\n\n2eUQKVR5jqk9qHsx75fCAwwVosuM9Eprpryt3wNT8uxj\n5HgM9TCvNbLddDqUVkHv7W1jBcAYt8VptgX5D6P8SNE3\nBp4vdRUUfygTj3RgQrFvDSQDka4aBzRyvP7do7Jus3Ee\n63xA3EqYaR7UosdcZcBQgPyLBttrzaHwxvmoSiTSDQbC\nzo4PwdyqCuu86BGeVk5N71jAq516CD5vRYy63n6uSzg\nAa586CoHSmRXKt4NSAN75YaNecms5UVMbhWx5HvL9pg3\n6Y3DKHgWX5tU6S4smXt9mstrEzn4krEyibqbn16LgFe7\n\nThere was a few other wallets compromised but nothing of much value was in it or taken.\n\nMy eth wallets compromised:\n0x68f7036f41Bf4FC370E273Eb3dc7f95A979afc9A\n0x7098C5846c570Fc30315e31d9F6545A71034ABFa\n\nI was able to save some NFTs but not much of value.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 20, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "DJ7doi4vLtL8N3kpQjh1YK91gcK1a4JYmeUPtJL4bE4K",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Abih5VzqFR8qMCJZNi1C7pJjkVZThgaKk9r6gjv1kYmC",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://idlemaster3d.com/"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/DJ7doi4vLtL8N3kpQjh1YK91gcK1a4JYmeUPtJL4bE4K",
+          "scraped_at": "2026-01-24T20:30:23.385660"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/DViTjXvW1hANLbcSkeKBcEgAbmjLAQYCudKKjhGCHf7K",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "= Crossposting old reports =\n\nKidzTokyo's Discord server was compromised on May 23, 2022.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 18, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "HJxJuUH9Gs1MaDev7aMLKghRojGxrdaNusV6iyo5F5kh",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DViTjXvW1hANLbcSkeKBcEgAbmjLAQYCudKKjhGCHf7K",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "kidztokyo.net"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/DViTjXvW1hANLbcSkeKBcEgAbmjLAQYCudKKjhGCHf7K",
+          "scraped_at": "2026-01-24T20:30:23.295931"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/CUXfEcNvXD3dvYu16moFzVbXXTfxfZw6GsFp4r24zf11",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "I sent 50 solanas to this scammer! He had it set up pretty well, it like real Terra stuff. Be ware, I lost 2000 euros to this individual. Sad,! It was all my savings. Cannot trust anyone out there. Beware of fake sites and impostors, never ever send anything to anyone, this was through Telegram. Cheers.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 30, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "CUXfEcNvXD3dvYu16moFzVbXXTfxfZw6GsFp4r24zf11",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/CUXfEcNvXD3dvYu16moFzVbXXTfxfZw6GsFp4r24zf11",
+          "scraped_at": "2026-01-24T20:30:26.613351"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/FTXw9aVwZryUuRH7atedkEKRiwfHWG6tGZnPejWMB3Vk",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "A scammer compromised the DAISUKI Discord server. Who then posted announcements leading users to a phishing scam website. The phishing website stole crypto assets.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Oct 8, 2023",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "FTXw9aVwZryUuRH7atedkEKRiwfHWG6tGZnPejWMB3Vk",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "www.daisukiclub.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/FTXw9aVwZryUuRH7atedkEKRiwfHWG6tGZnPejWMB3Vk",
+          "scraped_at": "2026-01-24T20:30:26.285293"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Daisuki_NFT's Discord was compromised.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 13, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "FTXw9aVwZryUuRH7atedkEKRiwfHWG6tGZnPejWMB3Vk",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "daisukiclub.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/FTXw9aVwZryUuRH7atedkEKRiwfHWG6tGZnPejWMB3Vk",
+          "scraped_at": "2026-01-24T20:30:26.285309"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/FVyEoyV8AcoZufpY4oHR9fLbcKcWiZDwrARo6RX5mf7d",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "@frankdegods Twitter ATO. First Solana drainer that I've seen evading website scanners and steals NFTs aside from SOL only.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 5, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "FVyEoyV8AcoZufpY4oHR9fLbcKcWiZDwrARo6RX5mf7d",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "monsterbattleleagues.com",
+            "pagetrack.xyz"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "source_url": "https://www.chainabuse.com/address/FVyEoyV8AcoZufpY4oHR9fLbcKcWiZDwrARo6RX5mf7d",
+          "scraped_at": "2026-01-24T20:30:26.954090"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/bc1qzzx8fmg85w33608lqwh7unh6yk9nxyjsgxy2pq",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: scam",
+          "description": "autotrade25.com Alexander William 346-291-0127",
+          "submitted_by": "BITCOINABUSE",
+          "submitted_time": "Aug 27, 2021",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "bc1qzzx8fmg85w33608lqwh7unh6yk9nxyjsgxy2pq",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/bc1qzzx8fmg85w33608lqwh7unh6yk9nxyjsgxy2pq",
+          "scraped_at": "2026-01-24T20:30:27.382723"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/de1V7Ep7xggpjyCYHyukUiBPXmCWF3TDs5U7p5tsouh",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Multiple Solana community members interacted with a malicious contract that drained all NFTs and Sol within wallet. The referenced addresses are reportedly associated with deposit addresses used by attacker(s). Investigation on going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 31, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/de1V7Ep7xggpjyCYHyukUiBPXmCWF3TDs5U7p5tsouh",
+          "scraped_at": "2026-01-24T20:30:29.571555"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Hello, I downloaded the code from \"SolanaNFTHolder/MagicEden-minting-bot\" and it drained my Phantom wallet. I am currently devastated since the drain took me ~$436 which is 70% of all my investment savings. I downloaded the code, did the tutorial as shown in his GitHub page, and stored in my computer. Approximately 4 hours after the download, I started to receive notifications from my Phantom Wallet that my money and NFTs were being drained. I am 100% sure that this drain came from this code since I put my wallet's seedphrases and password in it in order to run the bot. I am still shocked and desperate from what happened since that money was extremely valuable to me since I do not have much capital.\n\nAll the money went to this Solana wallet: BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB\n\nOnce again, I am devastated and I hope to hear something from GitHub. I do not want to see more people giving money to this thief.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 6, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB",
+          "scraped_at": "2026-01-24T20:30:29.557267"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/GeEccGJ9BEzVbVor1njkBCCiqXJbXVeDHaXDCrBDbmuy",
+      "reports": [
+        {
+          "category": "Crypto Hacks: Report and Stay Safe with Chainabuse",
+          "description": "Slope Wallet Hack August 2022",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Oct 10, 2023",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "4JfXWXd2aenLncrdpJcryX8kZVJUSHyGPnc6HSyhA2Es",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/GeEccGJ9BEzVbVor1njkBCCiqXJbXVeDHaXDCrBDbmuy",
+          "scraped_at": "2026-01-24T20:30:29.933913"
+        },
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "The Slope Finance hack is one which ultimately leads one to believe that the company itself rug pulled its users by logging their private keys to their server via their sentry installation and then using said keys to steal fund. As the bulk of funds stolen were in USDC it is possible for Circle to block the movement of funds from the wallet which i provided in this report. If Circle are able to block the funds from moving we can at least instil some hope in the community that their funds will not exit the chain and be obfuscated. If Circle and Binance/other centralised exchanges work together we can get these stolen funds back to their rightful owners through checking for verified accounts which have funded the victim accounts. Since the hack occurred the crypto community has left the victims without so much as an apology and the strategy laid out here is one which can provide some hope to people whom have been scammed in the middle of a global cost of living crisis. Please help us guys.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jan 16, 2023",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/GeEccGJ9BEzVbVor1njkBCCiqXJbXVeDHaXDCrBDbmuy",
+          "scraped_at": "2026-01-24T20:30:29.933923"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Over 8,000 members of the Solana ecosystem were hit in a wide spread attack that resulted in wallets being drained. A seperate drain attack likely connected targeting ethereum ecosytem was also reported. Investigation is on-going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 3, 2022",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/GeEccGJ9BEzVbVor1njkBCCiqXJbXVeDHaXDCrBDbmuy",
+          "scraped_at": "2026-01-24T20:30:29.933925"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 9,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/BMBYtj69YjRPPPque4gsiQdNUiNh4FEpXpvNonhEuYpr",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Eternal Beings $3.9m Rug Pull - Originally was promoted as rapper Lil Uzi Vert's NFT project. The project advertised various roadmap items but after selling out Lil Uzi deleted his tweets and team abandoned the project. None of the roadmap items originally described were completed. Funds were quickly transferred away to exchange accounts.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 5, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "3zP2zyuEqg2Kc7ZcyuTSffJpBnWDw9R6aoVhDiAYEFd4",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "EPoNXCrCdwkxZL7Pe2gH4mPS6TFHMgYb3UuNcU67vCJH",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5LdUdQeQ5md36aCrrEpM5sKG6AT25bJDPTze1xRDfgMS",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/BMBYtj69YjRPPPque4gsiQdNUiNh4FEpXpvNonhEuYpr",
+          "scraped_at": "2026-01-24T20:30:30.698905"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/EMVBc8bJBvUzJAY4A7UEaUAkJNP59G1jmK3tHkNT85cG",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake Matrica site. Same drainer kit from cryptokens[.]sellix[.]io (previously tokens404[.]com)",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 13, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "EMVBc8bJBvUzJAY4A7UEaUAkJNP59G1jmK3tHkNT85cG",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "matrica.cf"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/EMVBc8bJBvUzJAY4A7UEaUAkJNP59G1jmK3tHkNT85cG",
+          "scraped_at": "2026-01-24T20:30:30.763327"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/FtwTTv7oXKDqRFP8kXXkP7AMF2Eordoz2svccktdG3yg",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Solana Towers scammed by pulling the rug with over 1,200 solana stolen.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "FtwTTv7oXKDqRFP8kXXkP7AMF2Eordoz2svccktdG3yg",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/FtwTTv7oXKDqRFP8kXXkP7AMF2Eordoz2svccktdG3yg",
+          "scraped_at": "2026-01-24T20:30:30.803230"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    }
+  ],
+  "empty_urls": [],
+  "failed_urls": []
+}
