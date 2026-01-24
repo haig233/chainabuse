@@ -1,0 +1,1790 @@
+{
+  "batch_number": 88,
+  "url_range": {
+    "start": 4350,
+    "end": 4400,
+    "total": 50
+  },
+  "created_at": "2026-01-24T20:32:00.453203",
+  "summary": {
+    "total_urls": 50,
+    "successful": 48,
+    "empty": 2,
+    "failed": 0,
+    "total_reports": 58,
+    "total_addresses": 107,
+    "total_domains": 15
+  },
+  "successful_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/TUa3XB7caw2dcTAbvc3KeDPP51DL86RL83",
+      "reports": [
+        {
+          "category": "Fake Return Scams: Secure Your Crypto Investments",
+          "description": "Promises USDT mining. Once the victim is hooked on withdrawing USDT daily, the approved wallets steal all of the USDT from the victim.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 8, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "0x0c9bC8FF3a2625A5A7A7770C74525AF1a1Ba254a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3d789157aC8FA7254237dB509Fe65b0ea907EC87",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            },
+            {
+              "address": "TUa3XB7caw2dcTAbvc3KeDPP51DL86RL83",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TUa3XB7caw2dcTAbvc3KeDPP51DL86RL83",
+          "scraped_at": "2026-01-24T20:30:40.783107"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/GkzZ9C6vp2Ju9u59aF2x3iH3kUkXy5aV8JtiwcpVkjvg",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Sollyfish had their phantom wallet compromised and lost over 125 solana to the hacker.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "47svHThN3jD5qmf9WrzetVmCvLD2FpH2PJeK3wuyiuza",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "GkzZ9C6vp2Ju9u59aF2x3iH3kUkXy5aV8JtiwcpVkjvg",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/GkzZ9C6vp2Ju9u59aF2x3iH3kUkXy5aV8JtiwcpVkjvg",
+          "scraped_at": "2026-01-24T20:30:41.813226"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/H29KMo54a65yHCjqNYfvAkSGGuhJMmyP3DozpcvCi3p5",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Airdrop claiming to award up to 1,000,000 solana",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 16, 2022",
+          "vote_count": 0,
+          "addresses": [
+            {
+              "address": "H29KMo54a65yHCjqNYfvAkSGGuhJMmyP3DozpcvCi3p5",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "9REGzdSgpwqMxbQ81eftqWXzdA4AUpZ9Xeh3jv92CNDp",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "sol.gifts/airdrop"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/H29KMo54a65yHCjqNYfvAkSGGuhJMmyP3DozpcvCi3p5",
+          "scraped_at": "2026-01-24T20:30:41.890792"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TLZHR7qMh1GnSEHH6dMBgt45gvNLwS4g2y",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "Domain hosted in Romania that is impersonating Chainlink Labs and claiming to offer discounted sale of the Chainlink (LINK) token. The domain uses JavaScript code to try an initiate a TrustWallet transacation when a victim wants to \"buy\" a token. \n\n0xb209 is a Binance deposit addresses where the scammers sent victim funds.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 27, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "bc1q54v3wsl7fzlxxlt6z9sehwx8ha930l4pn8va7v",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "www.chainlinklabs.net",
+            "chainlinklabs.net"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "source_url": "https://www.chainabuse.com/address/TLZHR7qMh1GnSEHH6dMBgt45gvNLwS4g2y",
+          "scraped_at": "2026-01-24T20:30:41.938441"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TQJUUwKMEfiS9RQq9sBu7dBan1bnWguGPX",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Website claims to help save the children in the ukraine crisis. \"What we do\nWe provide shelter, health, education and care services to the innocent people of Ukraine attacked by Russia.\"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 19, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TQJUUwKMEfiS9RQq9sBu7dBan1bnWguGPX",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TQJUUwKMEfiS9RQq9sBu7dBan1bnWguGPX",
+          "scraped_at": "2026-01-24T20:30:42.047403"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TS4YQLWxNHBPGt8co7wQsaLzdDDaFXvfCF",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "They have claimed that they are an affiliated website of BigCommerce and asked for several transaction and in return promised for the commissions but it was just a scam. I already lost 4000 USDT there.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 1, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TS4YQLWxNHBPGt8co7wQsaLzdDDaFXvfCF",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TS4YQLWxNHBPGt8co7wQsaLzdDDaFXvfCF",
+          "scraped_at": "2026-01-24T20:30:42.120079"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TBwXhAt5cAKaZWNSZUiJPzR5UgBpNHesrj",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "Met a girl on Tinder. Name Hannah, she was from Malesia, she said that she is living in my city in Poland. She is single. We started chatting. After few days she tell me that she is trading cyptocurrency. She would like to show me becouse she is earning so much. Name of trading platform was : app.blackrocking.com. I have send my funds from my Binance account. First small amout like 200$, and then withdraw 350$. After that she saud me taht if i have more money i can earn more. She has contackt with stock market analitics from Wall Street that tell her when to trade to have mist income. Then for few day I was investing more money day by day.  After U invest almost all of my money, she was asking how much money left me. Then try to make me sure taht today is quota market. When I said that I am not able to put more money she said me to put as much i can she will borrow me rest. I said taht I dont like to borrow. After that she said that i should try to withdraw my money. Platform command was that it is Reject. I ask costomer service, Why i can not withdraw my money. Answer was that I earn more that 5x from my invest and i neet to pay 5% taxes. She was making me to pay it.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 24, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TCctVAXAXX5XaZ3NtcxPjxMX6Uj2qGw1eL",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TBwXhAt5cAKaZWNSZUiJPzR5UgBpNHesrj",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TBwXhAt5cAKaZWNSZUiJPzR5UgBpNHesrj",
+          "scraped_at": "2026-01-24T20:30:42.194138"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/LKGMCZZxp4hSCkwDQCuefBiwh93diTKt2z",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Twitter scammer claimed they would donate 264 Litecoin to the community if 60 transactions with .4 LTC were sent to their address.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 12, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "LKGMCZZxp4hSCkwDQCuefBiwh93diTKt2z",
+              "blockchain": "Litecoin",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/LKGMCZZxp4hSCkwDQCuefBiwh93diTKt2z",
+          "scraped_at": "2026-01-24T20:30:42.220718"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/jTZuwZvEJMcdLkcD4RUNt8ap3vDKz1gRrhrbe3gn5MB",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Targeting solana investors. Do not send solana to this website wallet or you will get rugged.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 15, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "jTZuwZvEJMcdLkcD4RUNt8ap3vDKz1gRrhrbe3gn5MB",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://www.solanaevent.tech",
+            "https://www.solanaevent.tech/"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "source_url": "https://www.chainabuse.com/address/jTZuwZvEJMcdLkcD4RUNt8ap3vDKz1gRrhrbe3gn5MB",
+          "scraped_at": "2026-01-24T20:30:42.265493"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/HJxJuUH9Gs1MaDev7aMLKghRojGxrdaNusV6iyo5F5kh",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "= Crossposting old reports =\n\nKidzTokyo's Discord server was compromised on May 23, 2022.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 18, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "HJxJuUH9Gs1MaDev7aMLKghRojGxrdaNusV6iyo5F5kh",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DViTjXvW1hANLbcSkeKBcEgAbmjLAQYCudKKjhGCHf7K",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "kidztokyo.net"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/HJxJuUH9Gs1MaDev7aMLKghRojGxrdaNusV6iyo5F5kh",
+          "scraped_at": "2026-01-24T20:30:46.142226"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TQzgBthTYUGUVQqDG19k1mP4pwKKBNbgGh",
+      "reports": [
+        {
+          "category": "Pig Butchering Scams: Learn and Report on Chainabuse",
+          "description": "Coerced to depositing amounts into coinuped.com with unrealistic high returns generated and then unable to withdraw my money.\nHis name was Ezio. Met him on a social media platform before he suggested we talk on WhatsApp. He asked what I do and he said he\u2019s into gold trading and crypto trading. I mentioned about how I had a small amount invested in stocks and crypto and he suggested he could help increase my returns given I haven\u2019t been very successful with making money from investing in cryptocurrencies. He asked me to create an account on coinuped.com which is what he called a node trading platform (two node trading). Once I did he would give me the actual trades to conduct on the platform and the returns were very high. Kept encouraging me to deposit more to keep up with the market. At some point and to prove the platform was genuine he said he would show me how to withdraw funds from the platform and I did manage to withdraw like $400 just to demonstrate that it\u2019s working. That obviously gave me some reassurance. At some point he suggested to take advantage of a gift activity where the platform would give you 10K of USDT if you deposit $100K within a week. He said I could with withdraw as soon as I complete the activity. Problems started after this when I tried to withdraw. Every time they would come up with a reason to deny the withdrawals saying the audit failed for some made up reason and I would have to deposit a % of my balance within a specified period of time otherwise I would lose my funds. Rather than stopping to think how this doesn\u2019t make sense you\u2019re occupied thinking about how you could make up the penalty amount so as not to lose the rest of your funds. A couple of times this happened and then I realized what I realized and by then it was too late. These guys are very good at what they do.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 13, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TQzgBthTYUGUVQqDG19k1mP4pwKKBNbgGh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TQRZq8HE7B1Pub5y2p8MUJhaxEGR353ry2",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "www.coinuped.com"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TQzgBthTYUGUVQqDG19k1mP4pwKKBNbgGh",
+          "scraped_at": "2026-01-24T20:30:47.154494"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TGBrAiVArhs5Cqp2CGMYUpSmkseznv1Ng7",
+      "reports": [
+        {
+          "category": "Crypto Hacks: Report and Stay Safe with Chainabuse",
+          "description": "Slope Wallet Hack August 2022",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Oct 10, 2023",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "4JfXWXd2aenLncrdpJcryX8kZVJUSHyGPnc6HSyhA2Es",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TGBrAiVArhs5Cqp2CGMYUpSmkseznv1Ng7",
+          "scraped_at": "2026-01-24T20:30:48.896258"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "On 04 August 2022, TGBr (TRON) addresses received 11,800 USDT from 0xc611952d81e4ecbd17c8f963123dec5d7bce1c27 (Ethereum) following a cross-chain swap via Swft Swap. 0xc61 was a likely threat actor aggregation address on ETH related to the Slope Finance wallet exploit on Solana. Victims who used same seed phrase to generate wallets on multiple chains were likely targeted by the threat actor.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 4, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TGBrAiVArhs5Cqp2CGMYUpSmkseznv1Ng7",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TAd4uAHdSVpSjwzfBycmKcQR2UvaW8rVzy",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TGBrAiVArhs5Cqp2CGMYUpSmkseznv1Ng7",
+          "scraped_at": "2026-01-24T20:30:48.896274"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 5,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TDt96Kohk2vJLRdeq5qKsmBgGBRgpNopFD",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Hacker hacked into the phone and wiped out multiple wallets Iamtoken, MyEtherwallet, Trust wallet, and also Coinbase commerce",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 11, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TDt96Kohk2vJLRdeq5qKsmBgGBRgpNopFD",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TDt96Kohk2vJLRdeq5qKsmBgGBRgpNopFD",
+          "scraped_at": "2026-01-24T20:30:49.653628"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TT4PtVJSQxXBeTWQ1Vp9XmpLWJxpc1GvKM",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "The Slope Finance hack is one which ultimately leads one to believe that the company itself rug pulled its users by logging their private keys to their server via their sentry installation and then using said keys to steal fund. As the bulk of funds stolen were in USDC it is possible for Circle to block the movement of funds from the wallet which i provided in this report. If Circle are able to block the funds from moving we can at least instil some hope in the community that their funds will not exit the chain and be obfuscated. If Circle and Binance/other centralised exchanges work together we can get these stolen funds back to their rightful owners through checking for verified accounts which have funded the victim accounts. Since the hack occurred the crypto community has left the victims without so much as an apology and the strategy laid out here is one which can provide some hope to people whom have been scammed in the middle of a global cost of living crisis. Please help us guys.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jan 16, 2023",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TT4PtVJSQxXBeTWQ1Vp9XmpLWJxpc1GvKM",
+          "scraped_at": "2026-01-24T20:30:49.927301"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Over 8,000 members of the Solana ecosystem were hit in a wide spread attack that resulted in wallets being drained. A seperate drain attack likely connected targeting ethereum ecosytem was also reported. Investigation is on-going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 3, 2022",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TT4PtVJSQxXBeTWQ1Vp9XmpLWJxpc1GvKM",
+          "scraped_at": "2026-01-24T20:30:49.927311"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 6,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TCLD2GsHGL2hE2FNYhajntPH8sT6hXsXUN",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "Romance scam, victim was contacted via Twitter from someone purporting to have a trading mentor that can assist the victim in making significant amounts of money.\n\nVictim was identified to have transferred significant USDT on the Tron to two addresses purporting to be a fraudulent platform.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 28, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TGSwxaSs9ngapTSeSrq6V1puUFsmdJBSZh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TCLD2GsHGL2hE2FNYhajntPH8sT6hXsXUN",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TCLD2GsHGL2hE2FNYhajntPH8sT6hXsXUN",
+          "scraped_at": "2026-01-24T20:30:49.928013"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+      "reports": [
+        {
+          "category": "Crypto Hacks: Report and Stay Safe with Chainabuse",
+          "description": "Slope Wallet Hack August 2022",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Oct 10, 2023",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "4JfXWXd2aenLncrdpJcryX8kZVJUSHyGPnc6HSyhA2Es",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+          "scraped_at": "2026-01-24T20:30:49.941199"
+        },
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "The Slope Finance hack is one which ultimately leads one to believe that the company itself rug pulled its users by logging their private keys to their server via their sentry installation and then using said keys to steal fund. As the bulk of funds stolen were in USDC it is possible for Circle to block the movement of funds from the wallet which i provided in this report. If Circle are able to block the funds from moving we can at least instil some hope in the community that their funds will not exit the chain and be obfuscated. If Circle and Binance/other centralised exchanges work together we can get these stolen funds back to their rightful owners through checking for verified accounts which have funded the victim accounts. Since the hack occurred the crypto community has left the victims without so much as an apology and the strategy laid out here is one which can provide some hope to people whom have been scammed in the middle of a global cost of living crisis. Please help us guys.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jan 16, 2023",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+          "scraped_at": "2026-01-24T20:30:49.941212"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Over 8,000 members of the Solana ecosystem were hit in a wide spread attack that resulted in wallets being drained. A seperate drain attack likely connected targeting ethereum ecosytem was also reported. Investigation is on-going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 3, 2022",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+          "scraped_at": "2026-01-24T20:30:49.941215"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 9,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TJCeLsUDmt1SwzzzvEKxqYKjz6pcr7SGw6",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Ukraine donation scam that accepts Bitcoin, Ethereum, and TRON. The website claims the donation makes you stand with the people of Ukraine.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 1, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TJCeLsUDmt1SwzzzvEKxqYKjz6pcr7SGw6",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TJCeLsUDmt1SwzzzvEKxqYKjz6pcr7SGw6",
+          "scraped_at": "2026-01-24T20:30:49.989829"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Multiple Solana community members interacted with a malicious contract that drained all NFTs and Sol within wallet. The referenced addresses are reportedly associated with deposit addresses used by attacker(s). Investigation on going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 31, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+          "scraped_at": "2026-01-24T20:30:50.027970"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TBmxEcMa1QkhXqnfH8jGV7J4nsGCmhRhG8",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "This is embarrassing. I met a girl online and after talking for a while she proceeded to tell me about TRON activity (see www.imoretron.com): USDT below 20,000 receive 3% USDT every day, 20000-49999USDT receive 4%, 50000-99999 receive 6% etc.\nShe then proceeded to show me how to set up a Bitkeep wallet, purchase USDT from Binance and transfer it to the wallet. I could see that I was earning 3% interest daily so steadily increased the USDT in the Bitkeep wallet. I suspect that she made my connect the Bitkeep wallet to a scam website (https://www.safemoretrx.cc/index/neb?key=FHIWT8&from=bitkeep&lang=en) from which she was able to withdraw the USDT herself. Since the USDT was transferred from my wallet I have not been able to contact her anymore.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 30, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TBmxEcMa1QkhXqnfH8jGV7J4nsGCmhRhG8",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TTzu52Cxts9hA3BdkfKNQvd7m18AAdq4bh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TQRMRt5DD6LHqDgaivdN4RL9iqhv8gSJ6L",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TBmxEcMa1QkhXqnfH8jGV7J4nsGCmhRhG8",
+          "scraped_at": "2026-01-24T20:30:53.510784"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/HdvF4cVmdxKT7vhuNpyhFGaNZbGopcxsz4CjaSZdTHww",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Twitter user @0x_fxnction had his Solana Wallet compromised on April 18th 2022 for $250k worth of various NFTs. Hacker bridged funds over from Solana to Ethereum via Wormhole then swapped fro DAI & ETH before depositing into Tornado Cash. ZachXBT used heuristics to identify the withdrawal address. Hacker proceeded to attempt to cash out $50k on p2p exchange but funds were frozen by ZachXBT beforehand. Rest of funds currently sit in 0x31264Ca6EE7b3Ab6d99e9bd35e1C7d5Dc53656c3",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 9, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "0xc7bbd917aa82e919822270a8abdcacc051fcafeb",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "HdvF4cVmdxKT7vhuNpyhFGaNZbGopcxsz4CjaSZdTHww",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "BFR6WoBZg12LiidMXgDA8n9zkcqJ9sBK86dLQ7hF22sp",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/HdvF4cVmdxKT7vhuNpyhFGaNZbGopcxsz4CjaSZdTHww",
+          "scraped_at": "2026-01-24T20:30:53.657174"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TPPLNvCJPs42LhWLAyKw5D7VojLuG14qLQ",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Telegram donation scam claiming to raise funds for the Ukrainian Army. \"\u2757\ufe0fPutin has started a full-scale war against Ukraine. Strikes continue against peaceful Ukrainian cities. This is a war of aggression.\u2757\ufe0f \u2757\ufe0fPlease donate money to the Ukrainian army \ud83d\udc47 \" Another Litecoin address please add litecoin support. LXvUBAbqBVqF2q5DGFWx92Pynepb6KGMJw",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 3, 2022",
+          "vote_count": 6,
+          "addresses": [
+            {
+              "address": "TPPLNvCJPs42LhWLAyKw5D7VojLuG14qLQ",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TPPLNvCJPs42LhWLAyKw5D7VojLuG14qLQ",
+          "scraped_at": "2026-01-24T20:30:54.832668"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/HRyb11gGqwgJL67vLjevtBea1ZWZg6pC38QBQib8p7DE",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Eternal Beings $3.9m Rug Pull - Originally was promoted as rapper Lil Uzi Vert's NFT project. The project advertised various roadmap items but after selling out Lil Uzi deleted his tweets and team abandoned the project. None of the roadmap items originally described were completed. Funds were quickly transferred away to exchange accounts.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 5, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "3zP2zyuEqg2Kc7ZcyuTSffJpBnWDw9R6aoVhDiAYEFd4",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "EPoNXCrCdwkxZL7Pe2gH4mPS6TFHMgYb3UuNcU67vCJH",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5LdUdQeQ5md36aCrrEpM5sKG6AT25bJDPTze1xRDfgMS",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/HRyb11gGqwgJL67vLjevtBea1ZWZg6pC38QBQib8p7DE",
+          "scraped_at": "2026-01-24T20:30:56.405339"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TK8Nye6xCNFZmt6VPogTpVLvYRBaxnXyjV",
+      "reports": [
+        {
+          "category": "Fake Return Scams: Secure Your Crypto Investments",
+          "description": "Tron bi is an app that allows you to deposit tron and get daily returns, although some days it did work when starting out they suddenly stopped due to unknown reasons. Beware you may not get your crypto back once deposited.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 26, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TK8Nye6xCNFZmt6VPogTpVLvYRBaxnXyjV",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TK8Nye6xCNFZmt6VPogTpVLvYRBaxnXyjV",
+          "scraped_at": "2026-01-24T20:30:57.258396"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TBUhBEUqcF6dUB7s8L75vgkCXmFNfdsDQK",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Ukraine donation scam group on telegram. The group keeps posting bitcoin, tron, and ethereum addresses to donate. \"Ukraine Humanitarian Fund The Ukraine Humanitarian Fund is one of the UN's country-based pooled funds. Contributions are collected into a single, unearmarked fund and managed locally under UN leadership. As crises evolve, funds are made directly and immediately available to a wide range of partner organizations at the front lines of response. This way, funding reaches the people most in need when they need it. \"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 3, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TBUhBEUqcF6dUB7s8L75vgkCXmFNfdsDQK",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TBUhBEUqcF6dUB7s8L75vgkCXmFNfdsDQK",
+          "scraped_at": "2026-01-24T20:30:57.399768"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TF3nxDNQq38uT3NEF8je65T3DCQszzLNEX",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Another Ukraine donation scam claiming to help people caught in the crisis. The website claims it is a help Ukraine charity that is providing clean water, shelter, and food.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 19, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TF3nxDNQq38uT3NEF8je65T3DCQszzLNEX",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TF3nxDNQq38uT3NEF8je65T3DCQszzLNEX",
+          "scraped_at": "2026-01-24T20:30:57.474832"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TQRMRt5DD6LHqDgaivdN4RL9iqhv8gSJ6L",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "This is embarrassing. I met a girl online and after talking for a while she proceeded to tell me about TRON activity (see www.imoretron.com): USDT below 20,000 receive 3% USDT every day, 20000-49999USDT receive 4%, 50000-99999 receive 6% etc.\nShe then proceeded to show me how to set up a Bitkeep wallet, purchase USDT from Binance and transfer it to the wallet. I could see that I was earning 3% interest daily so steadily increased the USDT in the Bitkeep wallet. I suspect that she made my connect the Bitkeep wallet to a scam website (https://www.safemoretrx.cc/index/neb?key=FHIWT8&from=bitkeep&lang=en) from which she was able to withdraw the USDT herself. Since the USDT was transferred from my wallet I have not been able to contact her anymore.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 30, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TBmxEcMa1QkhXqnfH8jGV7J4nsGCmhRhG8",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TTzu52Cxts9hA3BdkfKNQvd7m18AAdq4bh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TQRMRt5DD6LHqDgaivdN4RL9iqhv8gSJ6L",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TQRMRt5DD6LHqDgaivdN4RL9iqhv8gSJ6L",
+          "scraped_at": "2026-01-24T20:30:57.502211"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TTAUPy5kseoDoXUzZVHeWU4UVPusJiFaG7",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "another donation site that is trying to take fundraising money from people trying to help Ukraine. the scammers are accepting either Bitcoin or Tron.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 1, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TTAUPy5kseoDoXUzZVHeWU4UVPusJiFaG7",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TTAUPy5kseoDoXUzZVHeWU4UVPusJiFaG7",
+          "scraped_at": "2026-01-24T20:30:57.584934"
+        },
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "I found a website claiming to raise moneys for Ukraine. They are asking for tron btc and eth. They are scamming people. This is not a real website.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Feb 27, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "TTAUPy5kseoDoXUzZVHeWU4UVPusJiFaG7",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "about:blank"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TTAUPy5kseoDoXUzZVHeWU4UVPusJiFaG7",
+          "scraped_at": "2026-01-24T20:30:57.584948"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TS76Dmni5v1bcSQhPrwSF9tzawPVribkmK",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "They have fake coin and I buy 20725 and I send it they always say the system is busy then I searched about them .. all the people says is scam website",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 20, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TS76Dmni5v1bcSQhPrwSF9tzawPVribkmK",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TS76Dmni5v1bcSQhPrwSF9tzawPVribkmK",
+          "scraped_at": "2026-01-24T20:31:00.281159"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TKTnP5CJ1rPFick14iMY6j3yZ4g4RYnVk2",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "They pretended to be reputed company and were marketing as over the counter trading for crypto. I have heard about over the counter on stocks so I believed the business model. But all of sudden they started making excuses to withdraw money and website was gone",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 1, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TKTnP5CJ1rPFick14iMY6j3yZ4g4RYnVk2",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "Cotps.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TKTnP5CJ1rPFick14iMY6j3yZ4g4RYnVk2",
+          "scraped_at": "2026-01-24T20:31:01.350533"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/so2u5SrdYppTFEXgRpb7vfgzaveQfAsLKsmfbG5KGaE",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Multiple Solana community members interacted with a malicious contract that drained all NFTs and Sol within wallet. The referenced addresses are reportedly associated with deposit addresses used by attacker(s). Investigation on going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 31, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "BHFssygBCg6r5e12X8C48dZUKLoZcbiPeyBeYhqt4KFU",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "hckKDRDZ9CcJXVsYNb6K1Y9MVALTRU4kcWL8Zwv8SEM",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "DvBWo72YfLKXVmfbgJe16h32hdDjpTouQvgJQGxV1c8W",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/so2u5SrdYppTFEXgRpb7vfgzaveQfAsLKsmfbG5KGaE",
+          "scraped_at": "2026-01-24T20:31:01.721615"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/GTysRdcv63k8c5tu2m7Vp3vUkQmd9HjoHfEacPvjdPnj",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Fake Atadia site. Spread via airdropped NFTs with the link attached to it. Just realized that there is a private key on their drainer config, 5Gst9C1jovxEwWnevMnP4tqYjiQKSKo2Sys6Bas6ZFkCZu31mthwiY81cW8eHqHu8YmZ32W7Kpje1tCiitHATXjy -> GTysRdcv63k8c5tu2m7Vp3vUkQmd9HjoHfEacPvjdPnj",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 1, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "CVjpUwfi9HvUAT9HrWGEmGcXkm8ZHwFKHqbWq1Yn95ZN",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "GTysRdcv63k8c5tu2m7Vp3vUkQmd9HjoHfEacPvjdPnj",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "atadia.top"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/GTysRdcv63k8c5tu2m7Vp3vUkQmd9HjoHfEacPvjdPnj",
+          "scraped_at": "2026-01-24T20:31:04.772874"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TGSRRpU3LhCWYAo6E8mbTZJ7ny1iMiv6B8",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Giveaway",
+          "description": "Ark Invest allegedly teaming up with Elon Musk in the biggest giveaway of crypto for $100,000,000.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 9, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "1Q3r1TzwCwQbd1dZzVM9mdFKPALFNmt2WE",
+              "blockchain": "Bitcoin",
+              "tag": null
+            },
+            {
+              "address": "0x820a78D8e0518fcE090A9D16297924dB7941FD4f",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "22ark-invest.org"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TGSRRpU3LhCWYAo6E8mbTZJ7ny1iMiv6B8",
+          "scraped_at": "2026-01-24T20:31:04.825483"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/Tc8DLj8TQyKTJRYkbe6zwkUL9rpFq6D3v54R9NBFguX",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "Hello, Ive ask a support for Winnerz IDO distribution of tokens on Winerz Telegram, someone name WNZ support tell me to change my Wallet for distribution issue ans send me a link, a bad link, so stupid , I use this link with my seed phrase to copy on new wallet solend, he empty all my wallet about 10 k USD.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 23, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "Tc8DLj8TQyKTJRYkbe6zwkUL9rpFq6D3v54R9NBFguX",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/Tc8DLj8TQyKTJRYkbe6zwkUL9rpFq6D3v54R9NBFguX",
+          "scraped_at": "2026-01-24T20:31:04.895850"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TMwt4T1jDjveGrmdkt1RfB9HEpNqKVJYch",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Approve Scam",
+          "description": "Victim does not have knowledge of the crypto universe. Victim were tricked while visiting a high yield scam website to scan suspicious QR Codes or allow DApps authorization access to victims wallets for transactions.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 19, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TMwt4T1jDjveGrmdkt1RfB9HEpNqKVJYch",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TMwt4T1jDjveGrmdkt1RfB9HEpNqKVJYch",
+          "scraped_at": "2026-01-24T20:31:04.960104"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TPZL9viFz56UhGWa9jgPtU9vMTXRHuAy3x",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Investment scam",
+          "description": "We were approached by this person to transfer USDT to Fiat OTC. Money was shown, USDT transferred and then he didn't honor the Fiat transfer.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 19, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TPZL9viFz56UhGWa9jgPtU9vMTXRHuAy3x",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TPZL9viFz56UhGWa9jgPtU9vMTXRHuAy3x",
+          "scraped_at": "2026-01-24T20:31:04.965123"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TCctVAXAXX5XaZ3NtcxPjxMX6Uj2qGw1eL",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "Fake investment platform. Modus operandi: Pig butchering.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Dec 30, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TCctVAXAXX5XaZ3NtcxPjxMX6Uj2qGw1eL",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://app.blackrocking.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TCctVAXAXX5XaZ3NtcxPjxMX6Uj2qGw1eL",
+          "scraped_at": "2026-01-24T20:31:05.859365"
+        },
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "Met a girl on Tinder. Name Hannah, she was from Malesia, she said that she is living in my city in Poland. She is single. We started chatting. After few days she tell me that she is trading cyptocurrency. She would like to show me becouse she is earning so much. Name of trading platform was : app.blackrocking.com. I have send my funds from my Binance account. First small amout like 200$, and then withdraw 350$. After that she saud me taht if i have more money i can earn more. She has contackt with stock market analitics from Wall Street that tell her when to trade to have mist income. Then for few day I was investing more money day by day.  After U invest almost all of my money, she was asking how much money left me. Then try to make me sure taht today is quota market. When I said that I am not able to put more money she said me to put as much i can she will borrow me rest. I said taht I dont like to borrow. After that she said that i should try to withdraw my money. Platform command was that it is Reject. I ask costomer service, Why i can not withdraw my money. Answer was that I earn more that 5x from my invest and i neet to pay 5% taxes. She was making me to pay it.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 24, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TCctVAXAXX5XaZ3NtcxPjxMX6Uj2qGw1eL",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TBwXhAt5cAKaZWNSZUiJPzR5UgBpNHesrj",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TCctVAXAXX5XaZ3NtcxPjxMX6Uj2qGw1eL",
+          "scraped_at": "2026-01-24T20:31:05.859380"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 3,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TRYYgZuz6216gi7QSQjRNdFR5wjKMsdBVd",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "bitcointalk.org forum user reported trona address is a telegram scammer.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 8, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TRYYgZuz6216gi7QSQjRNdFR5wjKMsdBVd",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TRYYgZuz6216gi7QSQjRNdFR5wjKMsdBVd",
+          "scraped_at": "2026-01-24T20:31:08.046331"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TLnoscTqAygcoGe63sjgencSnuCRHhhUKg",
+      "reports": [
+        {
+          "category": "Pig Butchering Scams: Learn and Report on Chainabuse",
+          "description": "I was targeted in a cryptocurrency romance scam. The scammer initially contacted me through an online dating app and soon convinced me to continue chatting on a private messaging app called LINE.After a few days of casual conversations about life and work, the scammer mentioned making good profits from cryptocurrency investments. As our conversations became more flirtatious, she offered to teach me how to invest in crypto.She guided me to download Binance and then directed me to download a separate \u201cinvestment app,\u201d claiming it was a crypto mining or staking platform. The website appeared secure with an \u201chttps://\u201d link, which made me believe it was legitimate.To gain my trust, she had me invest a small amount first, walked me through the process, and even allowed me to successfully withdraw small profits. This led me to believe the platform was real.Soon after, she encouraged me to invest a larger amount, suggesting that I transfer AUD 15,000 (around 10,000 USDT) to a wallet address provided by the fake platform's customer support. She said this would help me earn higher returns quickly, claiming that she had invested heavily herself and encouraging me by saying \u201cwe are a couple now, we should earn together.\u201dDue to bank restrictions on crypto transfers in Australia at the time, some of my attempts to send funds failed. The scammer then claimed to trust me so much that she deposited over 20,000 USDT from her own account into the platform on my behalf to keep things moving.When I later tried to withdraw the funds, the fake customer service claimed that my account had been flagged for \u201cmoney laundering review\u201d by an international regulator. They demanded that I deposit 50% of my total account balance as a \u201csecurity deposit\u201d to unfreeze the funds.As the deadline approached and I couldn't gather enough funds (though I had already sent part of it), the scammer claimed her own account had been locked because she tried transferring funds to a \u201cflagged account\u201d \u2014 meaning mine.The platform then threatened that a \u201cgovernment agency\u201d would launch an investigation against me unless I paid the full amount immediately. At this point, I realized it was a scam, as no legitimate platform or government agency would require payments in this manner.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 26, 2025",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TLnoscTqAygcoGe63sjgencSnuCRHhhUKg",
+              "blockchain": "Tron",
+              "tag": "TRC20"
+            }
+          ],
+          "domains": [
+            "https://download.wecoinsbase.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TLnoscTqAygcoGe63sjgencSnuCRHhhUKg",
+          "scraped_at": "2026-01-24T20:31:08.177627"
+        },
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "Someone introduced a fack Electric Wallet says good profit in there, when u want to withdraw ur profit, they ask u to pay more money for withdraw ur money.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 1, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TLnoscTqAygcoGe63sjgencSnuCRHhhUKg",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TLnoscTqAygcoGe63sjgencSnuCRHhhUKg",
+          "scraped_at": "2026-01-24T20:31:08.177641"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TVUBinVpQvU6eEHXxkEGKby4gTYd1utUV8",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "The scammer fundraising site has a lot of photos from the war and says \"#save-ukraine partners with charities and individual volunteers in high-risk areas where civilians and the military fight for their lives every day.  We promptly and continuously provide the first necessary assistance to vulnerable women and children, displaced people. In addition, we need support for the purchase of medicines, clothes, warm clothes, diapers, baby food, the movement of refugees.\"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 19, 2022",
+          "vote_count": 5,
+          "addresses": [
+            {
+              "address": "TVUBinVpQvU6eEHXxkEGKby4gTYd1utUV8",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TVUBinVpQvU6eEHXxkEGKby4gTYd1utUV8",
+          "scraped_at": "2026-01-24T20:31:10.611636"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/THstdgC1PSQ4SjwZ9tST5z1PGkzH2Ziwrc",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "The Slope Finance hack is one which ultimately leads one to believe that the company itself rug pulled its users by logging their private keys to their server via their sentry installation and then using said keys to steal fund. As the bulk of funds stolen were in USDC it is possible for Circle to block the movement of funds from the wallet which i provided in this report. If Circle are able to block the funds from moving we can at least instil some hope in the community that their funds will not exit the chain and be obfuscated. If Circle and Binance/other centralised exchanges work together we can get these stolen funds back to their rightful owners through checking for verified accounts which have funded the victim accounts. Since the hack occurred the crypto community has left the victims without so much as an apology and the strategy laid out here is one which can provide some hope to people whom have been scammed in the middle of a global cost of living crisis. Please help us guys.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jan 16, 2023",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/THstdgC1PSQ4SjwZ9tST5z1PGkzH2Ziwrc",
+          "scraped_at": "2026-01-24T20:31:11.198944"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Over 8,000 members of the Solana ecosystem were hit in a wide spread attack that resulted in wallets being drained. A seperate drain attack likely connected targeting ethereum ecosytem was also reported. Investigation is on-going.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 3, 2022",
+          "vote_count": 8,
+          "addresses": [
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/THstdgC1PSQ4SjwZ9tST5z1PGkzH2Ziwrc",
+          "scraped_at": "2026-01-24T20:31:11.198959"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 6,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TVtW3rtwFzKnsnNFR4QsSLygxdcU9ipp1Q",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "On 10/26/21 a Reddit user's Splinterlands account was compromised (method unknown) and assets worth $25K were cashed out into ETH and sent to 0x6bD667DA87605FCa1B813092D64CABd88Ddad6f7. User said there were other victims of the same hacker and shared additional identified wallets.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 28, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TVtW3rtwFzKnsnNFR4QsSLygxdcU9ipp1Q",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "0xfC810c1e2b59C7082Be07c76D7d131Ed1c8ec240",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            },
+            {
+              "address": "0x6bD667DA87605FCa1B813092D64CABd88Ddad6f7",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TVtW3rtwFzKnsnNFR4QsSLygxdcU9ipp1Q",
+          "scraped_at": "2026-01-24T20:31:11.446462"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TEzsAXUA2fc8BxeZzcqKFUDgzQG4eP9q52",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "Trust trading scam site",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Nov 5, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TEzsAXUA2fc8BxeZzcqKFUDgzQG4eP9q52",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "http://tronnet.network"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TEzsAXUA2fc8BxeZzcqKFUDgzQG4eP9q52",
+          "scraped_at": "2026-01-24T20:31:11.511376"
+        },
+        {
+          "category": "Fake Return Scams: Secure Your Crypto Investments",
+          "description": "A fake tron giveaway scam using website www.tronnet.network claimed to give people 10x whatever their deposit was. The scammer website required users to send between 10k TRX - 800k trx.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Feb 27, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TEzsAXUA2fc8BxeZzcqKFUDgzQG4eP9q52",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TEzsAXUA2fc8BxeZzcqKFUDgzQG4eP9q52",
+          "scraped_at": "2026-01-24T20:31:11.511390"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TJSN6GgX6GfT7U5L8VVm8Cwj5KJoGYcAFD",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "He presents himself as a cryptotrader and promises to help his subscribers to earn a lot of money (250% of gain). He changes name on Telegram and creates a new account and a new telegram group once he has cheated money in the previous one.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jun 25, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TJSN6GgX6GfT7U5L8VVm8Cwj5KJoGYcAFD",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TJSN6GgX6GfT7U5L8VVm8Cwj5KJoGYcAFD",
+          "scraped_at": "2026-01-24T20:31:11.590913"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TAd4uAHdSVpSjwzfBycmKcQR2UvaW8rVzy",
+      "reports": [
+        {
+          "category": "Crypto Hacks: Report and Stay Safe with Chainabuse",
+          "description": "Slope Wallet Hack August 2022",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Oct 10, 2023",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "4JfXWXd2aenLncrdpJcryX8kZVJUSHyGPnc6HSyhA2Es",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TAd4uAHdSVpSjwzfBycmKcQR2UvaW8rVzy",
+          "scraped_at": "2026-01-24T20:31:12.039061"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "On 04 August 2022, TGBr (TRON) addresses received 11,800 USDT from 0xc611952d81e4ecbd17c8f963123dec5d7bce1c27 (Ethereum) following a cross-chain swap via Swft Swap. 0xc61 was a likely threat actor aggregation address on ETH related to the Slope Finance wallet exploit on Solana. Victims who used same seed phrase to generate wallets on multiple chains were likely targeted by the threat actor.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 4, 2022",
+          "vote_count": 2,
+          "addresses": [
+            {
+              "address": "TGBrAiVArhs5Cqp2CGMYUpSmkseznv1Ng7",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TAd4uAHdSVpSjwzfBycmKcQR2UvaW8rVzy",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TAd4uAHdSVpSjwzfBycmKcQR2UvaW8rVzy",
+          "scraped_at": "2026-01-24T20:31:12.039078"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 5,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TTzu52Cxts9hA3BdkfKNQvd7m18AAdq4bh",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "This is embarrassing. I met a girl online and after talking for a while she proceeded to tell me about TRON activity (see www.imoretron.com): USDT below 20,000 receive 3% USDT every day, 20000-49999USDT receive 4%, 50000-99999 receive 6% etc.\nShe then proceeded to show me how to set up a Bitkeep wallet, purchase USDT from Binance and transfer it to the wallet. I could see that I was earning 3% interest daily so steadily increased the USDT in the Bitkeep wallet. I suspect that she made my connect the Bitkeep wallet to a scam website (https://www.safemoretrx.cc/index/neb?key=FHIWT8&from=bitkeep&lang=en) from which she was able to withdraw the USDT herself. Since the USDT was transferred from my wallet I have not been able to contact her anymore.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 30, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TBmxEcMa1QkhXqnfH8jGV7J4nsGCmhRhG8",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TTzu52Cxts9hA3BdkfKNQvd7m18AAdq4bh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TQRMRt5DD6LHqDgaivdN4RL9iqhv8gSJ6L",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TTzu52Cxts9hA3BdkfKNQvd7m18AAdq4bh",
+          "scraped_at": "2026-01-24T20:31:14.502959"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TTffywpQ26eHaUxYQCAvzptQDYEkPM8SQ1",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "More people going to get rugged if they donate to this fake site. Scammers claiming to provide shelter and education to innocent people attacked by Russia. Accepting Bitcoin, Ethereum, Litecoin, Monero, Tron, and USDT.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 19, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TTffywpQ26eHaUxYQCAvzptQDYEkPM8SQ1",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TTffywpQ26eHaUxYQCAvzptQDYEkPM8SQ1",
+          "scraped_at": "2026-01-24T20:31:14.662712"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TQRZq8HE7B1Pub5y2p8MUJhaxEGR353ry2",
+      "reports": [
+        {
+          "category": "Pig Butchering Scams: Learn and Report on Chainabuse",
+          "description": "Coerced to depositing amounts into coinuped.com with unrealistic high returns generated and then unable to withdraw my money.\nHis name was Ezio. Met him on a social media platform before he suggested we talk on WhatsApp. He asked what I do and he said he\u2019s into gold trading and crypto trading. I mentioned about how I had a small amount invested in stocks and crypto and he suggested he could help increase my returns given I haven\u2019t been very successful with making money from investing in cryptocurrencies. He asked me to create an account on coinuped.com which is what he called a node trading platform (two node trading). Once I did he would give me the actual trades to conduct on the platform and the returns were very high. Kept encouraging me to deposit more to keep up with the market. At some point and to prove the platform was genuine he said he would show me how to withdraw funds from the platform and I did manage to withdraw like $400 just to demonstrate that it\u2019s working. That obviously gave me some reassurance. At some point he suggested to take advantage of a gift activity where the platform would give you 10K of USDT if you deposit $100K within a week. He said I could with withdraw as soon as I complete the activity. Problems started after this when I tried to withdraw. Every time they would come up with a reason to deny the withdrawals saying the audit failed for some made up reason and I would have to deposit a % of my balance within a specified period of time otherwise I would lose my funds. Rather than stopping to think how this doesn\u2019t make sense you\u2019re occupied thinking about how you could make up the penalty amount so as not to lose the rest of your funds. A couple of times this happened and then I realized what I realized and by then it was too late. These guys are very good at what they do.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 13, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TQzgBthTYUGUVQqDG19k1mP4pwKKBNbgGh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TQRZq8HE7B1Pub5y2p8MUJhaxEGR353ry2",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "www.coinuped.com"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TQRZq8HE7B1Pub5y2p8MUJhaxEGR353ry2",
+          "scraped_at": "2026-01-24T20:31:15.794940"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TGSwxaSs9ngapTSeSrq6V1puUFsmdJBSZh",
+      "reports": [
+        {
+          "category": "Romance Scams: Stay Secure with Chainabuse",
+          "description": "Romance scam, victim was contacted via Twitter from someone purporting to have a trading mentor that can assist the victim in making significant amounts of money.\n\nVictim was identified to have transferred significant USDT on the Tron to two addresses purporting to be a fraudulent platform.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 28, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "TGSwxaSs9ngapTSeSrq6V1puUFsmdJBSZh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TCLD2GsHGL2hE2FNYhajntPH8sT6hXsXUN",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TGSwxaSs9ngapTSeSrq6V1puUFsmdJBSZh",
+          "scraped_at": "2026-01-24T20:31:16.133354"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    }
+  ],
+  "empty_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/TUEgUZh24tA48EXiAQjA6Qf6rSS7bJKQ6g",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+      "note": "No reports found"
+    }
+  ],
+  "failed_urls": []
+}
