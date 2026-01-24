@@ -1,0 +1,301 @@
+{
+  "batch_number": 89,
+  "url_range": {
+    "start": 4400,
+    "end": 4417,
+    "total": 17
+  },
+  "created_at": "2026-01-24T20:33:19.901912",
+  "summary": {
+    "total_urls": 17,
+    "successful": 8,
+    "empty": 9,
+    "failed": 0,
+    "total_reports": 8,
+    "total_addresses": 12,
+    "total_domains": 3
+  },
+  "successful_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/XzR7CUMqhDBzbAm4aUNvwhVCxjWGn1KEvqTp3Y8fFCD",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Scam NFT Mint",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Apr 28, 2022",
+          "vote_count": 6,
+          "addresses": [
+            {
+              "address": "8vmfpC295wnxH7mnPw3GpfvD9mCCdJBj81mPfe9PL9Wi",
+              "blockchain": "Solana",
+              "tag": null
+            },
+            {
+              "address": "XzR7CUMqhDBzbAm4aUNvwhVCxjWGn1KEvqTp3Y8fFCD",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://solanaeuless.com/"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/XzR7CUMqhDBzbAm4aUNvwhVCxjWGn1KEvqTp3Y8fFCD",
+          "scraped_at": "2026-01-24T20:32:09.057728"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TW3WXRdrzU61oVdu8uQyxzGVfYefGqkCmt",
+      "reports": [
+        {
+          "category": "Fake Return Scams: Secure Your Crypto Investments",
+          "description": "Addresses used by swapnex.io (now defunct after rug pull).  Addresses still active (TRC20 address also shared with scam Metafi Yielders). Potentially used by other scams from same group.\n\nOn 13th May 2022 address 0x7e6da267e4503ffd227652514ad4733c1924ac18 received 750,000 USD tokens from the swapnex.io BEP20 address 0xeCceFaB82bb383afC90b94C8d378DE314e62AC5D used to make payments to investors. This was a few days before swapnex.io started restricting payments to \"investors\" to 100 USDT per day\nThis receiving address currently has almost 1M USDT in holdings\n\nswapnex.io ERC20 address 0x8b8a4abc707f16da24b795e3e46ed22975a9d329, used to make payments out to investors, also paid out millions of USDT to a small number of beneficiaries right before the rug pull happened.\nOne address (0xc36b86fbb2c6ae3baf7e987ebd22ab6bc2a19137) received 300,000 USDT on 11th May then 400,000 USDT on 14th May.\nThis beneficiary address subsequently sent most of the funds to address 0x14f3dA49e76b4dfBCd93fa3273b54482aF4D8Ea8. This address has close to 2M USDT in assets (https://etherscan.io/address/0x14f3da49e76b4dfbcd93fa3273b54482af4d8ea8#tokentxns)",
+          "submitted_by": "Anonymous",
+          "submitted_time": "May 24, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "0x8b8a4abc707f16da24b795e3e46ed22975a9d329",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x14f3dA49e76b4dfBCd93fa3273b54482aF4D8Ea8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc36b86fbb2c6ae3baf7e987ebd22ab6bc2a19137",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TW3WXRdrzU61oVdu8uQyxzGVfYefGqkCmt",
+          "scraped_at": "2026-01-24T20:32:11.712106"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TX1MnwdyyjWHYWQEwnPTxAZ5geDxbFNWmi",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Grayscale Executive Imposter",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 4, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TX1MnwdyyjWHYWQEwnPTxAZ5geDxbFNWmi",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TX1MnwdyyjWHYWQEwnPTxAZ5geDxbFNWmi",
+          "scraped_at": "2026-01-24T20:32:11.800195"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TWtauhbGecJc9Kumor3HgPun5Si6hdRwuH",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Support Ukraine scam that will likely be a rug. website accepts bitcoin, tron, and ethereum.  \"And we ask you to support us financially \u2014 with any donation, because every penny is important. Every body armor saves the life of a warrior who defends thousands of people every day, and one baby food gives the future to one human.\"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Mar 2, 2022",
+          "vote_count": 6,
+          "addresses": [
+            {
+              "address": "TWtauhbGecJc9Kumor3HgPun5Si6hdRwuH",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TWtauhbGecJc9Kumor3HgPun5Si6hdRwuH",
+          "scraped_at": "2026-01-24T20:32:12.038210"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TVXo5CGP2MALQtQzU7e4VSDn36XmDV2sKD",
+      "reports": [
+        {
+          "category": "Pig Butchering Scams: Learn and Report on Chainabuse",
+          "description": "Coerced to depositing amounts into coinuped.com with unrealistic high returns generated and then unable to withdraw my money.\nHis name was Ezio. Met him on a social media platform before he suggested we talk on WhatsApp. He asked what I do and he said he\u2019s into gold trading and crypto trading. I mentioned about how I had a small amount invested in stocks and crypto and he suggested he could help increase my returns given I haven\u2019t been very successful with making money from investing in cryptocurrencies. He asked me to create an account on coinuped.com which is what he called a node trading platform (two node trading). Once I did he would give me the actual trades to conduct on the platform and the returns were very high. Kept encouraging me to deposit more to keep up with the market. At some point and to prove the platform was genuine he said he would show me how to withdraw funds from the platform and I did manage to withdraw like $400 just to demonstrate that it\u2019s working. That obviously gave me some reassurance. At some point he suggested to take advantage of a gift activity where the platform would give you 10K of USDT if you deposit $100K within a week. He said I could with withdraw as soon as I complete the activity. Problems started after this when I tried to withdraw. Every time they would come up with a reason to deny the withdrawals saying the audit failed for some made up reason and I would have to deposit a % of my balance within a specified period of time otherwise I would lose my funds. Rather than stopping to think how this doesn\u2019t make sense you\u2019re occupied thinking about how you could make up the penalty amount so as not to lose the rest of your funds. A couple of times this happened and then I realized what I realized and by then it was too late. These guys are very good at what they do.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Aug 13, 2022",
+          "vote_count": 1,
+          "addresses": [
+            {
+              "address": "TQzgBthTYUGUVQqDG19k1mP4pwKKBNbgGh",
+              "blockchain": "Tron",
+              "tag": null
+            },
+            {
+              "address": "TQRZq8HE7B1Pub5y2p8MUJhaxEGR353ry2",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "www.coinuped.com"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/TVXo5CGP2MALQtQzU7e4VSDn36XmDV2sKD",
+          "scraped_at": "2026-01-24T20:32:12.034674"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TYFFkpaRw13pU8uL5TWy35XWRk2iNQUCXs",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Telegram Scam",
+          "description": "The incident has occurred recently on July 11 , some one added me to Telegram group and i have seen posting the profits by investing. Then contacted one of the person who has profited and he told it was legit company.\nStarted investment by connecting to admin and created account in thier company with low investment for the first two transaction i received back my money but for last transaction they added more bonus and asked to pay some to withdraw at last again asking to pay tax which i got mail from \" legal@eurotaxincome.com\" . There I have stuck and lost the money now in a situation that dead for losing by trapped into two incidents\n\n\nI kindly request you to please help me and recover the loss.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 12, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TYFFkpaRw13pU8uL5TWy35XWRk2iNQUCXs",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TYFFkpaRw13pU8uL5TWy35XWRk2iNQUCXs",
+          "scraped_at": "2026-01-24T20:32:12.107065"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/TVxENr9wwopYEWBDAmpjZgx3Dfc8GQkyhu",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "Scam my money with fake website  \nhttps://www.dctether.com \nWallet\nTVxENr9wwopYEWBDAmpjZgx3Dfc8GQkyhu",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 28, 2022",
+          "vote_count": 3,
+          "addresses": [
+            {
+              "address": "TVxENr9wwopYEWBDAmpjZgx3Dfc8GQkyhu",
+              "blockchain": "Tron",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "source_url": "https://www.chainabuse.com/address/TVxENr9wwopYEWBDAmpjZgx3Dfc8GQkyhu",
+          "scraped_at": "2026-01-24T20:32:15.475353"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/tWFWG1x3nKGBgcLKp2hvDtpSYLwBs2MCB1wPPhQZrKn",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "= Crossposting old reports =\n\nA malicious actor created public threads in Invasion NFT's Discord server to trick users on May 18, 2022.\n\nDiscord acc id: 946027957988757565",
+          "submitted_by": "Anonymous",
+          "submitted_time": "Jul 18, 2022",
+          "vote_count": 4,
+          "addresses": [
+            {
+              "address": "tWFWG1x3nKGBgcLKp2hvDtpSYLwBs2MCB1wPPhQZrKn",
+              "blockchain": "Solana",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "theinvasion.vercel.app"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "source_url": "https://www.chainabuse.com/address/tWFWG1x3nKGBgcLKp2hvDtpSYLwBs2MCB1wPPhQZrKn",
+          "scraped_at": "2026-01-24T20:32:16.430768"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    }
+  ],
+  "empty_urls": [
+    {
+      "url": "https://www.chainabuse.com/domain/https://etherscan.io/address/0x7aa48e3212f56c388b35281e4f205418d1db3d68",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/domain/https://bitinfocharts.com/bitcoin/address/1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/domain/https://bscscan.com/address/0x24A8847C5699e4F8480052F6f3a65784977DA6b8",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/address/wefwqerdsafadsfweqrf2fdsfsdafdswqerqwersdfsd",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/domain/https://bscscan.com/address/0x6103f87f4b8698730666433d44367c3dfcdd1701#code",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/address/null",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/domain/https://etherscan.io/address/0x6fd053bff10512d743fa36c859e49351a4920df6",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/domain/https://etherscan.io/address/0x6bf08c64154a9453c18a0891325b5267e3e4847a",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/domain/https://etherscan.io/address/0x36a52262a85bf8fe213267da4ed85e42e1efed82",
+      "note": "No reports found"
+    }
+  ],
+  "failed_urls": []
+}
