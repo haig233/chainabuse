@@ -16,7 +16,7 @@ import os
 import subprocess
 
 # Configuration
-output_dir = 'chainabuse_data-10/'
+output_dir = 'chainabuse_data-10-0/'
 os.makedirs(output_dir, exist_ok=True)
 print(f"✅ Output directory: {output_dir}")
 
@@ -531,7 +531,7 @@ async def main():
     print(f"📋 Total URLs: {len(urls_list)}")
     
     # Optional: slice for testing
-    urls_list = urls_list[30000:]
+    urls_list = urls_list[:30000]
     
     start_time = time.time()
     
