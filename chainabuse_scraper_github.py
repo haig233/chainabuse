@@ -16,7 +16,7 @@ import os
 import subprocess
 
 # Configuration
-output_dir = 'chainabuse_data-ETH-2/'
+output_dir = 'chainabuse_data-ETH-3/'
 os.makedirs(output_dir, exist_ok=True)
 print(f"✅ Output directory: {output_dir}")
 
@@ -533,8 +533,8 @@ async def main():
     # Optional: slice for testing
     # urls_list = urls_list[:30000]
     # urls_list = ['https://chainabuse.com/chain/ETH?page=0','https://chainabuse.com/chain/ETH?page=1','https://chainabuse.com/chain/ETH?page=2','https://chainabuse.com/chain/ETH?page=3','https://chainabuse.com/chain/ETH?page=4','https://chainabuse.com/chain/ETH?page=5','https://chainabuse.com/chain/ETH?page=6','https://chainabuse.com/chain/ETH?page=7','https://chainabuse.com/chain/ETH?page=8','https://chainabuse.com/chain/ETH?page=9','https://chainabuse.com/chain/ETH?page=10']
-    urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(5000, 10000)] 
-    # urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(10000, 12401)]
+    # urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(5000, 10000)] 
+    urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(9900, 12401)]
     
     start_time = time.time()
     
