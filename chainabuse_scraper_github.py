@@ -16,7 +16,7 @@ import os
 import subprocess
 
 # Configuration
-output_dir = 'chainabuse_data-10-0/'
+output_dir = 'chainabuse_data-ETH/'
 os.makedirs(output_dir, exist_ok=True)
 print(f"✅ Output directory: {output_dir}")
 
@@ -531,7 +531,8 @@ async def main():
     print(f"📋 Total URLs: {len(urls_list)}")
     
     # Optional: slice for testing
-    urls_list = urls_list[:30000]
+    # urls_list = urls_list[:30000]
+    urls_list = ['https://chainabuse.com/chain/ETH?page=0','https://chainabuse.com/chain/ETH?page=1','https://chainabuse.com/chain/ETH?page=2','https://chainabuse.com/chain/ETH?page=3','https://chainabuse.com/chain/ETH?page=4','https://chainabuse.com/chain/ETH?page=5','https://chainabuse.com/chain/ETH?page=6','https://chainabuse.com/chain/ETH?page=7','https://chainabuse.com/chain/ETH?page=8','https://chainabuse.com/chain/ETH?page=9','https://chainabuse.com/chain/ETH?page=10']
     
     start_time = time.time()
     
