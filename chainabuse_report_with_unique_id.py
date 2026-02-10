@@ -16,7 +16,7 @@ import os
 import subprocess
 
 # Configuration
-output_dir = 'chainabuse_data-ETH-First-10-Page-2nd-Time-page-8-4/'
+output_dir = 'chainabuse_data-ETH-First-10-Page-11-Feb-26/'
 os.makedirs(output_dir, exist_ok=True)
 print(f"✅ Output directory: {output_dir}")
 
@@ -613,7 +613,7 @@ async def main():
     # urls_list = [url for url in urls_list if '/address/' in url]
     
     # Test URLs
-    urls_list = ['https://chainabuse.com/chain/ETH?page=0']
+    urls_list = urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(0, 10)]
     
     print(f"📋 Total URLs: {len(urls_list)}")
     
