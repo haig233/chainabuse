@@ -62,7 +62,7 @@ jobs:
         START_INDEX: ${{ github.event.inputs.start_index }}
         END_INDEX: ${{ github.event.inputs.end_index }}
       run: |
-        python chainabuse_scraper_github.py
+        python chainabuse_report_with_unique_id.py
     
     - name: Upload artifacts on failure
       if: failure()
