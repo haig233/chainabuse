@@ -1,0 +1,3811 @@
+{
+  "batch_number": 26,
+  "url_range": {
+    "start": 1250,
+    "end": 1300,
+    "total": 50
+  },
+  "created_at": "2026-02-13T13:32:55.326188",
+  "summary": {
+    "total_urls": 50,
+    "successful": 48,
+    "empty": 2,
+    "failed": 0,
+    "total_reports": 78,
+    "total_addresses": 394,
+    "total_domains": 61
+  },
+  "successful_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/0xCA14cA3048c3900bf8c5BCd2f8Ef67C6aab4fA50",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Lures under the guise of free mint. \n\nFake mints to: 0xCA14cA3048c3900bf8c5BCd2f8Ef67C6aab4fA50\nDeployer: 0x203Aa2E14752b9cca5F66cE00b75aB7aF45437Df\n\nInteresting API endpoints:\n/bumblebeen.live/api/Schizo\n/bumblebeen.live/api/F**k\n/bumblebeen.live/api/MyBrain",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 11, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xDe2c31C9728aC89EC53F744E2f6e87AFBB4545d7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xCA14cA3048c3900bf8c5BCd2f8Ef67C6aab4fA50",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x203aa2e14752b9cca5f66ce00b75ab7af45437df",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "bumblebeen.live"
+          ],
+          "total_addresses": 3,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/258f96e8-8083-4103-b7c0-942bfc3dc1a0?context=search-address&a=0xCA14cA3048c3900bf8c5BCd2f8Ef67C6aab4fA50&chain=",
+          "report_id": "258f96e8-8083-4103-b7c0-942bfc3dc1a0",
+          "source_url": "https://www.chainabuse.com/address/0xCA14cA3048c3900bf8c5BCd2f8Ef67C6aab4fA50",
+          "scraped_at": "2026-02-13T13:27:31.070215"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd0b0d5a8c0b40b7272115a23a2d5e36ad190f13c",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "The Cryptopia  exchange had a security breach and lost over 35 million in crypto.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 2, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x9007a0421145b06a0345d55a8c0f0327f62a2224",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3b46c790ff408e987928169bd1904b6d71c00305",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6874c552d3fd1879e3007d44ef54c8f940e84760",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xaa923cd02364bb8a4c3d6f894178d2e12231655c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd0b0d5a8c0b40b7272115a23a2d5e36ad190f13c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc8b759860149542a98a3eb57c14aadf59d6d89b9",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 6,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/4cbadd72-95e0-4911-a343-fffb2db26be0?context=search-address&a=0xd0b0d5a8c0b40b7272115a23a2d5e36ad190f13c&chain=",
+          "report_id": "4cbadd72-95e0-4911-a343-fffb2db26be0",
+          "source_url": "https://www.chainabuse.com/address/0xd0b0d5a8c0b40b7272115a23a2d5e36ad190f13c",
+          "scraped_at": "2026-02-13T13:27:31.085841"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 6,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCB36b1ee0Af68Dce5578a487fF2Da81282512233",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Rari Capital Hack",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 25, 2023",
+          "vote_count": 1,
+          "loss_amount": "10000000.00 USD",
+          "addresses": [
+            {
+              "address": "0xcb36b1ee0af68dce5578a487ff2da81282512233",
+              "blockchain": "Ethereum",
+              "tag": "attackerEOA"
+            },
+            {
+              "address": "0x2f755e8980f0c2e81681d82cccd1a4bd5b4d5d46",
+              "blockchain": "Ethereum",
+              "tag": "attackerEOA"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/1d91aecc-696f-4a17-86bb-928de9e08e04?context=search-address&a=0xCB36b1ee0Af68Dce5578a487fF2Da81282512233&chain=",
+          "report_id": "1d91aecc-696f-4a17-86bb-928de9e08e04",
+          "source_url": "https://www.chainabuse.com/address/0xCB36b1ee0Af68Dce5578a487fF2Da81282512233",
+          "scraped_at": "2026-02-13T13:27:39.141110"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Rari Capital ethereum protocol attacker stole approximately 2600 ETH, around $10m USD. According to Rari, these funds were extracted from Rari Capital\u2019s Ethereum Pool before the attacker was stopped when the contracts were paused. This loss equates to 60% of all users\u2019 funds in the Rari Capital Ethereum Pool.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 16, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCB36b1ee0Af68Dce5578a487fF2Da81282512233",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/6a88331a-14c5-413e-8445-0de1d3a36a7f?context=search-address&a=0xCB36b1ee0Af68Dce5578a487fF2Da81282512233&chain=",
+          "report_id": "6a88331a-14c5-413e-8445-0de1d3a36a7f",
+          "source_url": "https://www.chainabuse.com/address/0xCB36b1ee0Af68Dce5578a487fF2Da81282512233",
+          "scraped_at": "2026-02-13T13:27:42.721087"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating The Beeings\nOfficial site:http://thebeeings.io\nTwitter:TheBeeings\nvia:Plugin Similar Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "beings.live"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/07ca70ab-b033-423e-9a93-ede733d2acd5?context=search-address&a=0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd&chain=",
+          "report_id": "07ca70ab-b033-423e-9a93-ede733d2acd5",
+          "source_url": "https://www.chainabuse.com/address/0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+          "scraped_at": "2026-02-13T13:27:39.113469"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Advertised as free mint. Wash traded to appear on OpenSea's top collection. \n\nRetrieves OpenSea API key using a different domain: /tasties.live/api/opensea -> MWNjYjEzZGFhODRkNDE5MDlkMDg5NDBhOWJhZGZmNjY= -> 1ccb13daa84d41909d08940a9badff66\n\nShows relation to https://www.chainabuse.com/report/77ba84e5-f51e-47a0-aae8-90ba63e45169\n\nVisiting /tasties.live/api/ returns xo13. Perhaps, this is the username of the malicious actor...\ud83e\udd14",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 2, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "moonskellies.com",
+            "tasties.live",
+            "tasties.live/api/opensea",
+            "tasties.live/api/notification",
+            "tasties.live/api/token/transfer/",
+            "tasties.live/api/mint"
+          ],
+          "total_addresses": 1,
+          "total_domains": 6,
+          "report_url": "https://chainabuse.com/report/6fe627ff-3be4-4bf6-9cb7-5b59b15c106e?context=search-address&a=0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd&chain=",
+          "report_id": "6fe627ff-3be4-4bf6-9cb7-5b59b15c106e",
+          "source_url": "https://www.chainabuse.com/address/0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+          "scraped_at": "2026-02-13T13:27:42.707149"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating The Beeings\nOfficial site:http://thebeeings.io\nTwitter:TheBeeings\nvia:Plugin Similar Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jul 16, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "beings.live"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/e10b6dcd-e113-4a29-97d5-42833085288f?context=search-address&a=0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd&chain=",
+          "report_id": "e10b6dcd-e113-4a29-97d5-42833085288f",
+          "source_url": "https://www.chainabuse.com/address/0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+          "scraped_at": "2026-02-13T13:27:46.299449"
+        },
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Advertised as free mint. Interestingly, the drainer JavaScript is attached to the web3 script. Retrieves the OpenSea API key using it's own API endpoint that returns a base64 text (YzFlNmEzNTgwZDNmNDJlZWFjNTE5ZTNkM2Q0ZWUwZjE=). Decoded result is c1e6a3580d3f42eeac519e3d3d4ee0f1",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jul 13, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6FC5767621BaF65718eC78751F5dd390c0D5968b",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "yokama.live"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/ae9b915e-fd12-4c10-bf81-76926cdf7657?context=search-address&a=0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd&chain=",
+          "report_id": "ae9b915e-fd12-4c10-bf81-76926cdf7657",
+          "source_url": "https://www.chainabuse.com/address/0xCAD74065587D6D3eD2299Fb120FbCB9f48aD5cCd",
+          "scraped_at": "2026-02-13T13:27:49.886814"
+        }
+      ],
+      "total_reports": 4,
+      "total_addresses": 5,
+      "total_domains": 9
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcE593a29905951E8Fc579bC092ecA72577dA575c",
+      "reports": [
+        {
+          "category": "Fake Return Scams: Secure Your Crypto Investments",
+          "description": "russian Telegram channel with free pseudo-learning.  Arranges \"interesting competitions\" among hamsters - for the correct answers in the knowledge test.  Allegedly, he gives rewards in his GR shitcoins  - they are naturally created for sale and personal enrichment. Deceives newbies for money by selling services such as cryptocurrency \u201cinsurance\u201d and trust management of money.  archive.vn/30ZrU\n Increases artificial activity in his chat.  It doesn\u2019t even give any awards, every time in the posts it inserts the same link with a screenshot with fake winners. \nThe author writes from fake accounts to the public that everything is fine and people are getting awards. If you rub his nose in his lies, he blocks you forever.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 29, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcE593a29905951E8Fc579bC092ecA72577dA575c",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://cryptochief.net",
+            "https://t.me/CryptoChiefcom"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/f8aa23a9-46ab-4f1a-b246-3ce10e716d72?context=search-address&a=0xcE593a29905951E8Fc579bC092ecA72577dA575c&chain=",
+          "report_id": "f8aa23a9-46ab-4f1a-b246-3ce10e716d72",
+          "source_url": "https://www.chainabuse.com/address/0xcE593a29905951E8Fc579bC092ecA72577dA575c",
+          "scraped_at": "2026-02-13T13:27:50.466098"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xccd9c1634ab3ccaea31263d208622f0269047bd7",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: ETH Liquidity Scam",
+          "description": "Smart contract connection with Coinbase allows scammers to withdraw as much as they want without explicit permission from users",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 12, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xccd9c1634ab3ccaea31263d208622f0269047bd7",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "bncdd.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/95a67684-d6ec-48ff-a740-c1e84ab991ab?context=search-address&a=0xccd9c1634ab3ccaea31263d208622f0269047bd7&chain=",
+          "report_id": "95a67684-d6ec-48ff-a740-c1e84ab991ab",
+          "source_url": "https://www.chainabuse.com/address/0xccd9c1634ab3ccaea31263d208622f0269047bd7",
+          "scraped_at": "2026-02-13T13:27:57.865562"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcc06dd348169d95b1693b9185ca561b28f5b2165",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "DeFi protocol Unlock was hit with an exploit in late November. The protocol alleged that the founder and ceo had their private keys stolen. Once stolen the attacker was able to deploy the unlock contract. You need to add polygon.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 7, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x4Bf0b2F9509D0ef3D071D1deBFa20cf07fE08223",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8c769a59f93dac14b7a416294124c01d3ec4daac",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xD543F7fCBc661C36801b1D318CA3A6Bd8c50609D",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcc06dd348169d95b1693b9185ca561b28f5b2165",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 4,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/333ef4cc-04f0-4267-9232-510b697c8a90?context=search-address&a=0xcc06dd348169d95b1693b9185ca561b28f5b2165&chain=",
+          "report_id": "333ef4cc-04f0-4267-9232-510b697c8a90",
+          "source_url": "https://www.chainabuse.com/address/0xcc06dd348169d95b1693b9185ca561b28f5b2165",
+          "scraped_at": "2026-02-13T13:27:58.664072"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 4,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcD8C517C77527C35e4835645E3647F6B25A524BA",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "This Chainlink NFT minting scam was posted on Discord in early April 2022 and directed users to the malicious domain chainlinkmint[.]io. When a user submitted their address, their NFTs and crypto were stolen and sent to 0x98A. The additional addresses received stolen funds from 098A.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 29, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x98A5f5B990c70492086fCDFAE38EeEB19823F008",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5b0BA1030c95335B934EcFf91bb38cB963c82e51",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x30B53a3FEFE47ad38C9D4b2aaad2cF761bD60Fe8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x961B0af9fB3d7C34eFB79f92C067332b7722d4e2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x70D49d324A23A2d9614EBc01138d9741C25DB9FC",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x937083631f67d3a0Ab7Ecbc289124f53368C60d4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xB3EaEe47C848EAdCC6ca085ebea05e4007bFb530",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5a57b7D5430464cE0fD010e9145100ecBC08000A",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x03c42eC756c18A63f2c848F77265c7A903b11799",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcD8C517C77527C35e4835645E3647F6B25A524BA",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x65203a439a4b7Af870888c0d8622d279611a998a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcccC601Eb21654656b973954B08919CE2B610D3e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "http://chainlinkmint.io/",
+            "chainlinkmint.io"
+          ],
+          "total_addresses": 12,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/f5681330-2b15-42b5-8513-e8e307487008?context=search-address&a=0xcD8C517C77527C35e4835645E3647F6B25A524BA&chain=",
+          "report_id": "f5681330-2b15-42b5-8513-e8e307487008",
+          "source_url": "https://www.chainabuse.com/address/0xcD8C517C77527C35e4835645E3647F6B25A524BA",
+          "scraped_at": "2026-02-13T13:28:05.908416"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 12,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd0ef261dcefb88eb86884def0303d85e47a2e694",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "The Legend LFW was attacked and lost over $200,000. The funds are being laundered through Tornado Cash.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 2, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd0ef261dcefb88eb86884def0303d85e47a2e694",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            },
+            {
+              "address": "0xd0ef261dcefb88eb86884def0303d85e47a2e694",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/cae9eef1-c180-4bcd-9da2-7c3097d691bf?context=search-address&a=0xd0ef261dcefb88eb86884def0303d85e47a2e694&chain=",
+          "report_id": "cae9eef1-c180-4bcd-9da2-7c3097d691bf",
+          "source_url": "https://www.chainabuse.com/address/0xd0ef261dcefb88eb86884def0303d85e47a2e694",
+          "scraped_at": "2026-02-13T13:28:06.850070"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xccd174525209e0af2ea51bca91070d9f93d1bf4b",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Mayweverse $193.5k NFT Rug by Floyd Mayweather - Advertised as Floyd's second NFT project, the anonymous team vanished after just a few weeks. No giveaway items have been delivered (boxing gloves, trips to Floyds next fight, etc). Is linked on-chain to other rugs such as Bored Bunny, Ancient Cats Club, and Rich Dwarves Tribe. Previously abandoned his other project Floyds World.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 5, 2022",
+          "vote_count": 7,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xccd174525209e0af2ea51bca91070d9f93d1bf4b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1c7e0fb8a0b721e069542b78777a1f00cae0c04b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1adf5f712931eb522da5ca6724421952ae36c83e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x48aa46b8368e03cb3afae2a908df74a543b695b0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x7c7343fbbbbe598d00293f62a209e8b0581bb47f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x537653d82060875550ec201f0d355dc6f7d0e237",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 6,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/6879293c-fd4e-4cb4-a888-1cd07a4d5709?context=search-address&a=0xccd174525209e0af2ea51bca91070d9f93d1bf4b&chain=",
+          "report_id": "6879293c-fd4e-4cb4-a888-1cd07a4d5709",
+          "source_url": "https://www.chainabuse.com/address/0xccd174525209e0af2ea51bca91070d9f93d1bf4b",
+          "scraped_at": "2026-02-13T13:28:14.025625"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 6,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCe5A0059A22f961628C42B75A068924af35Bde74",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "You will get rugged if donating to this scam. This is another Ukraine fundraising scam. They claim that you can donate the funds for logistical and medical support of the Armed Forces of Ukraine in UAH to the bellow Cryptocurrencies wallet of the Ministry of Defense of Ukraine, Since all Ukraine banks are closed",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Mar 1, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCe5A0059A22f961628C42B75A068924af35Bde74",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/6688f1a1-699f-4751-a86a-f2461f7546a9?context=search-address&a=0xCe5A0059A22f961628C42B75A068924af35Bde74&chain=",
+          "report_id": "6688f1a1-699f-4751-a86a-f2461f7546a9",
+          "source_url": "https://www.chainabuse.com/address/0xCe5A0059A22f961628C42B75A068924af35Bde74",
+          "scraped_at": "2026-02-13T13:28:14.691483"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCA67615bb9a9Cc093E13deE3dE1CA55B55AB3586",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "xCarnival Lab Exploit Stolen Funds",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 27, 2022",
+          "vote_count": 6,
+          "loss_amount": "2967 ETH",
+          "addresses": [
+            {
+              "address": "0xCA67615bb9a9Cc093E13deE3dE1CA55B55AB3586",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/944a7017-7a77-4f78-8381-31cfbbe913a5?context=search-address&a=0xCA67615bb9a9Cc093E13deE3dE1CA55B55AB3586&chain=",
+          "report_id": "944a7017-7a77-4f78-8381-31cfbbe913a5",
+          "source_url": "https://www.chainabuse.com/address/0xCA67615bb9a9Cc093E13deE3dE1CA55B55AB3586",
+          "scraped_at": "2026-02-13T13:28:22.021773"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd1026259034D34469e9596F1325577e2A24Bc296",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "\"The Sandbox\" Instagram ATO. \n\nQueries valuable NFTs via: /boredapeyachtclub.shoes:3001/methods/appraise?address=\n\nWhenever the transferring of NFTs fail, the malicious actor redirects the user to a fake Metamask pop-up to phish the recovery phrase: /sandbox-claim.xyz/metamask/MetaMaskConfirm.html\n\nExfil to the same fake bored ape domain: /boredapeyachtclub.shoes:3000/data",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 4, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd1026259034D34469e9596F1325577e2A24Bc296",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "sandbox-claim.xyz",
+            "boredapeyachtclub.shoes"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/182d5eeb-fd64-4eda-9a98-875b06de3817?context=search-address&a=0xd1026259034D34469e9596F1325577e2A24Bc296&chain=",
+          "report_id": "182d5eeb-fd64-4eda-9a98-875b06de3817",
+          "source_url": "https://www.chainabuse.com/address/0xd1026259034D34469e9596F1325577e2A24Bc296",
+          "scraped_at": "2026-02-13T13:28:22.571791"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcced5af3f4f8b67731a7e656ac70e5610e775808",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "EtherMonkeys, EtherBananas, ZombieMonkeys, EtherReapers, EthBananaChips ($2.8m Total) all rugs by Homer from October 2021 to November 2021.  See attached Twitter thread by ZachXBT for additional details.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 7, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xff1be3171a16fe431e31d874e4de14814362e588",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2bddbb495972f3e06c4d3bcbf1c1086f301430f5",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x89f8db9193612d2325fe630cd17dd2a941071d24",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0d422c39024259fd5f250b7ca0e599f0ea371db0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4ea0159be16b7a66a61f689fe79db0e9541152c0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcced5af3f4f8b67731a7e656ac70e5610e775808",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0a5b9b930fc5be638232d8b9b69cb5b46249c06e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc8a660e648756bf24c065321d55a315f1fb3b7bc",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0d422c39024259fd5f250b7ca0e599f0ea371db0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x06c232ecdea625545e57c2f038b5426c85cfd3cf",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc3bc2a4791e82101c9de66365455e72685f9526f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x89470bdd67fbfe35b90796dade694dd4fee207d3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcef4ccb03dbc7d87b388407e381a949be6d00e3b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x872dd6b224bcd5f107834712d2d8fc005875a4e1",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3baccce781547d9697bf2d9efcd91409f76eb120",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x89f8db9193612d2325fe630cd17dd2a941071d24",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x33a3970bec39aba602469c4586ff35bb1a31ca1e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x872dd6b224bcd5f107834712d2d8fc005875a4e1",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 18,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/15c76472-136e-4129-a2aa-9e836398dd97?context=search-address&a=0xcced5af3f4f8b67731a7e656ac70e5610e775808&chain=",
+          "report_id": "15c76472-136e-4129-a2aa-9e836398dd97",
+          "source_url": "https://www.chainabuse.com/address/0xcced5af3f4f8b67731a7e656ac70e5610e775808",
+          "scraped_at": "2026-02-13T13:28:29.996021"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 18,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd23cFFFa066F81c7640E3F0dc8Bb2958F7686D1F",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Bent finance defi protocol was exploited and allegedly referred the name of a possible insider to authorities that may have been responsible for the attack. The stolen funds were sent through tornado cash.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 12, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd23cFFFa066F81c7640E3F0dc8Bb2958F7686D1F",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x9e966a54082427d7ac56aeaee4baae7d11a6e468",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x71b1ee098dbe801ce7d42a4bdb472ed164f1c21a",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/1e2d21d8-2556-4276-90be-16454b4ed7ce?context=search-address&a=0xd23cFFFa066F81c7640E3F0dc8Bb2958F7686D1F&chain=",
+          "report_id": "1e2d21d8-2556-4276-90be-16454b4ed7ce",
+          "source_url": "https://www.chainabuse.com/address/0xd23cFFFa066F81c7640E3F0dc8Bb2958F7686D1F",
+          "scraped_at": "2026-02-13T13:28:30.642507"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 3,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xD00137Ac92d29c8AeFd905a329149f207cC5ba7f",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Scammers created a clone of an OpenSea website dedicated to Bored Ape Yacht Club (BAYC) NFTs.  The ethereum address was recently funded with eight ethereum. Scammers are attempting to create hype that someone is buying the fake NFTs or someone was scammed attempting to purchase almost two BAYC.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 30, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xD00137Ac92d29c8AeFd905a329149f207cC5ba7f",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://i.opensea.iok.apeboredyatchclub.com/collection/boredapeyachtclub.html",
+            "https://i.opensea.iok.apeboredyatchclub.com/",
+            "https://apeboredyatchclub.com/",
+            "https://apeboredyatchclub.com/buy/"
+          ],
+          "total_addresses": 1,
+          "total_domains": 4,
+          "report_url": "https://chainabuse.com/report/948afe57-8453-445c-a4ef-96fdcb10d1ca?context=search-address&a=0xD00137Ac92d29c8AeFd905a329149f207cC5ba7f&chain=",
+          "report_id": "948afe57-8453-445c-a4ef-96fdcb10d1ca",
+          "source_url": "https://www.chainabuse.com/address/0xD00137Ac92d29c8AeFd905a329149f207cC5ba7f",
+          "scraped_at": "2026-02-13T13:28:38.841388"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 4
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: setApprovalForAll",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Sep 13, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "thesaudinft.io"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/f581fa59-c1c1-4204-b515-664881e5176b?context=search-address&a=0xCc3EE5Ab82949e84132E790E63a4105B9b599823&chain=",
+          "report_id": "f581fa59-c1c1-4204-b515-664881e5176b",
+          "source_url": "https://www.chainabuse.com/address/0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+          "scraped_at": "2026-02-13T13:28:37.817297"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating ill poop it nft\nOfficial site:https://pieceofshit.wtf/\nTwitter:pieceofshit_wtf\nvia:Plugin Similar Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "piecesofshits.wtf"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/a9d465d9-be30-4484-85e3-c410e2b8a8df?context=search-address&a=0xCc3EE5Ab82949e84132E790E63a4105B9b599823&chain=",
+          "report_id": "a9d465d9-be30-4484-85e3-c410e2b8a8df",
+          "source_url": "https://www.chainabuse.com/address/0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+          "scraped_at": "2026-02-13T13:28:41.401969"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, SetApprovalForAll",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jul 12, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "moonrunnerz.io"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/8f36ef60-9e42-4a54-b140-b721ad132820?context=search-address&a=0xCc3EE5Ab82949e84132E790E63a4105B9b599823&chain=",
+          "report_id": "8f36ef60-9e42-4a54-b140-b721ad132820",
+          "source_url": "https://www.chainabuse.com/address/0xCc3EE5Ab82949e84132E790E63a4105B9b599823",
+          "scraped_at": "2026-02-13T13:28:45.001974"
+        }
+      ],
+      "total_reports": 3,
+      "total_addresses": 3,
+      "total_domains": 3
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd165ce48ff3641174828f95b2ce8cbe980cf68f5",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "Friend was scammed for $100,000 in an OTC deal.\nThey created separate channels, switched the addresses after a test TX.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 6, 2022",
+          "vote_count": 3,
+          "loss_amount": "100000 USDT",
+          "addresses": [
+            {
+              "address": "0x65EfeDDde365654C6BB0bc3CBC658897641b75F4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe68bcCc24f1B4F5109fDFC2438b7CD9bB028F2b4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x444beb4e1200c9f34a0c1d2f7efef8e200d3af78",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcba632e0bd96c717115adbcef5714d7caecb9670",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdebfbe80c8aeba98a32968278463ccb639c6c4e3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd165ce48ff3641174828f95b2ce8cbe980cf68f5",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 6,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/fb71a1ab-81b4-494d-b059-6f239cdadf0d?context=search-address&a=0xd165ce48ff3641174828f95b2ce8cbe980cf68f5&chain=",
+          "report_id": "fb71a1ab-81b4-494d-b059-6f239cdadf0d",
+          "source_url": "https://www.chainabuse.com/address/0xd165ce48ff3641174828f95b2ce8cbe980cf68f5",
+          "scraped_at": "2026-02-13T13:28:53.174234"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 6,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcE1F4B4F17224ec6df16Eeb1e3e5321c54Ff6EDe",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "CREAM finance Hack",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 19, 2023",
+          "vote_count": 1,
+          "loss_amount": "18800000.00 USD",
+          "addresses": [
+            {
+              "address": "0xce1f4b4f17224ec6df16eeb1e3e5321c54ff6ede",
+              "blockchain": "Ethereum",
+              "tag": "attackerEOA"
+            },
+            {
+              "address": "0x0ec306d7634314d35139d1df4a630d829475a125",
+              "blockchain": "Ethereum",
+              "tag": "attackerEOA"
+            },
+            {
+              "address": "0x38c40427efbaae566407e4cde2a91947df0bd22b",
+              "blockchain": "Ethereum",
+              "tag": "attackerEOA"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 3,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/fd7b3542-82f0-4e6f-8a66-6247a30ac436?context=search-address&a=0xcE1F4B4F17224ec6df16Eeb1e3e5321c54Ff6EDe&chain=",
+          "report_id": "fd7b3542-82f0-4e6f-8a66-6247a30ac436",
+          "source_url": "https://www.chainabuse.com/address/0xcE1F4B4F17224ec6df16Eeb1e3e5321c54Ff6EDe",
+          "scraped_at": "2026-02-13T13:29:01.326485"
+        },
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Cream finance flash loan exploiter address.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 15, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcE1F4B4F17224ec6df16Eeb1e3e5321c54Ff6EDe",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/0866a598-0449-489f-a417-6d5e752e90d5?context=search-address&a=0xcE1F4B4F17224ec6df16Eeb1e3e5321c54Ff6EDe&chain=",
+          "report_id": "0866a598-0449-489f-a417-6d5e752e90d5",
+          "source_url": "https://www.chainabuse.com/address/0xcE1F4B4F17224ec6df16Eeb1e3e5321c54Ff6EDe",
+          "scraped_at": "2026-02-13T13:29:05.783687"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 4,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCFfE7b00ab86ccb3EC2074571E57E64A6064bd44",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Peckshield Alert reported a rug pull on Starman project. There is very little information this project which has its token contract deployed about 9 days ago.\n\nOnchain analysis indicated that the owner deployed the contract and initialized the LP with ~300 BNB. The owner subsequently pulled the LPO and took out ~603 BNB via Tornado.cash.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 3, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCFfE7b00ab86ccb3EC2074571E57E64A6064bd44",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            },
+            {
+              "address": "0xcBf5AC387a519b7e07603bFA5D6a98e8f2AFAa89",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/5fbb1fb1-c3fd-4638-8720-ae58baca08c8?context=search-address&a=0xCFfE7b00ab86ccb3EC2074571E57E64A6064bd44&chain=",
+          "report_id": "5fbb1fb1-c3fd-4638-8720-ae58baca08c8",
+          "source_url": "https://www.chainabuse.com/address/0xCFfE7b00ab86ccb3EC2074571E57E64A6064bd44",
+          "scraped_at": "2026-02-13T13:29:13.855191"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCeE42a0FF485Aca1F81ec6012cB7ccdB0C21c7a5",
+      "reports": [
+        {
+          "category": "Donation Scams: Protect Yourself with Chainabuse",
+          "description": "Fake twitter account claiming to be the Ukrainian military to raise crypto. The account is raising bitcoin or ethereum. It is fake.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Mar 1, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCeE42a0FF485Aca1F81ec6012cB7ccdB0C21c7a5",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/a0af5488-1875-42c2-8e0a-5d6789d5f3ed?context=search-address&a=0xCeE42a0FF485Aca1F81ec6012cB7ccdB0C21c7a5&chain=",
+          "report_id": "a0af5488-1875-42c2-8e0a-5d6789d5f3ed",
+          "source_url": "https://www.chainabuse.com/address/0xCeE42a0FF485Aca1F81ec6012cB7ccdB0C21c7a5",
+          "scraped_at": "2026-02-13T13:29:21.892507"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcac63498c864a41fdabcc2fa943d953ca685a1e6",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Cat and Mouse $1.7m rug pull - anonymous team abruptly abandoned project weeks after minting transferring all assets to CEX accounts. Discord has since been deleted and team deleted all Tweets from the Twitter.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 6, 2022",
+          "vote_count": 1,
+          "loss_amount": "1700000.00 USD",
+          "addresses": [
+            {
+              "address": "0x510245323739db800b6520463782fbc890caf023",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xddf91fa4f7e1ffd8515d995d83bdde3061457f3a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xabdc2823a7c94c00802ea22ec7073dbc07f039de",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x18470e00991d01681d1c64371178a6ca36b3076b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xb8acaae97f2b7579b666cb62dfc1b4ec8ac605ec",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf720e5c7192e300e78617e2f1f8cfd20d5f61292",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4ef310f4293b0dc8f894f36b72e569399bc66a16",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8a314e8da4a703dda1e32e59177dc79769a21ff1",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x326a857685898070c41e40efa473a6804e3213ec",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xb3d81deffd7b921689408823ce8818ade1f61e18",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8485265320b8b9cda333dc832387a5aeaceb977a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x291d931172783ab4b059c9e25f5c2af1d541373f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3d1fa5041f03632ad910450f7ee138e756d55d2b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe7ffacbfdb96525d75fc45af1cbc223f0977b7c4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcac63498c864a41fdabcc2fa943d953ca685a1e6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xbfa9759889f7628f8b67bb6dda47dfbb78c1a501",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe3b661d0fd1fedf2782997e55c417baa7c49b3b9",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xbdb8bcc25ad1f621a0e0fd2f39fb12284783542e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4dafcc597cbef07a3e089200f054c674d549fc8d",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdf4639da069055536cd222c7f374bcb4e6191100",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x86116a330dca6517820af0fa214e188ced0e22ab",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8cf8686ab3f4dc08c395796abd010bf99a3a357e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x7c91b11baabb36deb153db3c7618a3ca9bc9ad19",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 23,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/c8bb52ef-0624-4bcd-83f3-7e9cbc21759f?context=search-address&a=0xcac63498c864a41fdabcc2fa943d953ca685a1e6&chain=",
+          "report_id": "c8bb52ef-0624-4bcd-83f3-7e9cbc21759f",
+          "source_url": "https://www.chainabuse.com/address/0xcac63498c864a41fdabcc2fa943d953ca685a1e6",
+          "scraped_at": "2026-02-13T13:29:29.926011"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 23,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xD026297f5C02B1BB0120752De0D73dA253635197",
+      "reports": [
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "500,000,000,000 SHIBA INU airdrop scam. Site updates with fake transaction volume in efforts to trick potential shiba inu investors to send crypto. Review of source code and keyword searches identified other phishing domains. Unknown at time of report if domains connected to creators of shiba inu scam.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 14, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xe95D1124Ab479B8aDE792629c2D02bA529A3B68C",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "1Ep4rDaUvVJS8ZaES3a9YyA11t2mZSSZLa",
+              "blockchain": "Bitcoin",
+              "tag": null
+            },
+            {
+              "address": "0xD026297f5C02B1BB0120752De0D73dA253635197",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x064F34f367818f161C673ABB251b65cE9dDeC31E",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "http://shibagiveaway.xyz/",
+            "http://shibx10.org/",
+            "http://ethairdrop.42web.io/?i=1",
+            "https://claimwspp.blogspot.com/",
+            "http://ethairdrop.42web.io",
+            "http://shibx10.org/bonus/"
+          ],
+          "total_addresses": 4,
+          "total_domains": 6,
+          "report_url": "https://chainabuse.com/report/37910e5d-a163-4596-afc0-52e2906da874?context=search-address&a=0xD026297f5C02B1BB0120752De0D73dA253635197&chain=",
+          "report_id": "37910e5d-a163-4596-afc0-52e2906da874",
+          "source_url": "https://www.chainabuse.com/address/0xD026297f5C02B1BB0120752De0D73dA253635197",
+          "scraped_at": "2026-02-13T13:29:37.992735"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 4,
+      "total_domains": 6
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcccC601Eb21654656b973954B08919CE2B610D3e",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "This Chainlink NFT minting scam was posted on Discord in early April 2022 and directed users to the malicious domain chainlinkmint[.]io. When a user submitted their address, their NFTs and crypto were stolen and sent to 0x98A. The additional addresses received stolen funds from 098A.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 29, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x98A5f5B990c70492086fCDFAE38EeEB19823F008",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5b0BA1030c95335B934EcFf91bb38cB963c82e51",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x30B53a3FEFE47ad38C9D4b2aaad2cF761bD60Fe8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x961B0af9fB3d7C34eFB79f92C067332b7722d4e2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x70D49d324A23A2d9614EBc01138d9741C25DB9FC",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x937083631f67d3a0Ab7Ecbc289124f53368C60d4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xB3EaEe47C848EAdCC6ca085ebea05e4007bFb530",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5a57b7D5430464cE0fD010e9145100ecBC08000A",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x03c42eC756c18A63f2c848F77265c7A903b11799",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcD8C517C77527C35e4835645E3647F6B25A524BA",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x65203a439a4b7Af870888c0d8622d279611a998a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcccC601Eb21654656b973954B08919CE2B610D3e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "http://chainlinkmint.io/",
+            "chainlinkmint.io"
+          ],
+          "total_addresses": 12,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/f5681330-2b15-42b5-8513-e8e307487008?context=search-address&a=0xcccC601Eb21654656b973954B08919CE2B610D3e&chain=",
+          "report_id": "f5681330-2b15-42b5-8513-e8e307487008",
+          "source_url": "https://www.chainabuse.com/address/0xcccC601Eb21654656b973954B08919CE2B610D3e",
+          "scraped_at": "2026-02-13T13:29:45.838578"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 12,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xc9d36a86e10f9565313026f1fb786943cebae242",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Winter Bears $3.4m Rug Pull - deceptive marketing, team missing since April 2022, roadmap items not delivered, donations not completed, team bans holders who ask question. See attached evidence.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 15, 2022",
+          "vote_count": 4,
+          "loss_amount": "1019.83 ETH",
+          "addresses": [
+            {
+              "address": "0x3163cd724b4357d3fa70b6a008152b5f244f20a5",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc9d36a86e10f9565313026f1fb786943cebae242",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4caca0bbf970dcc016985eb841260880e384e134",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5c2e3d24c34bbdddcbe56e1de90a10bbe6c12212",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x29890ee91e8b63a77be34958a55b6e56d54bc142",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6326e7ea5f7e9333e85a26eb91815e72df04c11e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe1b4876b98b82d774431fd73278361d0e4e4481b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3dab914dedd7d0e58ab0dfc2e4f9bd7867b2dfa3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe25828ed3c9ec06d1fe8e4d84d82ccb3351bb2d1",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x9318ae7df6274916cdbb856c842434e74f376bb0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x385f9ae1d8ea691621601c0c23cba2437e198c79",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdca8b812a53d2468c6f6d526b84ceff96f8d4caa",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 12,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/16fbf975-13a4-4c43-8175-1cc8d7e81853?context=search-address&a=0xc9d36a86e10f9565313026f1fb786943cebae242&chain=",
+          "report_id": "16fbf975-13a4-4c43-8175-1cc8d7e81853",
+          "source_url": "https://www.chainabuse.com/address/0xc9d36a86e10f9565313026f1fb786943cebae242",
+          "scraped_at": "2026-02-13T13:29:51.221334"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 12,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcdEAc23C1741A80bA9B22Af6B0819B005e27148a",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse",
+          "description": "On May 4 2022, Mad Meerkat Finance (MMF), a DEX on Cronos, suffered a Domain Name Service (DNS) Hi-jacking. Approximately $2 million USD of blockchain assets were stolen [1]. The suspect used wallet (0xb3...9A6b) then bridge the funds from Cronos to Ethereum using the Multichain Bridge [2], and subsequently laundered the funds using Tornado Cash [3]. Analytics using blockchain data revealed 828 ETH withdrawn out of Tornado Cash to 4 suspected withdrawal addresses [4]. The funds were then transferred to 16 addresses associated with FixedFloat Exchange and 1 address to the Binance CEX [5]. Substantial progress has since been made on this case, but due to jurisdictional and legal constraints the case is unable to move forward without a victim based in the United States coming forward. Thus, the potential recovery in approximately ~$2 million worth of digital assets depends on at least one US based victim willing to report the crime.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 24, 2022",
+          "vote_count": 2,
+          "loss_amount": "2000000 USD worth of crypto assets",
+          "addresses": [
+            {
+              "address": "0xb3065fE2125C413E973829108F23E872e1DB9A6b",
+              "blockchain": "Ethereum",
+              "tag": "MMF DNS Hacker"
+            },
+            {
+              "address": "0x9a54EDDA16b442d17EE92B432D017422A59BCDAD",
+              "blockchain": "Ethereum",
+              "tag": "Tornado_Out1"
+            },
+            {
+              "address": "0xcdEAc23C1741A80bA9B22Af6B0819B005e27148a",
+              "blockchain": "Ethereum",
+              "tag": "Tornado_Out2"
+            },
+            {
+              "address": "0xffd34145f5A08b98e53b73f9b46f7B062f050D5b",
+              "blockchain": "Ethereum",
+              "tag": "Tornado_Out3"
+            },
+            {
+              "address": "0x67F79423AfF4D46509B468b3515dD447F5dC7C2E",
+              "blockchain": "Ethereum",
+              "tag": "Tornado_Out4"
+            },
+            {
+              "address": "0x33420A25bE0F454b8F3c73a790ebf41A05e9B3f8",
+              "blockchain": "Ethereum",
+              "tag": "Binance_1"
+            },
+            {
+              "address": "0x6592D660Cc98d7f26D4EF5b065c19aFA49f41298",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_1"
+            },
+            {
+              "address": "0x5D13477D865Aa1A7Ac51128a42E0018E473243e5",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_2"
+            },
+            {
+              "address": "0x55442B92a1020cb022866B7a0fbD9c7170f13990",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_3"
+            },
+            {
+              "address": "0x1509ac18feC4C46d4E0a6A70096f1004b93be451",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_4"
+            },
+            {
+              "address": "0x89563013dF33B98eCE26C5Eae1c446140DF3E238",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_5"
+            },
+            {
+              "address": "0x48D31fA01b24A8F37e15132fcbDcB70bDe09238C",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_6"
+            },
+            {
+              "address": "0x81B34dac5D85e7f88f406D1526556Dd895c6586b",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_7"
+            },
+            {
+              "address": "0x5316E0aEDfB8F75024e65A696beCf6bAAAd5E956",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_8"
+            },
+            {
+              "address": "0x968DD0fb587dfF8438cCCa2362605CA57921D322",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_9"
+            },
+            {
+              "address": "0x6BC8edDF887724A9009D95E735d60B7FACC83FdD",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_10"
+            },
+            {
+              "address": "0xfF3fCD4E762Bcc5E3adae8554157d86D6De79DF7",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_11"
+            },
+            {
+              "address": "0x4787daCB82742326ec457C779eC8F4F2658C5c5f",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_12"
+            },
+            {
+              "address": "0x3C1c8dbfCbc4b1505839430c5B64e355d3d46499",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_13"
+            },
+            {
+              "address": "0x3E9bc831Ea0d505991793157b94F3B462E17fc4B",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_14"
+            },
+            {
+              "address": "0x8E85B7499116c51fb4619d911fA0A3010a6C75F1",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_15"
+            },
+            {
+              "address": "0x3B52008ace529A6668BCA2F29e83A54934b1D047",
+              "blockchain": "Ethereum",
+              "tag": "FixedFloat_16"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 22,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/62db2457-989a-47ae-b0bb-3963f8c91e92?context=search-address&a=0xcdEAc23C1741A80bA9B22Af6B0819B005e27148a&chain=",
+          "report_id": "62db2457-989a-47ae-b0bb-3963f8c91e92",
+          "source_url": "https://www.chainabuse.com/address/0xcdEAc23C1741A80bA9B22Af6B0819B005e27148a",
+          "scraped_at": "2026-02-13T13:29:53.992225"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 22,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xD01Ae1A708614948B2B5e0B7AB5be6AFA01325c7",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "Qubit finance announced it suffered an exploit.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 2, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xD01Ae1A708614948B2B5e0B7AB5be6AFA01325c7",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            },
+            {
+              "address": "0x21bcb4fa299e13c4fa97b2271099f35a1499e74c",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/f5824668-598e-4cc9-9f64-94342c036e9b?context=search-address&a=0xD01Ae1A708614948B2B5e0B7AB5be6AFA01325c7&chain=",
+          "report_id": "f5824668-598e-4cc9-9f64-94342c036e9b",
+          "source_url": "https://www.chainabuse.com/address/0xD01Ae1A708614948B2B5e0B7AB5be6AFA01325c7",
+          "scraped_at": "2026-02-13T13:30:02.156794"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "A scammer compromised the PlatoonDAO Discord server. Who then posted announcements leading users to a phishing scam website. The phishing website stole crypto assets.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Oct 8, 2023",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCeb98dAEB5bc30902588382cB046C2024760186F",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/a654a345-bbed-4029-b4ca-63df618c842f?context=search-address&a=0xCeb98dAEB5bc30902588382cB046C2024760186F&chain=",
+          "report_id": "a654a345-bbed-4029-b4ca-63df618c842f",
+          "source_url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+          "scraped_at": "2026-02-13T13:29:59.088415"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Beeple Twitter account compromised on May 22 2022 for $450k. The account was compromised by Cam Redman using a Twitter panel. This enabled Two1 (Youssef) and ShinePranked (Shayan) to post malicious links to phishing websites. Two1 is the same scammer who attacked the Otherside & Nansen Discord as well. See ZachXBT thread for additional details.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Oct 4, 2022",
+          "vote_count": 6,
+          "loss_amount": "225 ETH",
+          "addresses": [
+            {
+              "address": "0x702de97d9030b83ce04cd3bc5509cbead42ec41d",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x497dd32964acfac15f3c11a5e71f051d3e348eda",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf2000037a148ea53d3f9c24f3b8607c847b60091",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf16e815a3c6f733aaa46bbf479900950d198a92a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8494d0743712cbeec15896aae667422ea67b0187",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xE8668854ec7023F36dAbB5C63f0Bc1Ae26D18401",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2fc55f49783caf72628eb3fe0380671ed9a57684",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x664b589a3042f55222bb5981d47ca6a1ed4745f4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xfe93f151eedbd04f20a88f987f1c097aa4780011",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf6e64005b1611f5bda2bc1ac81d2fb19818975ed",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x642479b6dd94b8e116b0ff689e7e86ea54833a53",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xceb98daeb5bc30902588382cb046c2024760186f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1079061d37f7f3fd3295e4aad02ece4a3f20de2d",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd869f5f8133f002e4ebdf7df41bb901afc126fa8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1c69b090514e0dba44788b1de6eeda98e443b378",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd9484eef367f0ab70d261045a5e355a6f4b1a5a7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2690d39307b4cdd44c6209de5bd62869c672b58b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2fa030d5a64fda8e69048a2a6db4c534889e3ba2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x11b6110fe905daea7b31ac95733b8a807a1aa33c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe84d4e6451119f49f24f13caf13fbda331c2245f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd153f809f302e1a699f14d25912fceff06ab7aea",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf305f6073cfa24f05ff15ca5b387dd91f871b983",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5c259e550dd64dbe578d63032b2ea3717d8b143c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcad7fc974f61a08adef110d1ba446fa5b5b5bb27",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 24,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/e5c78a7f-82a7-4df3-bebf-e360737b71ad?context=search-address&a=0xCeb98dAEB5bc30902588382cB046C2024760186F&chain=",
+          "report_id": "e5c78a7f-82a7-4df3-bebf-e360737b71ad",
+          "source_url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+          "scraped_at": "2026-02-13T13:30:02.689010"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Two1 - Roblox scammer turned NFT phishing scammer is responsible for some of the largest Discord attacks such a Otherside & Nansen. In total this scammer has profited $2m+ the past year off phishing scams.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Sep 12, 2022",
+          "vote_count": 6,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xceb98daeb5bc30902588382cb046c2024760186f",
+              "blockchain": "Ethereum",
+              "tag": "serpentau.eth"
+            },
+            {
+              "address": "0x1079061d37f7f3fd3295e4aad02ece4a3f20de2d",
+              "blockchain": "Ethereum",
+              "tag": "Otherside Discord Attack"
+            },
+            {
+              "address": "0xd869f5f8133f002e4ebdf7df41bb901afc126fa8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x38ff5537d307f7f65dbf9ae03f76e25738d988db",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1c69b090514e0dba44788b1de6eeda98e443b378",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd9484eef367f0ab70d261045a5e355a6f4b1a5a7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2fa030d5a64fda8e69048a2a6db4c534889e3ba2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x183b3e1a6c52605e247fce01663e940843b8921e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe8668854ec7023f36dabb5c63f0bc1ae26d18401",
+              "blockchain": "Ethereum",
+              "tag": "gobbleme.eth"
+            },
+            {
+              "address": "0x11b6110fe905daea7b31ac95733b8a807a1aa33c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xefb58ff39d5bb09ee0b207e9005aa036d18a5d17",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe84d4e6451119f49f24f13caf13fbda331c2245f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xCAe28F9b0baffd335DF032bA714A97a71eEfC5d6",
+              "blockchain": "Ethereum",
+              "tag": "wealthyindividual.eth"
+            },
+            {
+              "address": "0x5bC1792E002447eAf18Dd3e7cf231B01299f6d8a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x73cA1d4F48fAF9D974f144D641605e16cbC97031",
+              "blockchain": "Ethereum",
+              "tag": "two1.eth"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 15,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/4d10e756-22f0-4ab7-9714-26cdc2d198d1?context=search-address&a=0xCeb98dAEB5bc30902588382cB046C2024760186F&chain=",
+          "report_id": "4d10e756-22f0-4ab7-9714-26cdc2d198d1",
+          "source_url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+          "scraped_at": "2026-02-13T13:30:06.279238"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "HZ/Chase has been a part of a Discord scam ring compromising the servers of popular projects such as BAYC, Nansen, Anata, Lacoste, and more. He also bought Twitter panel access off of a SIM swapper known as Cameron Redman for ~$300k which was used to hack Twitter accounts such as Nouns DAO, FranklinIsBored, DeeKayMotion, Zeneca and more. This has resulted in millions of dollars worth of stolen assets. See attached ZachXBT thread for more.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Sep 1, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xb13aa2010e1097b0949210b863a783111e7c703c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x9971e3efc26ce470f806c725518e51dee118202e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd95dd44d6532ed0cdf3452a11dfedd29b38635c3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe956e9c058038ac47b4c43d6d376d700faa320ad",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x749d6e54592676183652dd5d416b2bef833b2ddd",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdc25df861f979a175bfe4f3737d1562d45cdc5cd",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc720beefafdb55dda8ab6247ffb054d5a7d72010",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd6be74fcfa9ada3e5c305ac0168abe57d2e0d00b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5452f108829a2184cc20aeaaa9ecd39113e6a28f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xebde782ee32412908831b881b3b906ca0c857ca1",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xb452e9f6b861fa8f916d741745839c40ce4131f0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xa19b54f2063a2b71554f382e894c6f86908f264c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcb03b09809a1ff1654b917132696c73d9caf2831",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5f232fed7b3ae710ac4815e1f231e0b97e58ab8e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xad93cf600c9ad50e7c7ded9a80bb3004f812936a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd36871b657a638c05398a060b0af5e42b25df910",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5f7a8e85071e992473a016529b86c6bf0c4e50a4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdb959af8531b55824a259082cd4778c1cb0b750f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xceb98daeb5bc30902588382cb046c2024760186f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8bc1683787ad673f2d0eca2b94a4e141192ec7fb",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd869f5f8133f002e4ebdf7df41bb901afc126fa8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1079061d37f7f3fd3295e4aad02ece4a3f20de2d",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcae28f9b0baffd335df032ba714a97a71eefc5d6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5bc1792e002447eaf18dd3e7cf231b01299f6d8a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xbe235784e7bc7dcac72d5cf681cd089a8af5c809",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf63782064e39fc4bb144bc3d220a7668e2690c92",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xab076fc9109ff1917d68f52e12d55bd726981e0f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0214ee97e9d828e1e6aa49a85b89982a7dceacc7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x350ecfc8bea9bed48fbba674b607ba751820213f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xa635de50b77c00a34c20ea33082dbcf0345bee2d",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 30,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/19be733e-7eec-46b9-a929-5a18d194f529?context=search-address&a=0xCeb98dAEB5bc30902588382cB046C2024760186F&chain=",
+          "report_id": "19be733e-7eec-46b9-a929-5a18d194f529",
+          "source_url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+          "scraped_at": "2026-02-13T13:30:09.862285"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "BAYC & Otherside Discord Compromised with 179 ETH sent into Tornado. Linked to other recent compromised Discords such as Trait Sniper, LazerTools, NBATopShot, KaijuKingz, and more. One of the main people responsible is known as \"Popbob\"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 5, 2022",
+          "vote_count": 11,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x66517e6066280a2e2ec6413962c148769a2ec4a7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xCeb98dAEB5bc30902588382cB046C2024760186F",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8814b39b23f68c6c57bda5ef1eea876588ff2378",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc0421d0783ef0a2266edb3043af5ceef275fa627",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 4,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/076d1449-01ac-439b-858a-decdbf6eb620?context=search-address&a=0xCeb98dAEB5bc30902588382cB046C2024760186F&chain=",
+          "report_id": "076d1449-01ac-439b-858a-decdbf6eb620",
+          "source_url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+          "scraped_at": "2026-02-13T13:30:13.451263"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "BAYC and OtherSide Discord was hacked resulting in attackers posting a fake NFT minting link.  Attackers deposited 40+ ethereum to Tornado Cash as of the date of this post. Multiple NFTs stolen.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 4, 2022",
+          "vote_count": 7,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x43f74721d0367ad00329aa6fda408a4316819fbb",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xCeb98dAEB5bc30902588382cB046C2024760186F",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x38ff5537d307f7f65dbf9ae03f76e25738d988db",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1079061d37f7f3fd3295e4aad02ece4a3f20de2d",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://yugalabsnft.org",
+            "https://yugalabsnft.org/#/claim"
+          ],
+          "total_addresses": 4,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/2f6691ff-f3c6-4708-bbd8-9877140d0886?context=search-address&a=0xCeb98dAEB5bc30902588382cB046C2024760186F&chain=",
+          "report_id": "2f6691ff-f3c6-4708-bbd8-9877140d0886",
+          "source_url": "https://www.chainabuse.com/address/0xCeb98dAEB5bc30902588382cB046C2024760186F",
+          "scraped_at": "2026-02-13T13:30:17.022376"
+        }
+      ],
+      "total_reports": 6,
+      "total_addresses": 78,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: SetApprovalForAll",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "mad-dragons.io"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/e960207e-2643-4bfd-810c-9f187a53e5be?context=search-address&a=0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6&chain=",
+          "report_id": "e960207e-2643-4bfd-810c-9f187a53e5be",
+          "source_url": "https://www.chainabuse.com/address/0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+          "scraped_at": "2026-02-13T13:30:10.169825"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: SetApprovalForAll",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "creepyboyz.xyz"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/367ce316-14a1-4397-bdc2-00e981baae77?context=search-address&a=0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6&chain=",
+          "report_id": "367ce316-14a1-4397-bdc2-00e981baae77",
+          "source_url": "https://www.chainabuse.com/address/0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+          "scraped_at": "2026-02-13T13:30:13.747097"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: SetApprovalForAll",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "futuristic-robots.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/9446c3f6-2996-4f71-994b-eba40305b165?context=search-address&a=0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6&chain=",
+          "report_id": "9446c3f6-2996-4f71-994b-eba40305b165",
+          "source_url": "https://www.chainabuse.com/address/0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+          "scraped_at": "2026-02-13T13:30:17.328163"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: SetApprovalForAll",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "monkeezbits.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/dd74f336-ec46-4aa9-a93c-9347d4568882?context=search-address&a=0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6&chain=",
+          "report_id": "dd74f336-ec46-4aa9-a93c-9347d4568882",
+          "source_url": "https://www.chainabuse.com/address/0xc9ca30b4b7Dc3f2d9f3A618ba411c049d2f5fCe6",
+          "scraped_at": "2026-02-13T13:30:20.912349"
+        }
+      ],
+      "total_reports": 4,
+      "total_addresses": 4,
+      "total_domains": 4
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd0d6a0f51fd405e9aad112995fdb0e7e123a91ef",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Apes In Space $10.8m rug pull - rapper Takeoff launched his project in late 2021 but shortly after he disappeared along with the team ghosting holders. The project promised irl events, metaverse events, staking, irl space trip, and large giveaways. The team hasn't delivered on any of these having disappeared since April 2022.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 6, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x44f09af4e2daedcb6bbea3f37605ecabc1683ea5",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xb453f1ba40925ffd9aa2417434fcd2f6eff35eb8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf2853440eea6dcb90be71437068d4cf4f097e0b9",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8d25ba96d1b5e5a73a5a6bea154ce3dfd7f3a4f4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5a2bf0efde42e01b318a3997b6cffed39528b62c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xfbecabec7d751e085494d52f8fc6cc57ba7a14e3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x793362f6fbb2508e5f9fbbbf5da3c23b8fdd5ddb",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0103739a1939cccecddc3a5ab5e3555112a762a8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x17e96e4332006de62cc849cde40ff222af8cc6a6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf6298c8f2c3ed3e7221cc1439ea4c90681bb67b4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8f6fe0f0efb148e54a69a49bc3a8b83700086212",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xfe0efd4e1a6434e0395103a3fcddeeac8be4650c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8b0983cf978ab5fc68bdbf64ccad837af4c2580d",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xda881d1324ab05ceb0ac986d97c3859628019b1d",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x68dcec37506c06ead53dd47b0b74e680091ec469",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x71838112b3a4c17f303359b33af872594e179c58",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd0d6a0f51fd405e9aad112995fdb0e7e123a91ef",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc255bbf72691f6363c7f96e475f48786e62de4c5",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6bc47a2ad3303d57d31c88b6eafc8b1630d89e3b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x68e6e284802b6804834b768033106e85a9c67be9",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x78639f3dd3cb07de6f90ddf0bb86463b9dcb6463",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xa190e531a5eeb31782409807a3719f2cd0507273",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xa33adedbf6f89f6aa008e790ce0ffa0d076db20e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 23,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/27de88d3-9494-46f5-9099-108eb22155fb?context=search-address&a=0xd0d6a0f51fd405e9aad112995fdb0e7e123a91ef&chain=",
+          "report_id": "27de88d3-9494-46f5-9099-108eb22155fb",
+          "source_url": "https://www.chainabuse.com/address/0xd0d6a0f51fd405e9aad112995fdb0e7e123a91ef",
+          "scraped_at": "2026-02-13T13:30:24.839134"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 23,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xC9D7CC5D224119C6A563a2Aa2c5a49ebC97444D7",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "MultiChain issued a notice advising that a critical vulnerability affected six cross chain tokens. \"If you ever have approved any of these 6 tokens on the Router (WETH, PERI, OMT, WBNB, MATIC, AVAX), please login into https://app.multichain.org/#/approvals to remove any approvals of these 6 tokens asap. Otherwise, your assets will always be at risk. Please do not transfer any of these 6 tokens to your wallet before revoking the approvals. The risk will be eliminated instantly upon revoking approvals.\"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 4, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd37448aD7949C4aD8Eba5aad1a0aFdD3199971d8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xa10d8a7caE8Dae8019Daa64095f309716264EbcA",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xA648904b6e812E2d847B87878a9a3f1d74e5AF50",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x04aE3226C80E8C04D35E6e56089345BdD06DA6DE",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xC9D7CC5D224119C6A563a2Aa2c5a49ebC97444D7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdC9524a8774DC2956Bdb8b55Fdf91938757F3185",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xca0bc229e2216A6ba6eF0278351ed6aa2303Ddf6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x620E59769085F69d2712a53Aa0436821218e1068",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x85a8df6564517CD0a8501587dB0Cc74850F191d6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x98f5b0A99f258a09403D965647Ee9D53677914AF",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4986e9017eA60e7AfCd10D844F85c80912C3863c",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 11,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/5d5e940d-4a5d-4dc5-b82e-46fce86b9e31?context=search-address&a=0xC9D7CC5D224119C6A563a2Aa2c5a49ebC97444D7&chain=",
+          "report_id": "5d5e940d-4a5d-4dc5-b82e-46fce86b9e31",
+          "source_url": "https://www.chainabuse.com/address/0xC9D7CC5D224119C6A563a2Aa2c5a49ebC97444D7",
+          "scraped_at": "2026-02-13T13:30:32.940551"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 11,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xc939059aa6c9a7a3b69b21280a19374db5ed0147",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Shibabeast $1.7m rug pull - team abandoned the project and hasn't Tweeted since April. Roadmap items haven't been completed as advertised. Funds have been transferred away to CEX accounts.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 6, 2022",
+          "vote_count": 1,
+          "loss_amount": "1700000.00 USD",
+          "addresses": [
+            {
+              "address": "0xb2016edc04236866e81138b7aa68bd1bcc2cb4bd",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x22b15e796ab8897bf5de28cafbc3a4e9df8ca802",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3e1b6ea34bc485b0a352802a8d3c2fd508d69aa9",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x889121f5d5d675874e4605218040f33198a16319",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6129b64ec39fc57a1bf9fcf454334f1f7c448e30",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5bf18769e34de64c156ce8f3a6b5cac5530895a3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x61c9651b626b0aed8476243d2d27f4cdd0d2d881",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5bf18769e34de64c156ce8f3a6b5cac5530895a3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x5a3a7511ff72f72f1aa95f5ff50f90c6bba760c6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4974ec3942165b66f2730eee304b3c34f4ec30fc",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x58b5ec7d96ed7de2dd7e383f9d15a546f462caac",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4b76bf3ce65a853dbfa1aa24715f44b3c4840ece",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd8aa5e8842b09d5b596d22f62c65e47b00f3e6e2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x56348105ec4f8bd3f1feabf584c6841c2ba25f1a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc939059aa6c9a7a3b69b21280a19374db5ed0147",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf97c47f94ed500691943c07d98745d23b0ad13c1",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x8c5ff48b9b25394aa5c0b2765035f440104230cc",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xf2338226c18d6bdd3fdf58efb7b19e92f79f0d67",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 18,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/46af3ed1-d035-439c-a07e-b788bcd3fb78?context=search-address&a=0xc939059aa6c9a7a3b69b21280a19374db5ed0147&chain=",
+          "report_id": "46af3ed1-d035-439c-a07e-b788bcd3fb78",
+          "source_url": "https://www.chainabuse.com/address/0xc939059aa6c9a7a3b69b21280a19374db5ed0147",
+          "scraped_at": "2026-02-13T13:30:40.632916"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 18,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCC8b4a9430908bB57014d4962632b25B744FC329",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "This is a fake Bearn token. The real site, BEARNDAO (https://www.bearndao.org/dao)   is on the Binance Smart Chain, not ETH. The fake Bearn.finance token is being shilled on Twitter by a scam account (@OnAndreCronje) . The token contract was initially funded by a Tornado Cash deposit to the contract deployer.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 6, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCC8b4a9430908bB57014d4962632b25B744FC329",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x831192Fc53868517ce5De6Af2666d800ba34D8C4",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/bb147f87-7952-4520-beb9-b5101ba43479?context=search-address&a=0xCC8b4a9430908bB57014d4962632b25B744FC329&chain=",
+          "report_id": "bb147f87-7952-4520-beb9-b5101ba43479",
+          "source_url": "https://www.chainabuse.com/address/0xCC8b4a9430908bB57014d4962632b25B744FC329",
+          "scraped_at": "2026-02-13T13:30:48.455805"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcba632e0bd96c717115adbcef5714d7caecb9670",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "Friend was scammed for $100,000 in an OTC deal.\nThey created separate channels, switched the addresses after a test TX.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 6, 2022",
+          "vote_count": 3,
+          "loss_amount": "100000 USDT",
+          "addresses": [
+            {
+              "address": "0x65EfeDDde365654C6BB0bc3CBC658897641b75F4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe68bcCc24f1B4F5109fDFC2438b7CD9bB028F2b4",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x444beb4e1200c9f34a0c1d2f7efef8e200d3af78",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcba632e0bd96c717115adbcef5714d7caecb9670",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdebfbe80c8aeba98a32968278463ccb639c6c4e3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd165ce48ff3641174828f95b2ce8cbe980cf68f5",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 6,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/fb71a1ab-81b4-494d-b059-6f239cdadf0d?context=search-address&a=0xcba632e0bd96c717115adbcef5714d7caecb9670&chain=",
+          "report_id": "fb71a1ab-81b4-494d-b059-6f239cdadf0d",
+          "source_url": "https://www.chainabuse.com/address/0xcba632e0bd96c717115adbcef5714d7caecb9670",
+          "scraped_at": "2026-02-13T13:30:56.280296"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 6,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcfab9b35096d5af336cd03ff23ea2364b9a93e03",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: ETH Liquidity",
+          "description": "Smart contract connection with Coinbase allows scammers to withdraw as much as they want without explicit permission from users",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 5, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcfab9b35096d5af336cd03ff23ea2364b9a93e03",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "eth-miner.org"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/8c5ea022-93c9-48c8-8efb-a68733a218bf?context=search-address&a=0xcfab9b35096d5af336cd03ff23ea2364b9a93e03&chain=",
+          "report_id": "8c5ea022-93c9-48c8-8efb-a68733a218bf",
+          "source_url": "https://www.chainabuse.com/address/0xcfab9b35096d5af336cd03ff23ea2364b9a93e03",
+          "scraped_at": "2026-02-13T13:31:04.248095"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "On Monday May 30, 2022 I posted in the Secret discord seeking assistance to transfer my SCRT tokens off of the Terra Classic chain.  Wormhole / Terra Bridge / IBC transfers had been shut down following Terra collapse.\n\nOn Sunday evening May 30, 2022, I was contacted by an individual on the Discord server under the name Jenny_Sen. Our conversation history has since been deleted, but she stated that she was from Secret support and would be able to assist me in transferring the keys on the \u201cbackend\u201d.  (I had tried earlier in the day to connect to sync-revalidation site but been unable.)  She sent me a link to site: https://nodefix.multis.live/wallets/index.html .  When I entered my keys to try and connect, they got my keys and drained assets from both my Metamask (including staked assets on Beethovenx) and Terra Station wallets.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 2, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x9610678F8a87f35601095b397522Daef4e141aB2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x1F02C31197D5BB916Ec258d93Ae5aA257833C3a3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc62a0781934744e05927ceabb94a3043cdcfea89",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 5,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/9e2c8b97-57e7-4727-acfe-648ba80a21e5?context=search-address&a=0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c&chain=",
+          "report_id": "9e2c8b97-57e7-4727-acfe-648ba80a21e5",
+          "source_url": "https://www.chainabuse.com/address/0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+          "scraped_at": "2026-02-13T13:31:12.372727"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 5,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating The Saudis\nOfficial site:https://www.thesaudisnft.com\nTwitter:TheSaudisNFT\nvia: Newly Registered Domains Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 20, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "thesaudisnfts.xyz"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/7b012ee4-d8c3-4a56-ab58-7b1151a32afe?context=search-address&a=0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c&chain=",
+          "report_id": "7b012ee4-d8c3-4a56-ab58-7b1151a32afe",
+          "source_url": "https://www.chainabuse.com/address/0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c",
+          "scraped_at": "2026-02-13T13:31:20.146302"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating The Saudis\nOfficial site:https://www.thesaudisnft.com\nTwitter:TheSaudisNFT\nvia: Newly Registered Domains Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jul 16, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "thesaudisnfts.xyz"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/69bdc70e-31c5-4a21-8b28-e8977e2970ed?context=search-address&a=0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c&chain=",
+          "report_id": "69bdc70e-31c5-4a21-8b28-e8977e2970ed",
+          "source_url": "https://www.chainabuse.com/address/0xcA86010BEd5F5D50DEaB2793dC9CAFDa5145052c",
+          "scraped_at": "2026-02-13T13:31:23.735806"
+        }
+      ],
+      "total_reports": 2,
+      "total_addresses": 2,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcBa47af0547d12FB6B59c105835fAB6b2FBC22Ed",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "DO NOT SEND FUNDS HERE. THIS IS A RUG PULL FROM META SWAP.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 2, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcBa47af0547d12FB6B59c105835fAB6b2FBC22Ed",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/7d5e3ed9-1ee6-40e7-8d86-23f1d0eac56b?context=search-address&a=0xcBa47af0547d12FB6B59c105835fAB6b2FBC22Ed&chain=",
+          "report_id": "7d5e3ed9-1ee6-40e7-8d86-23f1d0eac56b",
+          "source_url": "https://www.chainabuse.com/address/0xcBa47af0547d12FB6B59c105835fAB6b2FBC22Ed",
+          "scraped_at": "2026-02-13T13:31:31.907981"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xCBca87Bc35A9a4d6541f4E1286f263E38B808641",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Luna giveaway scam",
+          "description": "Luna scammer claims a chance to\nwin 50,000 ETH or bTC and requires connection to a coinbase, binance , crypto.com or metamask wallet.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 9, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCBca87Bc35A9a4d6541f4E1286f263E38B808641",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "362opb4urzm7B273kVP58SYrFG3jUSm8Ka",
+              "blockchain": "Bitcoin",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://kwoneventt.com/",
+            "https://kwoneventt.com/ethereum/index.html",
+            "https://kwoneventt.com/bitcoin/index.html"
+          ],
+          "total_addresses": 2,
+          "total_domains": 3,
+          "report_url": "https://chainabuse.com/report/00e6eec4-2b8b-4b1e-9390-211ed4ad4e12?context=search-address&a=0xCBca87Bc35A9a4d6541f4E1286f263E38B808641&chain=",
+          "report_id": "00e6eec4-2b8b-4b1e-9390-211ed4ad4e12",
+          "source_url": "https://www.chainabuse.com/address/0xCBca87Bc35A9a4d6541f4E1286f263E38B808641",
+          "scraped_at": "2026-02-13T13:31:33.369339"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 3
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xc983f037a25d98e85e3094160cf98ae43e22681e",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Ancient Cats Club Rug Pull - Discord and Twitter both deleted suddenly. None of the roadmap items have been completed. Team has several on-chain ties to Bored Bunny, a NFT slow rug pull.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 20, 2022",
+          "vote_count": 3,
+          "loss_amount": "1700000.00 USD",
+          "addresses": [
+            {
+              "address": "0x039f0812360ebe580aa61a2593c52527ba638d90",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xe6653e9592967c515030b277606b25d1d5f449b0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc983f037a25d98e85e3094160cf98ae43e22681e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xb918b3d2bfaf0affa9fecfe7e8fc70468a144252",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6fabfaf72e25e1de96291fce8205d8fa96c6d705",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xC008c0F712c1289a571E2F9336B237bDED5132e0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x528257067be5638a871dae9314a052cab2953d8b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3ea8477588f821408dc791ccd189c6a3a69fbd52",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 8,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/bad53644-750a-46c0-86d6-f002c18cb962?context=search-address&a=0xc983f037a25d98e85e3094160cf98ae43e22681e&chain=",
+          "report_id": "bad53644-750a-46c0-86d6-f002c18cb962",
+          "source_url": "https://www.chainabuse.com/address/0xc983f037a25d98e85e3094160cf98ae43e22681e",
+          "scraped_at": "2026-02-13T13:31:39.746389"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 8,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcdFD8f372885C706D98AcA2f30c4677E6a3c242A",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: Giveaway",
+          "description": "Ethereum scam claiming investors will receive ethereum back. \"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 9, 2022",
+          "vote_count": 2,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcdFD8f372885C706D98AcA2f30c4677E6a3c242A",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "https://ethereum-2.mozellosite.com",
+            "https://ethereum-2.mozellosite.com/"
+          ],
+          "total_addresses": 1,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/ce7438c8-2167-42aa-b14c-4739cec7a98d?context=search-address&a=0xcdFD8f372885C706D98AcA2f30c4677E6a3c242A&chain=",
+          "report_id": "ce7438c8-2167-42aa-b14c-4739cec7a98d",
+          "source_url": "https://www.chainabuse.com/address/0xcdFD8f372885C706D98AcA2f30c4677E6a3c242A",
+          "scraped_at": "2026-02-13T13:31:41.223119"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 2
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcef4ccb03dbc7d87b388407e381a949be6d00e3b",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "EtherMonkeys, EtherBananas, ZombieMonkeys, EtherReapers, EthBananaChips ($2.8m Total) all rugs by Homer from October 2021 to November 2021.  See attached Twitter thread by ZachXBT for additional details.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 7, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xff1be3171a16fe431e31d874e4de14814362e588",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2bddbb495972f3e06c4d3bcbf1c1086f301430f5",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x89f8db9193612d2325fe630cd17dd2a941071d24",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0d422c39024259fd5f250b7ca0e599f0ea371db0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4ea0159be16b7a66a61f689fe79db0e9541152c0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcced5af3f4f8b67731a7e656ac70e5610e775808",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0a5b9b930fc5be638232d8b9b69cb5b46249c06e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc8a660e648756bf24c065321d55a315f1fb3b7bc",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x0d422c39024259fd5f250b7ca0e599f0ea371db0",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x06c232ecdea625545e57c2f038b5426c85cfd3cf",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xc3bc2a4791e82101c9de66365455e72685f9526f",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x89470bdd67fbfe35b90796dade694dd4fee207d3",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xcef4ccb03dbc7d87b388407e381a949be6d00e3b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x872dd6b224bcd5f107834712d2d8fc005875a4e1",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x3baccce781547d9697bf2d9efcd91409f76eb120",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x89f8db9193612d2325fe630cd17dd2a941071d24",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x33a3970bec39aba602469c4586ff35bb1a31ca1e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x872dd6b224bcd5f107834712d2d8fc005875a4e1",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 18,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/15c76472-136e-4129-a2aa-9e836398dd97?context=search-address&a=0xcef4ccb03dbc7d87b388407e381a949be6d00e3b&chain=",
+          "report_id": "15c76472-136e-4129-a2aa-9e836398dd97",
+          "source_url": "https://www.chainabuse.com/address/0xcef4ccb03dbc7d87b388407e381a949be6d00e3b",
+          "scraped_at": "2026-02-13T13:31:47.503170"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 18,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcc74b74e57938e1bd2b108aa06e13d772bedced6",
+      "reports": [
+        {
+          "category": "Report Miscellaneous Crypto Scams with Chainabuse: ETH Liquidity Scam",
+          "description": "Smart contract connection with Coinbase allows scammers to withdraw as much as they want without explicit permission from users",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on May 12, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xcc74b74e57938e1bd2b108aa06e13d772bedced6",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "usdt-ether.bet"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/0908479f-3014-4f99-ba9a-84479c3bbe60?context=search-address&a=0xcc74b74e57938e1bd2b108aa06e13d772bedced6&chain=",
+          "report_id": "0908479f-3014-4f99-ba9a-84479c3bbe60",
+          "source_url": "https://www.chainabuse.com/address/0xcc74b74e57938e1bd2b108aa06e13d772bedced6",
+          "scraped_at": "2026-02-13T13:31:49.319771"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 1
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcBf5AC387a519b7e07603bFA5D6a98e8f2AFAa89",
+      "reports": [
+        {
+          "category": "Rug Pull Scams: Report and Learn with Chainabuse",
+          "description": "Peckshield Alert reported a rug pull on Starman project. There is very little information this project which has its token contract deployed about 9 days ago.\n\nOnchain analysis indicated that the owner deployed the contract and initialized the LP with ~300 BNB. The owner subsequently pulled the LPO and took out ~603 BNB via Tornado.cash.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 3, 2022",
+          "vote_count": 3,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xCFfE7b00ab86ccb3EC2074571E57E64A6064bd44",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            },
+            {
+              "address": "0xcBf5AC387a519b7e07603bFA5D6a98e8f2AFAa89",
+              "blockchain": "Binance Smart Chain",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 2,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/5fbb1fb1-c3fd-4638-8720-ae58baca08c8?context=search-address&a=0xcBf5AC387a519b7e07603bFA5D6a98e8f2AFAa89&chain=",
+          "report_id": "5fbb1fb1-c3fd-4638-8720-ae58baca08c8",
+          "source_url": "https://www.chainabuse.com/address/0xcBf5AC387a519b7e07603bFA5D6a98e8f2AFAa89",
+          "scraped_at": "2026-02-13T13:31:55.366977"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 2,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xca0bc229e2216A6ba6eF0278351ed6aa2303Ddf6",
+      "reports": [
+        {
+          "category": "Contract Exploit Scams: Stay Alert with Chainabuse",
+          "description": "MultiChain issued a notice advising that a critical vulnerability affected six cross chain tokens. \"If you ever have approved any of these 6 tokens on the Router (WETH, PERI, OMT, WBNB, MATIC, AVAX), please login into https://app.multichain.org/#/approvals to remove any approvals of these 6 tokens asap. Otherwise, your assets will always be at risk. Please do not transfer any of these 6 tokens to your wallet before revoking the approvals. The risk will be eliminated instantly upon revoking approvals.\"",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Apr 4, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd37448aD7949C4aD8Eba5aad1a0aFdD3199971d8",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xa10d8a7caE8Dae8019Daa64095f309716264EbcA",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xA648904b6e812E2d847B87878a9a3f1d74e5AF50",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x04aE3226C80E8C04D35E6e56089345BdD06DA6DE",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xC9D7CC5D224119C6A563a2Aa2c5a49ebC97444D7",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xdC9524a8774DC2956Bdb8b55Fdf91938757F3185",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xca0bc229e2216A6ba6eF0278351ed6aa2303Ddf6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x620E59769085F69d2712a53Aa0436821218e1068",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x85a8df6564517CD0a8501587dB0Cc74850F191d6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x98f5b0A99f258a09403D965647Ee9D53677914AF",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x4986e9017eA60e7AfCd10D844F85c80912C3863c",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 11,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/5d5e940d-4a5d-4dc5-b82e-46fce86b9e31?context=search-address&a=0xca0bc229e2216A6ba6eF0278351ed6aa2303Ddf6&chain=",
+          "report_id": "5d5e940d-4a5d-4dc5-b82e-46fce86b9e31",
+          "source_url": "https://www.chainabuse.com/address/0xca0bc229e2216A6ba6eF0278351ed6aa2303Ddf6",
+          "scraped_at": "2026-02-13T13:31:57.523773"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 11,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xcc04bb606F420bC72849C233C53635A36a56EA7b",
+      "reports": [
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "I shared my metamask seed phrase on an untrustworthy platform. The thief transferred funds from my uniswap account to metamask and then all the funds out. \n\nThis is my ether address: https://etherscan.io/address/0xcc04bb606f420bc72849c233c53635a36a56ea7b\nThis is the thiefs: https://etherscan.io/address/0xd10d95bbaa10ffa4064d43d04182625e36d3a527\n\nThe amount stolen was $2848 at the time\n\nI'm a South African living in South Africa",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Aug 3, 2022",
+          "vote_count": 2,
+          "loss_amount": "2848 ETH/USDC",
+          "addresses": [
+            {
+              "address": "0xcc04bb606F420bC72849C233C53635A36a56EA7b",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/895d55a5-d563-4681-897a-51d88c5ae3aa?context=search-address&a=0xcc04bb606F420bC72849C233C53635A36a56EA7b&chain=",
+          "report_id": "895d55a5-d563-4681-897a-51d88c5ae3aa",
+          "source_url": "https://www.chainabuse.com/address/0xcc04bb606F420bC72849C233C53635A36a56EA7b",
+          "scraped_at": "2026-02-13T13:32:05.565687"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 1,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xca82569e4f93d1528f16d4727f7d2e0e61f94108",
+      "reports": [
+        {
+          "category": "Blackmail Scams: Report and Learn on Chainabuse",
+          "description": "Animoon $6.3m NFT Rug January 2022 - Art infringes on IP of Pokemon, Supreme, and Air Jordan. Team made claims to have agreements with Pokemon and Bandai Namco. Made unrealistic promises such as $2500 a month for life for 15 holders of the rarest NFTs. Another 250 holders were supposed to receive hypbeast merch every two months. Other giveaways and P2E were promised as well. Nothing has been delivered yet as of June 2022. Team doesn't have a Twitter or working Website and closed the general chat in the Discord.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jun 5, 2022",
+          "vote_count": 5,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xca82569e4f93d1528f16d4727f7d2e0e61f94108",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x81d3ec77438b4e99aa99ba25b1dbc3fea317fe3b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x7c60e48234ffc524993421885a1e8efcb4feb6eb",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x988a3e9834f1a4977e6f727e18ea167089349ba2",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x6ead8f8c4d5c95dc04f0d47423d7cc03626f7d10",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x120f1344e5d7c527643c0826e9e8ee2a8728197b",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x2098145e7d5572828209f89fb972568b765605c7",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 7,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/93477c24-1aa9-4c11-9c0e-4fd1e9b06369?context=search-address&a=0xca82569e4f93d1528f16d4727f7d2e0e61f94108&chain=",
+          "report_id": "93477c24-1aa9-4c11-9c0e-4fd1e9b06369",
+          "source_url": "https://www.chainabuse.com/address/0xca82569e4f93d1528f16d4727f7d2e0e61f94108",
+          "scraped_at": "2026-02-13T13:32:13.577435"
+        }
+      ],
+      "total_reports": 1,
+      "total_addresses": 7,
+      "total_domains": 0
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+      "reports": [
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing domain!",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Feb 24, 2023",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "bluri.co"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/66b1a742-2fd7-4703-b957-db71917641c2?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "66b1a742-2fd7-4703-b957-db71917641c2",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:03.416831"
+        },
+        {
+          "category": "Impersonation Scams: Protect Yourself on Chainabuse",
+          "description": "Gitcoin's Discord server was compromised. Attacker shared a wallet drainer.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Feb 20, 2023",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x69420e2b4EF22d935A4e2c194Bbf3A2F02F27BE1",
+              "blockchain": "Ethereum",
+              "tag": "approval operator"
+            },
+            {
+              "address": "0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+              "blockchain": "Ethereum",
+              "tag": "malicious contract"
+            },
+            {
+              "address": "0xD361e29C48841C40506FC6E6211f68a203Ec1Ef1",
+              "blockchain": "Ethereum",
+              "tag": "mal. contract deployer"
+            }
+          ],
+          "domains": [
+            "gitcoingrants.org"
+          ],
+          "total_addresses": 3,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/2d69ab76-d8e9-44fa-a212-3714cfc89f45?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "2d69ab76-d8e9-44fa-a212-3714cfc89f45",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:07.015080"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "$1.24m USDC phished from 0xc53 using Monkey Drainer",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Feb 8, 2023",
+          "vote_count": 1,
+          "loss_amount": "1244000.00 USD",
+          "addresses": [
+            {
+              "address": "0x69420e2b4ef22d935a4e2c194bbf3a2f02f27be1",
+              "blockchain": "Ethereum",
+              "tag": "Fake_Phishing8210"
+            },
+            {
+              "address": "0x9cDCE76C8d7962741B9f42BceA47b723c593EffF",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x925F597a88926f42020bB9Bb796Ed5cfd89d30E6",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x69e52F1B21dab8988e39cCec6279CC445484905a",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xFba858C4D3a9baeeE3CE00B5d9A353d76Ab46e1A",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x64a9d3f64c72b4074Ee107d3CeaEAE8d713EC183",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x923CdE0bE6c97D83CDF862E8D92fCdc586d3d389",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x71128e40cAdB9D8D919760A52FcAE48Cb9e4A50e",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x188c1A5Ae05296Ecc701C948CB5979B641c7A544",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x000008c04dED555401C0f7eBD626B597BD398e4c",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xD4A590D898ee212F4d6B782522ACA030ACF928F5",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0x84527B5949D479c879b8Dd71cd8f79048CdF6fB8",
+              "blockchain": "Ethereum",
+              "tag": "*federalagent.eth"
+            },
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": "Fake_Phishing6102"
+            }
+          ],
+          "domains": [],
+          "total_addresses": 13,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/8baaea47-b054-478b-9909-adc0fc701336?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "8baaea47-b054-478b-9909-adc0fc701336",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:10.619421"
+        },
+        {
+          "category": "Airdrop Scams: Report and Learn on Chainabuse",
+          "description": "Fake NFT Minting Scam / Wallet drainer using the @Monkey drainer script. Address funded through TornadoCash on 1-15-23. @Rafsby reports that the main @akidcalledbeast Twitter account is allegedly compromised and is spamming followers. Since January 17, 2023, the drainer address has SAFA'd over 254 EOAs.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jan 21, 2023",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x69420e2b4ef22d935a4e2c194bbf3a2f02f27be1",
+              "blockchain": "Ethereum",
+              "tag": "Drainer"
+            },
+            {
+              "address": "0x567d1775308f920908CA2dE61b7667F5cD636558",
+              "blockchain": "Ethereum",
+              "tag": "Receiver"
+            },
+            {
+              "address": "0x8a6b91dfeb352511fc3eee3c24ba4b88af1bc526",
+              "blockchain": "Ethereum",
+              "tag": "Receiver"
+            },
+            {
+              "address": "0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+              "blockchain": "Ethereum",
+              "tag": "Transfer Contract"
+            }
+          ],
+          "domains": [
+            "kidcalledbeast.club",
+            "mintakidcalledbeast.com"
+          ],
+          "total_addresses": 4,
+          "total_domains": 2,
+          "report_url": "https://chainabuse.com/report/9a1ad484-82bc-4281-9561-f21cc879e482?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "9a1ad484-82bc-4281-9561-f21cc879e482",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:14.221451"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Malicious Contract or Contract Deployer identified by function signature 0x5fba79f5. Clone of \"SecurityUpdates\" contract 0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E which is responsible for over 1.5 million USD ($1,401,629.43) worth of ETH at the time of reporting. Report by @BlockMageSec, with help from @Alchemyst0x.",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Jan 4, 2023",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [],
+          "total_addresses": 1,
+          "total_domains": 0,
+          "report_url": "https://chainabuse.com/report/319006b3-9e5a-4d4e-a1f8-c86158188bf2?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "319006b3-9e5a-4d4e-a1f8-c86158188bf2",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:17.826690"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: Transfer ETH, Malicious Site Feature",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 18, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "www.acrossnetwork.net"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/c7b8a6d0-7cbe-4c2e-bcb8-e17dd9ac36a3?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "c7b8a6d0-7cbe-4c2e-bcb8-e17dd9ac36a3",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:21.412112"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: Transfer ETH, Malicious Site Feature",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 18, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "acrossnetwork.net"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/a2807b19-91b5-426a-b2e7-5914c10a2d95?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "a2807b19-91b5-426a-b2e7-5914c10a2d95",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:24.999568"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: Transfer ETH, Malicious Site Feature",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 18, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "optimism-labs.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/a7df30d7-f422-4432-a21b-c66f80a836a3?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "a7df30d7-f422-4432-a21b-c66f80a836a3",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:28.600164"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating ValhallaOfficial site:http://joinvalhalla.comTwitter:valhallavia: Newly Registered Domains Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 18, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "joinvalhalla.world"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/0ec80d77-7d8b-4b5b-95c8-c2f26e912d3f?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "0ec80d77-7d8b-4b5b-95c8-c2f26e912d3f",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:32.200980"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating OptimismOfficial site:https://www.optimism.io/Twitter:optimismPBCvia:Plugin Similar Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 15, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "airdrop.optimism-labs.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/a56525c4-aab3-4383-9b10-a9de536a20b1?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "a56525c4-aab3-4383-9b10-a9de536a20b1",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:35.796584"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Impersonating ArbitrumOfficial site:https://arbitrum.io/Twitter:nullvia:Plugin Similar Scanner",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 15, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "airdrop.arbitrum-labs.net"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/25237a88-e604-428c-9867-95ed1d8a277b?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "25237a88-e604-428c-9867-95ed1d8a277b",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:39.396127"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing website!",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 15, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0x0000098a312e1244f313f83cac319603a97f4582",
+              "blockchain": "Ethereum",
+              "tag": null
+            },
+            {
+              "address": "0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "airdrop.optimism-labs.com"
+          ],
+          "total_addresses": 2,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/0fb43b5e-51ba-4da0-820c-7463af9e98ec?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "0fb43b5e-51ba-4da0-820c-7463af9e98ec",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:42.994510"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing website!",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 14, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "chromies.live"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/65d24e64-15ee-46e1-9032-7177ded2f897?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "65d24e64-15ee-46e1-9032-7177ded2f897",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:46.571733"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: Transfer ETH, Malicious Site Feature",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 12, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "boredapefifa.com"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/5e2f89c2-cdfc-4e42-a049-e204df7038fe?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "5e2f89c2-cdfc-4e42-a049-e204df7038fe",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:50.165363"
+        },
+        {
+          "category": "Phishing Scams: Stay Protected on Chainabuse",
+          "description": "Phishing Website, Malicious behavior: Transfer ETH, Malicious Site Feature",
+          "submitted_by": "Anonymous",
+          "submitted_time": "on Dec 12, 2022",
+          "vote_count": 1,
+          "loss_amount": null,
+          "addresses": [
+            {
+              "address": "0xd13b093eafa3878de27183388fea7d0d2b0abf9e",
+              "blockchain": "Ethereum",
+              "tag": null
+            }
+          ],
+          "domains": [
+            "labs-killabeard.xyz"
+          ],
+          "total_addresses": 1,
+          "total_domains": 1,
+          "report_url": "https://chainabuse.com/report/8fe2249b-9834-4e07-8c52-73d9fb70eeac?context=search-address&a=0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E&chain=",
+          "report_id": "8fe2249b-9834-4e07-8c52-73d9fb70eeac",
+          "source_url": "https://www.chainabuse.com/address/0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E",
+          "scraped_at": "2026-02-13T13:32:53.757143"
+        }
+      ],
+      "total_reports": 15,
+      "total_addresses": 33,
+      "total_domains": 14
+    }
+  ],
+  "empty_urls": [
+    {
+      "url": "https://www.chainabuse.com/address/0xcd20335572e485b7222ace2075e46f3236a0aa8d",
+      "note": "No reports found"
+    },
+    {
+      "url": "https://www.chainabuse.com/address/0xca23efd643660d5502c9096464e465d9c06ff56c",
+      "note": "No reports found"
+    }
+  ],
+  "failed_urls": []
+}
