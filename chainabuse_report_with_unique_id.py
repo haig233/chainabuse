@@ -16,7 +16,7 @@ import os
 import subprocess
 
 # Configuration
-output_dir = 'chainabuse_data-ETH-First-10-Page-11-Feb-26/'
+output_dir = 'chainabuse_data-sitemap-0-with-unique-id-v1/'
 os.makedirs(output_dir, exist_ok=True)
 print(f"✅ Output directory: {output_dir}")
 
@@ -608,12 +608,12 @@ async def scrape_all_github(all_urls, batch_size=50, max_concurrent=3, checkpoin
 
 async def main():
     # Read URLs from CSV (or use test URLs)
-    # df = pd.read_csv('sitemap-1.csv')
-    # urls_list = df['loc'].tolist()
-    # urls_list = [url for url in urls_list if '/address/' in url]
+    df = pd.read_csv('sitemap-0.csv')
+    urls_list = df['loc'].tolist()
+    urls_list = [url for url in urls_list if '/address/' in url]
     
-    # Test URLs
-    urls_list = urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(0, 10)]
+    # # Test URLs
+    # urls_list = urls_list = [f'https://chainabuse.com/chain/ETH?page={i}' for i in range(0, 10)]
     
     print(f"📋 Total URLs: {len(urls_list)}")
     
