@@ -13,7 +13,7 @@ on:
         default: ''
   schedule:
     # Run every 6 hours (adjust as needed)
-    - cron: '0 */6 * * *'
+    #- cron: '0 */6 * * *'
 
 jobs:
   scrape:
